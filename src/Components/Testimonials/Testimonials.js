@@ -37,11 +37,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_1} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
+                                <h3>Maria</h3>
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>I was always apprehensive about my vocabulary. I tried other apps, but the Words to Impress App made it easy. I could create my own lists and masters those one at a time. Now I use the app every day. I love the Word of the Day feature.</p>
                     </div>
                 </li>
                 <li>
@@ -49,11 +49,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_2} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Josh</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>I wanted to increase my vocabulary. My high school English teacher always said a strong vocabulary helps in two ways. It makes you a better communicator, and also helps you read faster, knowing the defitions of lots of words. The app is easy to use and has fun games and quizzes.</p>
                     </div>
                 </li>
                 <li>
@@ -61,11 +61,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_3} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Jennifer</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>I was interested in the Build My List tool. I pasted in text from my writing and it generated a list for me of words I already used, that make me sound smarter.</p>
                     </div>
                 </li>
                 <li>
@@ -73,11 +73,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_4} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Marcus</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Love the games. Addicted to Anagram Fun and Fast Match. I didn't want to take the time to create my own lists, so I used the pre-built list of words. Easy peasy!</p>
                     </div>
                 </li>
             </ul>

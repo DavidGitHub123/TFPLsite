@@ -6,9 +6,9 @@ export default function Hero () {
   return (
     <div className='hero container'>
       <div className='hero-text'>
-        <h1>We Ensure Better Education for a Better World</h1>
-        <p>Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excelin the dynamic field of education.</p>
-        <button className='btn'>Explore More <img src={dark_arrow} alt='' /></button>
+        <h1 className='build'>Build Your Vocabulary Prowess</h1>
+        <p>Increase your powers of persuasion and comprehension with the Words to Impress App.</p>
+        {/* <button className='btn'>Explore More <img src={dark_arrow} alt='' /></button> */}
       </div>
     </div>
   )

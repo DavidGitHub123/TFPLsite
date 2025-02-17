@@ -1,21 +1,17 @@
 import React from 'react'
 import './About.css';
-import about_img from '../../Assets/Img/about.png'
-import play_icon from '../../Assets/Img/play-icon.png'
+import header2 from '../../Assets/Img/header_2.jpg'
 
 export default function About ({setPlayState}) {
   return (
     <div className='about'>
         <div className='about-left'>
-            <img src={about_img} alt='' className='about-img'/>
-            <img src={play_icon} alt='' className='play-icon' onClick={ () => {setPlayState(true)} }/>
+            <img src={header2} alt='' className='about-img'/>
         </div>
         <div className='about-right'>
-            <h3>ABOUT UNIVERSITY</h3>
-            <h2>Nurturing Tomorrow's Leaders Today</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <h3>ABOUT THE WORDS TO IMPRESS APP</h3>
+            <h2>Master the most impressive words as identified by the author of the best-selling Words You Should Know series of books.</h2>
+            <p>Your language defines you, whether a professional, student studying for the SATs, or learning English as a second language. The Words to Impress App quickly and efficiently helps you develop an impressive vocabulary. Begin by taking a test of 25 random vocabulary words to test your word knowledge. Then judging by your score, get to work learning with innovative features!</p>
         </div>
     </div>
   )
