@@ -1,9 +1,14 @@
 import React from "react";
 import "./Contact.css";
+<<<<<<< HEAD
 import '../../index.css'
 import msg_icon from "../../Assets/Img/msg-icon.png";
 import white_arrow from "../../Assets/Img/white-arrow.png";
 import { Link } from "react-router";
+=======
+import msg_icon from "../../Assets/Img/msg-icon.png";
+import white_arrow from "../../Assets/Img/white-arrow.png";
+>>>>>>> 1e1cf043efc118e27bc0a0388f9529b0b4bd77ac
 
 export default function Contact() {
   const [result, setResult] = React.useState("");
@@ -33,16 +38,23 @@ export default function Contact() {
 
   return (
     <div className="contact">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e1cf043efc118e27bc0a0388f9529b0b4bd77ac
       <div className="contact-col">
         <h3>
           Send a Message <img src={msg_icon} alt="" />
         </h3>
         <p>Reach out through the contact form to send a message.</p>
+<<<<<<< HEAD
         <Link className='btn' to="/">Back</Link>
       </div>
 
 
+=======
+      </div>
+>>>>>>> 1e1cf043efc118e27bc0a0388f9529b0b4bd77ac
       <div className="contact-col">
         <form onSubmit={onSubmit}>
           <label>Your Name</label>
