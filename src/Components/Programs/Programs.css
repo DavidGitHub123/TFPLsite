@@ -1,22 +1,19 @@
 .programs {
     margin: 20px auto;
-    width: 90%;
+    width: 80%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .program img {
-    /* width: 100%; */
-    width: 300px;
-    height: 400px;
+    width: 100%;
     border-radius: 20px;
     display: block;
     padding: 10px;
 }
 
 .program {
-    flex-basis: 31%;
     position: relative;
 }
 
@@ -38,7 +35,7 @@
     right: 0;
     background: rgba(0, 15, 152, 0.3);
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
     flex-direction: column;
     color:#fff;
@@ -58,6 +55,10 @@
 .program:hover .caption {
     opacity: 1;
     padding-top: 0;
+}
+
+.margin-part {
+    margin-bottom: 24px;
 }
 
 /* Media Query */

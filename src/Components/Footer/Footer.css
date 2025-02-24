@@ -1,8 +1,9 @@
 .footer {
-    margin: 10px auto;
-    display: flex;
+    text-align: center;
+    margin-top: 100px;
+    /* display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; */
     border-top: 1px solid #797979;
     padding: 15px 0;
 }

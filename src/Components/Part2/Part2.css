@@ -1,0 +1,18 @@
+.part2-hero {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.5), rgba(8,0,58,0.5)), url('../../Assets/Img/header_4.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.part-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+

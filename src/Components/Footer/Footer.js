@@ -1,12 +1,10 @@
-import React from 'react'
-import './Footer.css'
-import { Link } from 'react-router-dom';
+import React from "react";
+import "./Footer.css";
 
-export default function Footer () {
+export default function Footer() {
   return (
-    <div className='footer'>
-        <p>All rights reserved.</p>
-        <Link to="/Privacypolicy">Privacy Policy</Link>
+    <div className="footer">
+      <p>All rights reserved.</p>
     </div>
-  )
+  );
 }
