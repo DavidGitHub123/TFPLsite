@@ -6,6 +6,7 @@ import {
   FootnoteRef,
   Footnotes,
 } from "react-a11y-footnotes";
+import { Tooltip } from "react-tooltip";
 
 const Chap1 = () => {
   return (
@@ -18,14 +19,18 @@ const Chap1 = () => {
         {/* <FootnoteRef id="1" description='footnote appears here'></FootnoteRef> */}
 
         <div className="paragraph">
+          <Tooltip id="example" />
           <p>
             Throughout the 1830s and 1840s, Joseph Smith built an exciting
             vision of the last days in his small group of followers, which
-            reached 26,000 by his death in 1844.{" "}
-            <FootnoteRef id="1">
+            reached 26,000 by his death in 1844.
+            <span
+              data-tooltip-content="Some footnote!"
+              data-tooltip-id="example"
+            >
               By his death in 1844, Joseph had amassed a following of 26,000
               people. 2013 Church Almanac, December 12, 2012.'
-            </FootnoteRef>
+            </span>
             . He convinced his early converts to Mormonism that he was a prophet
             speaking for God. To them, he was just as much a prophet as Moses,
             Elijah, Isaiah, etc. To the early Mormons, Joseph was an oracle of
