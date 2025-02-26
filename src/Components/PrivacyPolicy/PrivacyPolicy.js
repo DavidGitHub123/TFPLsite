@@ -1,5 +1,4 @@
 import React from "react";
-<<<<<<< HEAD
 import './PrivacyPolicy.css'
 
 export default function PrivacyPolicy() {
@@ -43,15 +42,6 @@ export default function PrivacyPolicy() {
       <p>We may update this Privacy Policy from time to time. Any changes will be reflected in this policy, and the "Effective Date" at the top of this page will be updated. We recommend that you review this Privacy Policy periodically to stay informed about how we are protecting your information.</p>
       <h2 className="section">9. Contact Us</h2>
       <p>If you have any questions about this Privacy Policy or how we handle your personal information, please email us at: Thewordstoimpress@gmail.com.</p>
-=======
-import { Link } from "react-router";
-
-export default function PrivacyPolicy() {
-  return (
-    <div>
-      <p>some text</p>
-      <Link to="/">Back</Link>
->>>>>>> 1e1cf043efc118e27bc0a0388f9529b0b4bd77ac
     </div>
   );
 }

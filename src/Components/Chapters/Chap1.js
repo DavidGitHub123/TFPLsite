@@ -8,7 +8,7 @@ const Chap1 = () => {
   return (
   <FootnotesProvider>
    <div className="container">
-        <h1 className='chapterHeading'>Chapter 1: X</h1>
+        <h1 className='chapterHeading'>Chapter 1: The Religious Genius and Mastermind</h1>
 
         {/* <FootnoteRef id="1" description='footnote appears here'></FootnoteRef> */}
 
