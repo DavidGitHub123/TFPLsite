@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router";
 import Home from "./Home";
-import PrivacyPolicy from "./Components/Privacypolicy/PrivacyPolicy";
+// import PrivacyPolicy from "./Components/Privacypolicy/PrivacyPolicy";
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
@@ -39,34 +39,33 @@ import Chap29 from "./Components/Chapters/Chap29";
 import Chap30 from "./Components/Chapters/Chap30";
 import Chap31 from "./Components/Chapters/Chap31";
 
-
 export default function App() {
   return (
     <Routes>
       <Route index element={<Home />} />
-      <Route path="PrivacyPolicy" element={<PrivacyPolicy />} />
+      {/*<Route path="PrivacyPolicy" element={<PrivacyPolicy />} />*/}
 
       <Route index element={<About />} />
-      <Route path="Intro" element={<Intro/>} />
+      <Route path="Intro" element={<Intro />} />
       <Route index element={<Home />} />
-      <Route path="Contact" element={<Contact/>} />
+      <Route path="Contact" element={<Contact />} />
 
       <Route index element={<Home />} />
       <Route path="Chap1" element={<Chap1 />} />
 
-      <Route index element={<Home  />} />
+      <Route index element={<Home />} />
       <Route path="Chap2" element={<Chap2 />} />
 
-      <Route index element={<Programs  />} />
+      <Route index element={<Programs />} />
       <Route path="Chap2" element={<Chap2 />} />
 
-      <Route index element={<Home  />} />
+      <Route index element={<Home />} />
       <Route path="Chap3" element={<Chap3 />} />
 
-      <Route index element={<Home  />} />
+      <Route index element={<Home />} />
       <Route path="Chap4" element={<Chap4 />} />
 
-      <Route index element={<Home  />} />
+      <Route index element={<Home />} />
       <Route path="Chap5" element={<Chap5 />} />
 
       <Route index element={<Home />} />
@@ -130,10 +129,6 @@ export default function App() {
       <Route index element={<Home />} />
 
       <Route index element={<Home />} />
-      <Route path="PrivacyPolicy" element={<PrivacyPolicy />} />
-
-
     </Routes>
   );
 }
-
