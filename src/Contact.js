@@ -31,12 +31,14 @@ export default function Contact() {
 
   return (
     <div className="contact">
+      
       <div className="contact-col">
-        <h3>
+        <h2>
           Send a Message <img src={msg_icon} alt="" />
-        </h3>
+        </h2>
         <p>Reach out through the contact form to send a message.</p>
       </div>
+
       <div className="contact-col">
         <form onSubmit={onSubmit}>
           <label>Your Name</label>

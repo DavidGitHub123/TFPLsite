@@ -1,13 +1,26 @@
 import React from "react";
 import "../../index.css";
 import { Link } from "react-router";
+import { Tooltip } from "react-tooltip";
+import platte from '../../Assets/Img/platte.jpg'
 
 const Chap4 = () => {
   return (
-    <div className="container">
+    <div className="chapter-container">
+
+      <div className="chapterFooter">
+        <Link to="/Chap3">Previous Chapter</Link>
+        <Link to="/">Home</Link>
+        <Link to="/Chap5">Next Chapter</Link>
+      </div>
+
       <h1 className="chapterHeading">
         Chapter 4: Source of Joseph’s Ideas on Zion
       </h1>
+
+      <img src={platte} className='image' alt='' />
+
+    <div className="wrapper">
 
       <div className="paragraph">
         <p>
@@ -32,10 +45,21 @@ const Chap4 = () => {
           there we sat down, yea, we wept, when we remembered Zion. We hanged
           our harps upon the willows in the midst thereof. For there they that
           carried us away captive required of us a song; and they that wasted us
-          required of us mirth, saying, Sing us one of the songs of Zion.” Psalm
-          147 addresses the faithful. “The Lord doth build up Jerusalem: he
-          gathereth together the outcast of Israel.” “Praise the Lord, O
-          Jerusalem; praise thy God, O Zion.” Babylonian captivity lasted around
+          required of us mirth, saying, Sing us one of the songs of Zion.” 
+          <a id="clickable1" className="footnote">1  </a>
+          <Tooltip anchorSelect="#clickable1" className="footnote-size"  clickable>D&C 105:2-4.</Tooltip>
+          
+          Psalm 147 addresses the faithful. “The Lord doth build up Jerusalem: he
+          gathereth together the outcast of Israel.” 
+          <a id="clickable2" className="footnote">2  </a>
+          <Tooltip anchorSelect="#clickable2" className="footnote-size"  clickable>Psalm 147:2.</Tooltip>
+          
+          “Praise the Lord, O
+          Jerusalem; praise thy God, O Zion.” 
+          <a id="clickable3" className="footnote">3  </a>
+          <Tooltip anchorSelect="#clickable3" className="footnote-size"  clickable>Psalm 147:12.</Tooltip>
+          
+          Babylonian captivity lasted around
           60 years, after which groups of Jews returned to Jerusalem, their
           Zion.
         </p>
@@ -44,13 +68,29 @@ const Chap4 = () => {
       <div className="paragraph">
         <p>
           Zion also has theological meanings. In Psalms, Zion is mentioned as a
-          place of God’s presence and glory. Isaiah refers to Zion to symbolize
-          the suffering and redemption of Jews and Jerusalem. Jeremiah depicted
-          Zion as a place of lament but also of future hope. Psalm 48 is a song
+          place of God’s presence and glory.
+          <a id="clickable4" className="footnote">4  </a>
+          <Tooltip anchorSelect="#clickable4" className="footnote-size"  clickable>Psalm 2:6, 9:11, 14:7.</Tooltip>
+          
+           Isaiah refers to Zion to symbolize
+          the suffering and redemption of Jews and Jerusalem. 
+          <a id="clickable5" className="footnote">5  </a>
+          <Tooltip anchorSelect="#clickable5" className="footnote-size"  clickable>Isaiah 1:27, 2:3, 52:1-2.</Tooltip>
+          
+          Jeremiah depicted
+          Zion as a place of lament but also of future hope. 
+          <a id="clickable6" className="footnote">6  </a>
+          <Tooltip anchorSelect="#clickable6" className="footnote-size"  clickable>Jeremiah 3:14, 31:6.</Tooltip>
+          
+          Psalm 48 is a song
           of Zion. It refers to Jerusalem as the city of God, the dwelling place
           of God and a source of inspiration for the world. “Beautiful in its
           loftiness, the joy of the whole earth, like the heights of Zaphon is
-          Mount Zion, the city of the Great King.” “The heights of Zaphon”
+          Mount Zion, the city of the Great King.” 
+          <a id="clickable7" className="footnote">7  </a>
+          <Tooltip anchorSelect="#clickable7" className="footnote-size"  clickable>Psalm 48:2.</Tooltip>
+          
+          “The heights of Zaphon”
           refers to a mythical mountain that symbolized divine presence.
         </p>
       </div>
@@ -60,11 +100,25 @@ const Chap4 = () => {
           Mount Zion is also a place of divine rule when God’s kingdom is fully
           realized. “For the Lord has chosen Zion, he has desired it for his
           dwelling, saying, ‘This is my resting place for ever and ever; here I
-          will sit enthroned, for I have desired it.’” “Here am I, and the
+          will sit enthroned, for I have desired it.’” 
+          <a id="clickable8" className="footnote">8  </a>
+          <Tooltip anchorSelect="#clickable8" className="footnote-size"  clickable>Psalm 132:13-14.</Tooltip>
+          
+          “Here am I, and the
           children the Lord has given me. We are signs and symbols in Israel
-          from the Lord Almighty, who dwells on Mount Zion.” “The law will go
-          out from Zion, the word of the Lord from Jerusalem.” “The Lord will
+          from the Lord Almighty, who dwells on Mount Zion.” 
+          <a id="clickable9" className="footnote">9  </a>
+          <Tooltip anchorSelect="#clickable9" className="footnote-size"  clickable>Isaiah 8:18.</Tooltip>
+          
+          “The law will go
+          out from Zion, the word of the Lord from Jerusalem.” 
+          <a id="clickable10" className="footnote">10  </a>
+          <Tooltip anchorSelect="#clickable10" className="footnote-size"  clickable>Isaiah 2:2-3.</Tooltip>
+          
+          “The Lord will
           rule over them in Mount Zion from that day and forever.”
+          <a id="clickable11" className="footnote">11  </a>
+          <Tooltip anchorSelect="#clickable11" className="footnote-size"  clickable>Micah 4:7</Tooltip>
         </p>
       </div>
 
@@ -75,7 +129,7 @@ const Chap4 = () => {
         </p>
       </div>
 
-      <h3>Origin of Joseph’s Idea of Zion, the New Jerusalem</h3>
+      <h2 className="headlinePadding" >Origin of Joseph’s Idea of Zion, the New Jerusalem</h2>
 
       <div className="paragraph">
         <p>
@@ -84,12 +138,18 @@ const Chap4 = () => {
           saw the Holy city, New Jerusalem, coming down from God out of heaven,
           prepared as a bride adorned for her husband. And I heard a great voice
           out of heaven saying, Behold, the tabernacle of God is with men, and
-          he will dwell with them.” This sounds much like the Book of Mormon’s
+          he will dwell with them.” 
+          <a id="clickable12" className="footnote">12  </a>
+          <Tooltip anchorSelect="#clickable12" className="footnote-size"  clickable>Revelation 21:2-3.</Tooltip>
+          
+          This sounds much like the Book of Mormon’s
           description of Christ in the Americas. “And behold, this people
           (future Lamanites) will I establish in this land (America), unto the
           fulfilling of the covenant which I made with your father Jacob; and it
           shall be a New Jerusalem. And the powers of heaven shall be in the
           midst of this people; yea, even I will be in the midst of you.”
+          <a id="clickable13" className="footnote">13  </a>
+          <Tooltip anchorSelect="#clickable13" className="footnote-size"  clickable>3 Nephi 20:21–22.</Tooltip>
         </p>
       </div>
 
@@ -104,6 +164,8 @@ const Chap4 = () => {
           themselves as a chosen people, commissioned by God to build a New
           Jerusalem, or a City of Zion, in America – an exemplary community that
           all could observe and emulate.”
+          <a id="clickable14" className="footnote">14  </a>
+          <Tooltip anchorSelect="#clickable14" className="footnote-size"  clickable>James B. Allen and Glen M. Leonard, The Story of the Latter-day Saints, 1976, p. 9.</Tooltip>
         </p>
       </div>
 
@@ -113,16 +175,23 @@ const Chap4 = () => {
           century by Samuel Sewall when he asked, “… why the Heart of America
           may not be the seat of the New Jerusalem?” Puritan clergyman Cotton
           Mather stated that the New Jerusalem would be westward, beyond the
-          confines of New England. While some looked for a New Jerusalem in the
+          confines of New England. 
+          <a id="clickable15" className="footnote">15  </a>
+          <Tooltip anchorSelect="#clickable15" className="footnote-size"  clickable>Alan Heimert, “Puritanism, the Wilderness, and the Frontier,” The New England Quarterly 26 (September 1953) 380-81. See also Gustav H. Blanke with Karen Lynn, “God’s Base of Operations: Mormon Variations on the American Sense of Mission,” Brigham Young University Studies 20 (Fall 1979):83-92.</Tooltip>
+          
+          While some looked for a New Jerusalem in the
           state of New York, others spiritualized the idea and spoke of Zion in
           the revivals of the 1820s. Such expressions as “growing zeal for the
           prosperity of Zion,” and “enquiring the way to Zion” and “wishes well
           to the cause of Zion” were expressions of the revival movement and
           referred to the building up of churches.
+          <a id="clickable16" className="footnote">16  </a>
+          <Tooltip anchorSelect="#clickable16" className="footnote-size"  clickable>Rev. George Lane, “Revival of Religion on Ontario District,” The Methodist Magazine (New York) 8 (April 1825):161, letter dated 25 January 1825; The Christian Herald (Portsmouth) 8 (March 1825):7 and Wayne Sentinel (Palmyra, NY) 2 (2 March 1825):4. 
+            The minutes of the Geneva Presbytery states: “In the congregation of Palmyra [NY], the Lord has appeared in his glory to build up Zion.” (Geneva Presbytery Minutes, Presbyterian Historical Society, Philadelphia, D:27. For an extract of this record see Dialogue: A Journal of Mormon Thought 4 (Spring 1969):65.</Tooltip>
         </p>
       </div>
 
-      <h3>God’s Directive to the Mormons</h3>
+      <h2 className="headlinePadding" >God’s Directive to the Mormons</h2>
 
       <div className="paragraph">
         <p>
@@ -146,6 +215,8 @@ const Chap4 = () => {
           are testimonies that the Good Shepherd will put forth [to] His own
           sheep and lead them out from all nations where they have been
           scattered in a cloudy and dark day, to Zion, and to Jerusalem.”
+          <a id="clickable17" className="footnote">17  </a>
+          <Tooltip anchorSelect="#clickable17" className="footnote-size"  clickable>History of the Church, 1:315; from a letter from Joseph Smith to N.C. Saxton, Jan. 4,1833.</Tooltip>
         </p>
       </div>
 
@@ -203,6 +274,8 @@ const Chap4 = () => {
           it should be built up again, a holy city unto the Lord, wherefore it
           could not be a New Jerusalem, for it had been in a time of old.’
           (Ether 13:4–5.)”
+          <a id="clickable18" className="footnote">18  </a>
+          <Tooltip anchorSelect="#clickable18" className="footnote-size"  clickable>History of the Church, 2:260-2, letter from Joseph Smith to Elders of the Church Nov. 1835; Published in the Messenger & advocate Nov. 1835, p. 209-210.</Tooltip>
         </p>
       </div>
 
@@ -219,6 +292,8 @@ const Chap4 = () => {
           our consideration for the good of His people, the calculations of men
           and the vain glory of the world vanish, and we exclaim, ‘Out of Zion
           the perfection of beauty, God hath shined.’ (Psalm 50:2.)”
+          <a id="clickable19" className="footnote">19  </a>
+          <Tooltip anchorSelect="#clickable19" className="footnote-size"  clickable>History of the Church, 1:198, Book A1, p. 139.</Tooltip>
         </p>
       </div>
 
@@ -227,12 +302,22 @@ const Chap4 = () => {
           Joseph put his ideas more succinctly in his Tenth Article of faith,
           “We believe in the literal gathering of Israel and in the restoration
           of the Ten Tribes; that Zion (the New Jerusalem) will be built upon
-          the American continent.” Joseph revealed this about the future Zion,
+          the American continent.” 
+          <a id="clickable20" className="footnote">20  </a>
+          <Tooltip anchorSelect="#clickable20" className="footnote-size"  clickable>Articles of Faith 1:10.</Tooltip>
+          
+          Joseph revealed this about the future Zion,
           “Ye are come unto Mount Zion, and unto the city of the living God, the
           heavenly Jerusalem, and to an innumerable company of angels, to the
-          general assembly and Church of the Firstborn.” Joseph revealed of the
+          general assembly and Church of the Firstborn.” 
+          <a id="clickable21" className="footnote">21  </a>
+          <Tooltip anchorSelect="#clickable21" className="footnote-size"  clickable>Joseph Smith, Teaching of the Prophet Joseph Smith, p. 320.</Tooltip>
+          
+          Joseph revealed of the
           holy city, “a cloud shall rest upon it, which cloud shall be even the
           glory of the Lord, which shall fill the house.”
+          <a id="clickable22" className="footnote">22  </a>
+          <Tooltip anchorSelect="#clickable22" className="footnote-size"  clickable>D&C 97:19.</Tooltip>
         </p>
       </div>
 
@@ -242,7 +327,11 @@ const Chap4 = () => {
           Zion, “And the Lord will create upon every dwelling place of mount
           Zion, and upon her assemblies, a cloud and smoke by day and the
           shining of a flaming fire by night; for upon all the glory of Zion
-          shall be a defence.” This “smoke by day and the shining of a flaming
+          shall be a defence.” 
+          <a id="clickable23" className="footnote">23  </a>
+          <Tooltip anchorSelect="#clickable23" className="footnote-size"  clickable>2 Nephi 14:5.</Tooltip>
+          
+          This “smoke by day and the shining of a flaming
           fire by night” resting down upon Zion in Jackson County signifies the
           glory of the Lord as Joseph claimed he witnessed in the First Vision,
           “whose brightness and glory defy all description … above the
@@ -262,7 +351,7 @@ const Chap4 = () => {
         </p>
       </div>
 
-      <h3>Zion in the Pearl of Great Price</h3>
+      <h2 className="headlinePadding" >Zion in the Pearl of Great Price</h2>
 
       <div className="paragraph">
         <p>
@@ -276,13 +365,19 @@ const Chap4 = () => {
           three hundred years, and begat sons and daughters: And all the days of
           Enoch were three hundred sixty and five years: And Enoch walked with
           God: and he was not; for God took him.”
+          <a id="clickable24" className="footnote">24  </a>
+          <Tooltip anchorSelect="#clickable24" className="footnote-size"  clickable>Genesis 5:18-24.</Tooltip>
         </p>
       </div>
 
       <div className="paragraph">
         <p>
           Joseph produced 88 verses about Enoch, which are included in the Pearl
-          of Great Price. In Joseph’s retelling, “Enoch journeyed in the land …
+          of Great Price. In Joseph’s retelling,
+          <a id="clickable25" className="footnote">25  </a>
+          <Tooltip anchorSelect="#clickable25" className="footnote-size"  clickable>Moses 6-7.</Tooltip>
+          
+           “Enoch journeyed in the land …
           and as he journeyed, the Spirit of God descended out of heaven, and
           abode upon him.” Enoch hears a voice from heaven telling the people to
           repent. God is angry because the peoples’ hearts have waxed hard. “…
@@ -359,14 +454,18 @@ const Chap4 = () => {
           and we will kiss each other; And there shall be mine abode, and it
           shall be Zion … and for the space of a thousand years the earth shall
           rest.” As in the Old Testament timeline, the events of Enoch’s life
-          predate those of Noah. These events, as described by Joseph Smith,
+          predate those of Noah. 
+          <a id="clickable26" className="footnote">26  </a>
+          <Tooltip anchorSelect="#clickable26" className="footnote-size"  clickable>According to George Laub journal, Joseph stated “The place or country where Noah’s ark was built was designated in my hearing by the Prophet Joseph Smith as being in or near South Carolina.” The Young Woman’s Journal, II, (December 1890), pp. 124-125; Hyrum L. Andrus and Helen Mae Andrus, They Knew the Prophet, 65.</Tooltip>
+          
+          These events, as described by Joseph Smith,
           occurred in the center of the United States. Therefore, the site of
           the latter-day Zion, the New Jerusalem, is believed to be the site of
           Enoch’s holy city of Zion.
         </p>
       </div>
 
-      <h3>Becoming Kings and Priests, Queens and Priestesses in Zion</h3>
+      <h2 className="headlinePadding" >Becoming Kings and Priests, Queens and Priestesses in Zion</h2>
 
       <div className="paragraph">
         <p>
@@ -406,6 +505,10 @@ const Chap4 = () => {
           possessed and brought to this earth and into the Garden of Eden.
           According to Mormon scripture, priesthood power flowed from Adam
           through his lineage, eventually down to Abraham and then to Moses.
+          <a id="clickable27" className="footnote">27  </a>
+          <Tooltip anchorSelect="#clickable27" className="footnote-size"  clickable>D&C 84:6–18.</Tooltip>
+
+
           Joseph desired to confer this priesthood power on the early Mormons.
         </p>
       </div>
@@ -428,7 +531,11 @@ const Chap4 = () => {
           sense, a Mormon was to fill themselves with principles of heavenly
           light and truth. “That which is of God is light; and he that receiveth
           light, and continueth in God, receiveth more light; and that light
-          groweth brighter and brighter until the perfect day.” Joseph
+          groweth brighter and brighter until the perfect day.” 
+          <a id="clickable28" className="footnote">28  </a>
+          <Tooltip anchorSelect="#clickable28" className="footnote-size"  clickable>D&C 50:24.</Tooltip>
+          
+          Joseph
           explained, “And the redemption of the soul is through him that
           quickeneth all things … Therefore, it (the soul) must needs be
           sanctified from all unrighteousness, that it may be prepared for the
@@ -436,6 +543,8 @@ const Chap4 = () => {
           it shall be crowned with glory … That bodies who are of the celestial
           kingdom may possess it forever and ever; for, for this intent was it
           made and created, and for this intent are they sanctified.”
+          <a id="clickable29" className="footnote">29  </a>
+          <Tooltip anchorSelect="#clickable29" className="footnote-size"  clickable>D&C 88:17-20.</Tooltip>
         </p>
       </div>
 
@@ -444,23 +553,35 @@ const Chap4 = () => {
           At a meeting of the Relief Society, Joseph promised that women could
           eventually “come in possession of the privileges, blessings, and gifts
           of the Priesthood” and would be given “the keys of the kingdom” if
-          they were virtuous and diligent. In an 1894 patriarchal blessing of
+          they were virtuous and diligent. 
+          <a id="clickable30" className="footnote">30  </a>
+          <Tooltip anchorSelect="#clickable30" className="footnote-size"  clickable>See “Journal, December 1841 – December 1842,” 94; “Nauvoo Relief Society Minute Book,” The Joseph Smith Papers, 38.</Tooltip>
+          
+          In an 1894 patriarchal blessing of
           Zina D. H. Young she was promised that she would “in connection with
           thy companion wear a Celestial crown in the highest order thereof and
           preside over thy posterity and the adopted ones throughout eternity.”
         </p>
+        <a id="clickable31" className="footnote">31  </a>
+        <Tooltip anchorSelect="#clickable31" className="footnote-size"  clickable>Daniel Tyler, Patriarchal Blessing to Zina Diantha Huntington Smith Young, September 16, 1894.</Tooltip>
       </div>
 
       <div className="paragraph">
         <p>
           In his King Follett sermon, Joseph explained that to be “joint heirs
-          with Christ” meant “to inherit the same glory power & exaltation” and
+          with Christ” 
+          <a id="clickable32" className="footnote">32  </a>
+          <Tooltip anchorSelect="#clickable32" className="footnote-size"  clickable>Romans 8:17.</Tooltip>
+          
+          meant “to inherit the same glory power & exaltation” and
           to “ascend [to] a throne as those who have gone before.” Speaking for
           Christ, Joseph stated, “… when I get my kingdom worked out, I will
           present to the father & it will exalt his glory” so that “he will take
           a higher exaltation & I will take his place and am also exalted.”
           Thus, the Father “obtains kingdom rolling upon kingdom so that Jesus
           treads in his tracks as he had gone before.”
+          <a id="clickable33" className="footnote">33  </a>
+          <Tooltip anchorSelect="#clickable33" className="footnote-size"  clickable>Ehat and Cook, Words of Joseph Smith, 341, 345, 350, 358.</Tooltip>
         </p>
       </div>
 
@@ -471,6 +592,8 @@ const Chap4 = () => {
           the next may be raised to his place or sphere and so take their
           exaltation through a regular channel. And when we get to where Jesus
           is he will be as far ahead of us in exaltation as when we started.”
+          <a id="clickable34" className="footnote">34  </a>
+          <Tooltip anchorSelect="#clickable34" className="footnote-size"  clickable>Eugene England, “George Laub’s Nauvoo Journal,” 173; see also Ehat and Cook, Words of Joseph Smith, 362</Tooltip>
         </p>
       </div>
 
@@ -482,12 +605,18 @@ const Chap4 = () => {
           you climb a ladder, you must begin at the bottom and go on until you
           learn the last principle; it will be a great while before you have
           learned the last … It is a great thing to learn salvation beyond the
-          grave.” Joseph was telling his followers that they could ascend
+          grave.” 
+          <a id="clickable35" className="footnote">35  </a>
+          <Tooltip anchorSelect="#clickable35" className="footnote-size"  clickable>Conference Minutes, 614. Compare to the James Burgess account in Ehat and Cook, The Words of Joseph Smith, 350.</Tooltip>
+          
+          Joseph was telling his followers that they could ascend
           Jacob’s Ladder and became gods. “Then shall they be gods, because they
           have no end; therefore, shall they be from everlasting to everlasting,
           because they continue; then shall they be above all, because all
           things are subject unto them. Then shall they be gods, because they
           have all power, and the angels are subject unto them.”
+          <a id="clickable36" className="footnote">36  </a>
+          <Tooltip anchorSelect="#clickable36" className="footnote-size"  clickable>“Conference Minutes,” 614. Compare to the James Burgess account in Ehat and Cook, The Words of Joseph Smith, 350</Tooltip>
         </p>
       </div>
 
@@ -515,10 +644,14 @@ const Chap4 = () => {
         </p>
       </div>
 
+      </div>
+
       <div className="chapterFooter">
         <Link to="/Chap3">Previous Chapter</Link>
+        <Link to="/">Home</Link>
         <Link to="/Chap5">Next Chapter</Link>
       </div>
+      
     </div>
   );
 };

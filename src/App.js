@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router";
 import Home from "./Home";
-// import PrivacyPolicy from "./Components/Privacypolicy/PrivacyPolicy";
+import PrivacyPolicy from "./Components/Privacypolicy/PrivacyPolicy";
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
@@ -38,15 +38,18 @@ import Chap28 from "./Components/Chapters/Chap28";
 import Chap29 from "./Components/Chapters/Chap29";
 import Chap30 from "./Components/Chapters/Chap30";
 import Chap31 from "./Components/Chapters/Chap31";
+import Chap32 from "./Components/Chapters/Chap32";
+import Chap33 from "./Components/Chapters/Chap33";
 
 export default function App() {
   return (
     <Routes>
       <Route index element={<Home />} />
-      {/*<Route path="PrivacyPolicy" element={<PrivacyPolicy />} />*/}
+      <Route path="PrivacyPolicy" element={<PrivacyPolicy />} />
 
       <Route index element={<About />} />
       <Route path="Intro" element={<Intro />} />
+      
       <Route index element={<Home />} />
       <Route path="Contact" element={<Contact />} />
 
@@ -126,6 +129,11 @@ export default function App() {
       <Route path="Chap30" element={<Chap30 />} />
       <Route index element={<Home />} />
       <Route path="Chap31" element={<Chap31 />} />
+      <Route index element={<Home />} />
+      <Route path="Chap32" element={<Chap32 />} />
+      <Route index element={<Home />} />
+      <Route path="Chap33" element={<Chap33 />} />
+
       <Route index element={<Home />} />
 
       <Route index element={<Home />} />

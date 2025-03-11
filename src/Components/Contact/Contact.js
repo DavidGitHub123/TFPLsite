@@ -33,11 +33,11 @@ export default function Contact() {
 
   return (
     <div className="contact">
-1e1cf043efc118e27bc0a0388f9529b0b4bd77ac
+{/* 1e1cf043efc118e27bc0a0388f9529b0b4bd77ac */}
       <div className="contact-col">
-        <h3>
+        <h2>
           Send a Message <img src={msg_icon} alt="" />
-        </h3>
+        </h2>
         <p>Reach out through the contact form to send a message.</p>
         <Link className='btn' to="/">Back</Link>
       </div>

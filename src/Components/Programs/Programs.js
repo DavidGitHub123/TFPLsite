@@ -1,158 +1,187 @@
 import React from 'react'
-import '../../index.css'
+// import '../../index.css'
 import './Programs.css'
-import gallery_2 from '../../Assets/Img/gallery-2.png'
+import joseph2 from '../../Assets/Img/joseph2.jpg'
+import angelsfighting from '../../Assets/Img/angelsfighting.png'
+import brigham2 from '../../Assets/Img/brigham2.jpg'
+import premortal from '../../Assets/Img/premortal.png'
+import pioneers from '../../Assets/Img/pioneers.png'
+import apostles from '../../Assets/Img/apostles.png'
 import { Link } from "react-router";
 
 
 export default function Programs () {
   return (
 
-    <div>
-    <div className='programs'>
+
+    <div className='bar'>
+        
+        <div className='container'>
 
             <div className='program'>
-            <h1 className='feature-header'>Part I: Joseph's Grand Prophetic Vision</h1>
-                <img src={gallery_2} alt='' />
-                <div className='caption'>
-                    <div className="margin-part">
-                    <Link to="Chap1"><h3>Chapter 1: The Religious Mastermind</h3></Link>
-                    </div>
-                    <div className="margin-part">
-                    <Link to="Chap2"><h3>Chapter 2: Daniel’s Stone</h3></Link>
-                    </div>
-                    <div className="margin-part">
-                    <Link to="Chap3"><h3>Chapter 3: Joseph’s Visionary Prowess</h3></Link>
-                    </div>
-                    <div className="margin-part">
-                    <Link to="Chap4"><h3>Chapter 4: Ideas on Zion</h3></Link>
-                    </div>
-                    <div className="margin-part">
-                    <Link to="Chap5"><h3>Chapter 5: The Zion Builders</h3></Link>
-                    </div>
+                <div>
+                    <h1 className='feature-header'>Part I:</h1>
+                    <h1 className='feature-header'>Joseph's Prophetic Vision</h1>
                 </div>
-            </div>
-
-            <div className='program'>
-                <h1 className='feature-header'>Part II: Joseph's End of Day Scenario</h1>
-                <img src={gallery_2} alt='' />
+                <img src={joseph2} className='caption-img'alt='' />
                 <div className='caption'>
                     <div className="margin-part">
-                    <Link to="Chap6"><h3>Chapter 6: Reveals Events</h3></Link>
+                        <Link to="Intro"><p>The First Presidency Letter</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap7"><h3>Chapter 7: First Domino to Fall</h3></Link>
+                        <Link to="Chap1"><p>1. Religious Mastermind</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap8"><h3>Chapter 8: Zion Will Be Sanctified</h3></Link>
+                        <Link to="Chap2"><p>2. Daniel’s Stone</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap9"><h3>Chapter 9: The Lost 10 Tribes</h3></Link>
+                        <Link to="Chap3"><p>3. Joseph's Visionary Prowess</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap10"><h3>Chapter 10: Zion in Jerusalem </h3></Link>
+                        <Link to="Chap4"><p>4. Ideas on Zion</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap11"><h3>Chapter 11: The Book of Revelation</h3></Link>
+                        <Link to="Chap5"><p>5. The Zion Builders</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap12"><h3>Chapter 12: Plagues of Seven Angels</h3></Link>
-                    </div>
-                    <div className="margin-part">
-                    <Link to="Chap13"><h3>Chapter 13: Second Coming to the World</h3></Link>
+                        <Link to="Chap6"><p>6. Revealed Timeline</p></Link>
                     </div>
                 </div>
             </div>
 
             <div className='program'>
-            <h1 className='feature-header'>Part III: The Family of God</h1>
-                <img src={gallery_2} alt='' />
+                <div>
+                    <h1 className='feature-header'>Part II:</h1>
+                    <h1 className='feature-header'>Joseph's End Day Scenario</h1>
+                </div>
+
+                <img src={angelsfighting} className='caption-img' alt='' />
+                <div className='caption'>
+   
+                    <div className="margin-part">
+                    <Link to="Chap7"><p>7. First Domino to Fall</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap8"><p>8. Zion Will Be Sanctified</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap9"><p>9. The Lost 10 Tribes</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap10"><p>10. Zion in Jerusalem </p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap11"><p>11. Book of Revelation</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap12"><p>12. Angels & Plagues</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap13"><p>13. Second Coming</p></Link>
+                    </div>
+                </div>
+            </div>
+
+            <div className='program'>
+                <div>
+                    <h1 className='feature-header'>Part III:</h1>
+                    <h1 className='feature-header'>The Family of God</h1>
+                </div>
+                <img src={premortal} className='caption-img' alt='' />
                 <div className='caption'>
                     <div className="margin-part">
-                    <Link to="Chap14"><h3>Chapter 14: Thy Kingdom Come</h3></Link>
+                    <Link to="Chap14"><p>14. Thy Kingdom Come</p></Link>
                     </div>
                     <div className="margin-part">
-                    <Link to="Chap15"><h3>Chapter 15: God’s Favored Sons</h3></Link>
+                    <Link to="Chap15"><p>15. Joseph’s Revelations</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap16"><p>16. God’s Favored Sons</p></Link>
+                    </div>
+                    <div className="margin-part">
+                    <Link to="Chap17"><p>17. Premortal Past</p></Link>
                     </div>
                 </div>
             </div>
-    </div>
+            </div>
 
-
-    <div className='programs'>
+    <div className='container'>
 
         <div className='program'>
-            <h1 className='feature-header'>Part IV: Building the Kingdom of God</h1>
-            <img src={gallery_2} alt='' />
+            <h1 className='feature-header'>Part IV:</h1>
+            <h1 className='feature-header'>Building the Kingdom of God</h1>
+            <img src={brigham2} className='caption-img' alt='' />
             <div className='caption'>
                 <div className="margin-part">
-                    <Link to="Chap16"><h3>Chapter 16: Three Failed Concepts</h3></Link>
+                    <Link to="Chap18"><p>18. Three Failed Concepts</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap17"><h3>Chapter 17: What of the Lamanites?</h3></Link>
+                    <Link to="Chap19"><p>19. What of the Lamanites?</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap18"><h3>Chapter 18: Mission to the Lamanites</h3></Link>
+                    <Link to="Chap20"><p>20. Mission to the Lamanites</p></Link>
+                </div>
+                <div className="margin-part">
+                <Link to="Chap21"><p>21. Unfulfilled Prophecies </p></Link>
+                </div>
+                <div className="margin-part">
+                    <Link to="Chap22"><p>22. Mormon War</p></Link>
                 </div>
             </div>
         </div>
 
         <div className='program'>
-        <h1 className='feature-header'>Part V: Historical Timeline</h1>
-            <img src={gallery_2} alt='' />
+            <h1 className='feature-header'>Part V:</h1>
+            <h1 className='feature-header'>Historical Events</h1>
+            <img src={pioneers} className='caption-img' alt='' />
             <div className='caption'>
                 <div className="margin-part">
-                <Link to="Chap19"><h3>Chapter 19: Historical Events Unfulfilled </h3></Link>
+                    <Link to="Chap23"><p>23. King Over All the Earth</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap20"><h3>Chapter 20: Mormon War on the Horizon</h3></Link>
+                    <Link to="Chap24"><p>24. Power and Violence</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap21"><h3>Chapter 21: Joseph King Over All the Earth</h3></Link>
+                    <Link to="Chap25"><p>25. Death of the King</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap22"><h3>Chapter 22: Power and Violence</h3></Link>
+                    <Link to="Chap26"><p>26. Winter Quarters</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap23"><h3>Chapter 23: Death of the King</h3></Link>
+                    <Link to="Chap27"><p>27. Mormon Reformation</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap24"><h3>Chapter 24: A Hiatus in Winter Quarters</h3></Link>
+                    <Link to="Chap28"><p>28. Native Americans</p></Link>
                 </div>
                 <div className="margin-part">
-                    <Link to="Chap25"><h3>Chapter 25: Mormon Reformation</h3></Link>
-                </div>
-                <div className="margin-part">
-                    <Link to="Chap26"><h3>Chapter 26: Native Americans</h3></Link>
-                </div>
-                <div className="margin-part">
-                    <Link to="Chap27"><h3>Chapter 27: Eternal Dynasties</h3></Link>
+                    <Link to="Chap29"><p>29. Eternal Dynasties</p></Link>
             </div>
             </div>
         </div>
 
         <div className='program'>
-        <h1 className='feature-header'>Part VI: Change the Course</h1>
-            <img src={gallery_2} alt='' />
+            <h1 className='feature-header'>Part VI:</h1>
+            <h1 className='feature-header'>Reinvent to Survive</h1>
+            <img src={apostles} className='caption-img' alt='' />
             <div className='caption'>
                 <div className="margin-part">
-                <Link to="Chap28"><h3>Chapter 28: The Second Coming by 1891</h3></Link>
+                <Link to="Chap30"><p>30. 1891 Second Coming</p></Link>
                 </div>
                 <div className="margin-part">
-                <Link to="Chap29"><h3>Chapter 29: Reinvent for Survival</h3></Link>
+                <Link to="Chap31"><p>31. Reinvent for Survival</p></Link>
                 </div>
                 <div className="margin-part">
-                <Link to="Chap30"><h3>Chapter 30: Denying Past Teachings</h3></Link>
+                <Link to="Chap32"><p>32. Denying Past Teachings</p></Link>
                 </div>
                 <div className="margin-part">
-                <Link to="Chap31"><h3>Chapter 31: Daniel's Prophecy Unfulfilled</h3></Link>
+                <Link to="Chap33"><p>33. Daniel's Prophecy Gone</p></Link>
                 </div>
             </div>
+            
+        </div>
+        </div>
         </div>
 
-    </div>
-
-    </div>
 
     
   )

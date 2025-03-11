@@ -1,13 +1,27 @@
 import React from "react";
 import "../../index.css";
 import { Link } from "react-router";
+import { Tooltip } from "react-tooltip";
+import lost10tribes from '../../Assets/Img/lost10tribes.jpg'
 
 const Chap9 = () => {
   return (
-    <div className="container">
+    <div className="chapter-container">
+
+      <div className="chapterFooter">
+        <Link to="/Chap8">Previous Chapter</Link>
+        <Link to="/">Home</Link>
+        <Link to="/Chap10">Next Chapter</Link>
+      </div>
+
       <h1 className="chapterHeading">
         Chapter 9: The Lost 10 Tribes to Come to Zion
       </h1>
+
+      <img src={lost10tribes} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+
+      <div className="wrapper">
+
 
       <div className="paragraph">
         <p>
@@ -19,6 +33,8 @@ const Chap9 = () => {
           Lost Tribes of Israel … and those records … shall tell of the visit of
           the resurrected Christ to them, after He had manifested Himself to the
           Nephites upon this continent.”
+          <a id="clickable1" className="footnote">1 </a>
+          <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>James Talmage, April 1916 general conference.</Tooltip>
         </p>
       </div>
 
@@ -27,18 +43,26 @@ const Chap9 = () => {
           In the Kirtland Temple, on April 3, 1836, Joseph Smith and Oliver
           Cowdery claimed that Moses appeared to them and restored the keys to
           bring about “the gathering of Israel from the four parts of the earth”
-          and the “leading of the ten tribes from the land of the north.” An
+          and the “leading of the ten tribes from the land of the north.” 
+          <a id="clickable2" className="footnote">2 </a>
+          <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>D&C 110:11.</Tooltip>
+          
+          An
           article of faith states, “We believe in the literal gathering of
-          Israel and in the restoration of the Ten Tribes.” In the Book of
+          Israel and in the restoration of the Ten Tribes.” 
+          In the Book of
           Mormon, Christ speaks of how, after leaving the Nephites, he will go
           to preach to the Lost Ten Tribes. “Now I go ... to show myself unto
           the lost tribes of Israel, for they are not lost unto the Father.”
+          <a id="clickable3" className="footnote">3 </a>
+          <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>3 Nephi 17:4.</Tooltip>
+
           These were essential doctrines for early Mormonism, but they are
           largely ignored today.
         </p>
       </div>
 
-      <h3>The Ten Tribes Taken Captive</h3>
+      <h2 className="headlinePadding">The Ten Tribes Taken Captive</h2>
 
       <div className="paragraph">
         <p>
@@ -52,6 +76,8 @@ const Chap9 = () => {
           “The Spirit of the Lord fell upon Joseph in an unusual manner, and he
           prophesied that John the Revelator was then among the Ten Tribes of
           Israel ... to prepare them for their return.”
+          <a id="clickable4" className="footnote">4 </a>
+          <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>History of the Church, vol. 1, p. 176.</Tooltip>
         </p>
       </div>
 
@@ -62,6 +88,8 @@ const Chap9 = () => {
           who told him that he, John, was their leader, Prophet, Priest and
           King, and said that he was preparing that people to return, and
           further said there is a mighty host to us.”
+          <a id="clickable5" className="footnote">5 </a>
+          <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Minutes of the School of the Prophets, Parawan, Utah, 1868-1872, August 17, 1872.</Tooltip>
         </p>
       </div>
 
@@ -70,10 +98,15 @@ const Chap9 = () => {
           The church published in October 1835, “It appears that the
           long-anticipated coming of the Ten Tribes from the north will take
           place shortly after or possibly before Zion has been sanctified.”
+          <a id="clickable6" className="footnote">6 </a>
+          <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Messenger and Advocate, Vol II, October 1835.</Tooltip>
+
           Oliver Cowdery stated that the Angel Moroni instructed Joseph that
           “after the Church shall be sanctified and receive an inheritance … the
           Ten Tribes of Israel will be revealed in the north country whither
           they have been for a long season.”
+          <a id="clickable7" className="footnote">7 </a>
+          <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Messenger and Advocate, Vol II, October 1835.</Tooltip>
         </p>
       </div>
 
@@ -83,17 +116,23 @@ const Chap9 = () => {
           in remembrance before the Lord; and their prophets shall hear his
           voice … and they shall smite the rocks, and the ice shall flow down at
           their presence. And an highway shall be cast up in the midst of the
-          great deep.” Therefore, the ice of the polar region will flow down at
+          great deep.” 
+          <a id="clickable8" className="footnote">8 </a>
+          <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 133:26-27.</Tooltip>
+          
+          Therefore, the ice of the polar region will flow down at
           their presence. A highway will be cast up in the midst of the great
           deep – the ocean. Joseph also revealed that when the Lost 10 Tribes
           arrive in Jackson County, they shall, “… fall down and be crowned with
           glory, even in Zion, by the hands of the servants of the Lord, even
           the children of Ephraim. And they shall be filled with songs of
-          everlasting joy.
+          everlasting joy.”
+          <a id="clickable9" className="footnote">9 </a>
+          <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>D&C 133:32-33.</Tooltip>
         </p>
       </div>
 
-      <h3>Where are the Lost Ten Tribes Now?</h3>
+      <h2 className="headlinePadding">Where are the Lost Ten Tribes Now?</h2>
 
       <div className="paragraph">
         <p>
@@ -103,6 +142,8 @@ const Chap9 = () => {
           large portion, however, departed in one body to the north, and
           disappeared from the rest of the world … that they will return in a
           body, must be believed, else how shall the scriptures be fulfilled?”
+              <a id="clickable10" className="footnote">10 </a>
+        <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Joseph F. Smith, The Way to Perfection, 1940.</Tooltip>
         </p>
       </div>
 
@@ -114,6 +155,8 @@ const Chap9 = () => {
           containing thousands of millions of Israelites, who, after a highway
           is cast up in the great deep, may come to Zion, singing songs of
           everlasting joy.”
+          <a id="clickable11" className="footnote">11 </a>
+          <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Letter No. 11. W. W. Phelps to Oliver Cowdery. Latter Day Saints’ Messenger and Advocate (Kirtland) 2, no. 1 (October 1835): 193–95.</Tooltip>
         </p>
       </div>
 
@@ -126,13 +169,19 @@ const Chap9 = () => {
           used to boil maple sap in for sugar, don’t you?’ I said yes. ‘Well,’
           said he, ‘they are in the north pole in a concave just the shape of
           that kettle. And John the Revelator is with them, preparing them for
-          their return.” Early Mormon Oliver Huntington commented about the Lost
+          their return.” 
+          <a id="clickable12" className="footnote">12 </a>
+          <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Benjamin Johnson, My Life's Review, 1947, p. 93.</Tooltip>
+          
+          Early Mormon Oliver Huntington commented about the Lost
           Ten Tribes being in the North Pole, “I have heard Joseph say that John
           was among the Ten Tribes beyond the North Pole.”
+          <a id="clickable13" className="footnote">13 </a>
+          <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Oliver B. Huntington Journal, under January 13, 1881; see Abanes, One Nation Under Gods, p. 528, footnote 100.</Tooltip>
         </p>
       </div>
 
-      <h3>Joseph Teaches Ten Tribes are Not on the Earth</h3>
+      <h2 className="headlinePadding">Joseph Teaches Ten Tribes are Not on the Earth</h2>
 
       <div className="paragraph">
         <p>
@@ -141,12 +190,18 @@ const Chap9 = () => {
           globe, but a portion of this earth cleaved off with them, went flying
           into space, and when the earth reels to and fro like a drunken man and
           the stars from heaven fall (referring the Second Coming), it would
-          join on again.’” According to Mormon apostle Orson Pratt, “The Prophet
+          join on again.’” 
+          <a id="clickable14" className="footnote">14 </a>
+          <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Bathsheba W. Smith, Juvenile Instructor, June 1, 1892, Vol. 27, page 344, Recollections of the Prophet Joseph Smith. </Tooltip>
+          
+          According to Mormon apostle Orson Pratt, “The Prophet
           Joseph once in my hearing advanced his opinion that the Ten Tribes
           were separated from the Earth; or a portion of the Earth was by a
           miracle broken off, and that the Ten Tribes were taken away with it,
           and that in the latter days it would be restored to the Earth or be
           let down in the Polar regions.”
+          <a id="clickable15" className="footnote">15 </a>
+          <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Orson Pratt, Letter Box of Orson Pratt, LDS Church Historian's Office, letter to John C. Hall, December 13, 1875; see Abanes, One Nation Under Gods, p. 529, footnote 101.</Tooltip>
         </p>
       </div>
 
@@ -155,21 +210,34 @@ const Chap9 = () => {
           Brigham Young taught, “It is no more difficult to transfer the Ten
           Tribes from this earth to another planet, than it is to take the city
           of Enoch from this earth or bring Adam and Eve from another planet.”
+          <a id="clickable16" className="footnote">16 </a>
+          <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Brigham Young, Journal of Discourses, October 9, 1859, Volume 7, 285-286.</Tooltip>
+
           According to Wilford Woodruff, “President Young said he heard Joseph
           Smith say that the Ten Tribes of Israel were on a Portion of Land
-          separated from this Earth.” Also from Wilford, “The evening was spent
+          separated from this Earth.” 
+          <a id="clickable17" className="footnote">17 </a>
+          <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Wilford Woodruff's Journal, September 8, 1867, reprinted in Susan Staker, ed., Waiting for World's End, The Diaries of Wilford Woodruff, 1993, p. 291.</Tooltip>
+          
+          Also from Wilford, “The evening was spent
           in conversing upon the subject of the Ten tribes in the North Country
           … a portion of the north country containing the ten tribes may be
           separated from the Earth. Orson Hyde & others believed they would soon
           return.”
+          <a id="clickable18" className="footnote">18 </a>
+          <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Wilford Woodruff's Journal, September 8, 1867, reprinted in Susan Staker, ed., Waiting for World's End, The Diaries of Wilford Woodruff, 1993, p. 238.</Tooltip>
         </p>
       </div>
 
-      <h3>Interview of Homer Brown</h3>
+      <h2 className="headlinePadding">Interview of Homer Brown</h2>
 
       <div className="paragraph">
         <p>
-          Early Mormon Homer Brown was interviewed about an experience he and
+          Early Mormon Homer Brown
+          <a id="clickable19" className="footnote">19 </a>
+          <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Interview of Homer Brown of the Forest Dale ward, Granite Stake, grandson of Benjamin Brown answered these questions. “Brother Brown, can you give us some light and explanation of the fifth verse, page 386, of the Hymn Book, (HYMN No. 323, ENOCH, little pocket Hymn Book 1905), which speaks of the Ten Tribes of Israel on part of the earth which now forms another planet, according to the composer, Eliza R. Snow?” “Yes, sir, I think I can – I think I can answer that question. Sister Eliza R. Snow, when visiting my grandparents, was asked by my grandmother: ‘Eliza, where did you get your idea about the Ten Lost Tribes being taken as you explained in your hymn on page 386 of the Hymn Book?’ She answered as follows, ‘Why, my husband, the Prophet Joseph told me about it.’”</Tooltip>
+          
+           was interviewed about an experience he and
           his wife had with Eliza Snow, a plural wife of Joseph Smith. He asked
           Eliza about a hymn she had written. In the interview Homer was asked,
           “Brother Brown, can you give us some light and explanation of the
@@ -183,7 +251,11 @@ const Chap9 = () => {
         <p>
           “... ‘Eliza, where did you get your idea about the Ten Lost Tribes
           being taken as you explained in your hymn on page 386 of the Hymn
-          Book?’ She answered as follows, ‘Why, my husband, the Prophet Joseph
+          Book?’ 
+          <a id="clickable20" className="footnote">20 </a>
+          <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>HYMN No. 323, ENOCH, little pocket Hymn Book 1905.</Tooltip>
+          
+          She answered as follows, ‘Why, my husband, the Prophet Joseph
           told me about it.’”
         </p>
       </div>
@@ -419,7 +491,7 @@ const Chap9 = () => {
         </p>
       </div>
 
-      <h3>Return from the North Country</h3>
+      <h2 className="headlinePadding">Return from the North Country</h2>
 
       <div className="paragraph">
         <p>
@@ -442,6 +514,8 @@ const Chap9 = () => {
           before the Sun. By the keys of the kingdom shall he lead Israel into
           the land of Zion, while the house of Jacob shouts in the dance and in
           the song.”
+          <a id="clickable21" className="footnote">21 </a>
+          <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>A Patriarchal blessing given by Oliver Cowdery to Joseph Smith at Kirtland, September 22, 1835, reprinted in Collier, ed., Unpublished Revelations, 1979, 2nd edition, 1981, vol. 1, p. 76.</Tooltip>
         </p>
       </div>
 
@@ -462,6 +536,9 @@ const Chap9 = () => {
           with the Ten Tribes; and some with the death of Christ. These must all
           be restored again at the time of the restitution of all things. This
           will restore the Ten Tribes of Israel.”
+          <a id="clickable22" className="footnote">22 </a>
+          <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Millennial Star, vol. 1, no. 10, Parley Pratt in answer to questions from Joseph Fielding.</Tooltip>
+
         </p>
       </div>
 
@@ -480,10 +557,14 @@ const Chap9 = () => {
         </p>
       </div>
 
+      </div>
+
       <div className="chapterFooter">
         <Link to="/Chap8">Previous Chapter</Link>
+        <Link to="/">Home</Link>
         <Link to="/Chap10">Next Chapter</Link>
       </div>
+      
     </div>
   );
 };

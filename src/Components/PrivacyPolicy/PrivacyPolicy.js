@@ -8,23 +8,23 @@ export default function PrivacyPolicy() {
       <div className="section">
         <h1 className="headline">Privacy Policy for The Words To Impress App</h1>
           <p>Effective Date: January 1, 2025</p>
-        <h3>We value your privacy and are committed to protecting the personal information you share with us when using our app, Words to Impress App (the "App"). This Privacy Policy explains what information we collect, how we use it, and how we protect it. By using the App, you consent to the collection and use of information in accordance with this Privacy Policy.</h3>
+        <h2>We value your privacy and are committed to protecting the personal information you share with us when using our app, Words to Impress App (the "App"). This Privacy Policy explains what information we collect, how we use it, and how we protect it. By using the App, you consent to the collection and use of information in accordance with this Privacy Policy.</h2>
       </div>
       <h2 className="section">1. Information We Collect</h2>
-      <h3>We may collect the following types of information:</h3>
+      <h2>We may collect the following types of information:</h2>
         <p>•	Personal Information: This includes information that identifies you as an individual, such as your name, email address, or phone number, which you may provide when you register or interact with the App.</p>
         <p>•	Usage Data: We collect information about how you use the App, such as your activity within the App, device information, IP addresses, browser type, and the pages you visit. This helps us improve our services and your experience.</p>
         <p>•	Location Information: If you enable location services, we may collect your device's geolocation data to provide location-based services, such as nearby locations or personalized content.</p>
         <p>•	Cookies and Tracking Technologies: We may use cookies, web beacons, or other tracking technologies to improve user experience and analyze usage patterns.</p>
       <h2 className="section">2. How We Use Your Information</h2>
-      <h3>We may use the information we collect for the following purposes:</h3>
+      <h2>We may use the information we collect for the following purposes:</h2>
         <p>•	To provide and maintain the App’s features and services.</p>
         <p>•	To personalize your experience and provide customized content.</p>
         <p>•	To send you notifications, updates, and customer support communications.</p>
         <p>•	To monitor and analyze usage patterns to improve the App.</p>
         <p>•	To comply with legal obligations and protect our rights.</p>
       <h2 className="section">3. How We Share Your Information</h2>
-      <h3>We do not sell or share your personal information with third parties, except in the following situations:</h3>
+      <h2>We do not sell or share your personal information with third parties, except in the following situations:</h2>
         <p>•	Service Providers: We may share your information with third-party service providers who help us operate the App and deliver services, such as payment processors or analytics tools. These service providers are bound by confidentiality agreements and are not permitted to use your information for any other purpose.</p>
         <p>•	Legal Compliance: We may disclose your information if required by law, to enforce our terms of service, or to protect the rights, property, or safety of [Your Company Name], our users, or others.</p>
       <h2 className="section">4. Data Security</h2>

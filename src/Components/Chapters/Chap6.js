@@ -1,20 +1,38 @@
 import React from "react";
 import "../../index.css";
 import { Link } from "react-router";
+import { Tooltip } from "react-tooltip";
+import secondcoming from '../../Assets/Img/secondcoming.png'
 
 const Chap6 = () => {
   return (
-    <div className="container">
+    <div className="chapter-container">
+
+      <div className="chapterFooter">
+        <Link to="/Chap5">Previous Chapter</Link>
+        <Link to="/">Home</Link>
+        <Link to="/Chap7">Next Chapter</Link>
+      </div>
+
       <h1 className="chapterHeading">
         Chapter 6: Joseph Reveals the Events of the Latter Days
       </h1>
+
+      <img src={secondcoming} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+
+    <div className="wrapper">
+
 
       <div className="paragraph">
         <p>
           Joseph’s message was clear. The Second Coming was on the horizon.
           Joseph revealed Christ’s words, “For this is a day of warning, and not
           a day of many words. For I, the Lord, am not to be mocked in the last
-          days.” In his prophetic role, Joseph revealed numerous things about
+          days.” 
+          <a id="clickable1" className="footnote">1 </a>
+          <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 63:58.</Tooltip>
+          
+          In his prophetic role, Joseph revealed numerous things about
           the last days and Second Coming. Great and terrible events were to
           take place across the globe as prophesied in the Bible. Besides his
           own revelations, Joseph provided commentary on past prophets who
@@ -24,7 +42,7 @@ const Chap6 = () => {
         </p>
       </div>
 
-      <h3>No One Knoweth, No, Not the Angels</h3>
+      <h2 className="headlinePadding">No One Knoweth, No, Not the Angels</h2>
 
       <div className="paragraph">
         <p>
@@ -37,6 +55,8 @@ const Chap6 = () => {
           otherwise would be a flat contradiction with other scriptures for the
           prophet (Amos) says that God will do nothing but what he will reveal
           it unto his servants the prophets.”
+          <a id="clickable2" className="footnote">2 </a>
+          <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Discourse of Joseph Smith given at Nauvoo, Illinois, reported in “Journals of James Burgess, 1818-1904,” Church History Department.</Tooltip>
         </p>
       </div>
 
@@ -53,7 +73,7 @@ const Chap6 = () => {
         </p>
       </div>
 
-      <h3>Angel Moroni Announces Coming of the Lord</h3>
+      <h2 className="headlinePadding">Angel Moroni Announces Coming of the Lord</h2>
 
       <div className="paragraph">
         <p>
@@ -74,6 +94,8 @@ const Chap6 = () => {
           wickedly shall burn as stubble ... Behold, I will reveal unto you the
           Priesthood, by the hand of Elijah the prophet, before the coming of
           the great and dreadful day of the Lord.”
+          <a id="clickable3" className="footnote">3 </a>
+          <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Joseph Smith History 1:37-39.</Tooltip>
         </p>
       </div>
 
@@ -85,9 +107,17 @@ const Chap6 = () => {
           3:22-23 “… precisely as they stand in our New Testament. He said that
           that prophet was Christ; but the day had not yet come when ‘they who
           would not hear his voice should be cut off from among the people,’ but
-          soon would come.” Moroni “quoted the second chapter of Joel, from the
+          soon would come.” 
+          <a id="clickable4" className="footnote">4 </a>
+          <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Joseph Smith History 1:40.</Tooltip>
+          
+          Moroni “quoted the second chapter of Joel, from the
           twenty-eighth verse to the last. He also said that this was not yet
-          fulfilled but was soon to be.” Joel’s theme is the building of Zion
+          fulfilled but was soon to be.” 
+          <a id="clickable5" className="footnote">5 </a>
+          <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Joseph Smith History 1:41.</Tooltip>
+          
+          Joel’s theme is the building of Zion
           and the beginning of the manifestation of God’s glory upon Zion, with
           the abundant revelation and divine spiritual gifts.
         </p>
@@ -104,19 +134,27 @@ const Chap6 = () => {
           day of the Lord come … for in Mount Zion and in Jerusalem shall be
           deliverance, as the Lord hath said, and in the remnant whom the Lord
           shall call.”
+          <a id="clickable6" className="footnote">6 </a>
+          <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Joel 2:28–32.</Tooltip>
         </p>
       </div>
 
-      <h3>Putting the World on Notice</h3>
+      <h2 className="headlinePadding">Putting the World on Notice</h2>
 
       <div className="paragraph">
         <p>
           In the opening section of the Doctrine and Covenants, Joseph revealed,
           “And the voice of warning shall be unto all people, by the mouths of
-          my disciples, whom I have chosen in these last days.” Christ
+          my disciples, whom I have chosen in these last days.” 
+          <a id="clickable7" className="footnote">7 </a>
+          <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 1:4.</Tooltip>
+          
+          Christ
           continued, “That the fulness of my gospel might be proclaimed by the
           weak and the simple unto the ends of the world, and before kings and
           rulers.”
+          <a id="clickable8" className="footnote">8 </a>
+          <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 1:23.</Tooltip>
         </p>
       </div>
 
@@ -164,6 +202,8 @@ const Chap6 = () => {
           promised the Queen and people of England, “Now if the rulers, clergy
           and people of England hearken to this message, they shall have part in
           this glorious kingdom.”
+          <a id="clickable9" className="footnote">9 </a>
+          <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Letter from Parley Pratt to Queen Victoria of England, written from Manchester, May 28, 1841.</Tooltip>
         </p>
       </div>
 
@@ -174,17 +214,28 @@ const Chap6 = () => {
         </p>
       </div>
 
-      <h3>The 1845 Mormon Proclamation</h3>
+      <h2 className="headlinePadding">The 1845 Mormon Proclamation</h2>
 
       <div className="paragraph">
         <p>
           With Joseph’s death in 1844, the burden of building Zion fell on the
           shoulders of the Mormon Apostles. Undeterred that a “voice of warning
           shall be unto all people, by the mouths of my disciples, whom I have
-          chosen in these last days,” the apostles issued a proclamation to the
+          chosen in these last days,” 
+          <a id="clickable10" className="footnote">10 </a>
+          <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>D&C 1:4.</Tooltip>
+          
+          the apostles issued a proclamation to the
           world in 1845. After all, for as Brigham stated, “The Kingdom of God …
-          will control the kingdoms of the world” and “bear rule over all the
-          earth.” The world needed to be informed! Drawing a line in the sand,
+          will control the kingdoms of the world”
+          <a id="clickable11" className="footnote">11 </a>
+          <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Brigham Young, Journal of Discourses, June 3, 1855, vol. 2, p. 316-17.</Tooltip>
+          
+          and “bear rule over all the earth.” 
+          <a id="clickable12" className="footnote">12 </a>
+          <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Brigham Young, Journal of Discourses, June 3, 1855, vol. 2, p. 316-17.</Tooltip>
+          
+          The world needed to be informed! Drawing a line in the sand,
           the Mormon apostles put world leaders on notice.
         </p>
       </div>
@@ -269,6 +320,8 @@ const Chap6 = () => {
           … While others will walk in the footsteps of a Pharaoh, or a Balak,
           and will harden their hearts, and fight against God and seek to
           destroy his people.”
+          <a id="clickable13" className="footnote">13 </a>
+          <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Proclamation Of The Twelve Apostles Of The Church Of Jesus Christ, Of Latter-Day Saints, (New York, 1845), pp. 6-7.</Tooltip>
         </p>
       </div>
 
@@ -282,10 +335,14 @@ const Chap6 = () => {
         </p>
       </div>
 
+      </div>
+
       <div className="chapterFooter">
         <Link to="/Chap5">Previous Chapter</Link>
+        <Link to="/">Home</Link>
         <Link to="/Chap7">Next Chapter</Link>
       </div>
+
     </div>
   );
 };

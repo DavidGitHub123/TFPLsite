@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+/* @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Outfit:wght@100..900&display=swap'); */
+
 *{
   margin: 0;
   padding: 0;
@@ -17,10 +19,6 @@ a{
   line-height: 1;
   cursor: pointer;
 }
-.container {
-  padding-left: 15%;
-  padding-right: 15%;
-}
 
 .flex {
     margin: 10px auto;
@@ -33,6 +31,20 @@ a{
 .chapterHeading {
   margin-bottom: 40px;
   margin-top: 60px;
+}
+
+.headlinePadding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footnote {
+  vertical-align: top;
+  color: blue;
+}
+
+.footnote-size {
+  max-width: 400px;
 }
 
 .btn {
@@ -59,6 +71,25 @@ a{
   background: #212ea0;
   color: #fff;
 }
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chapter-container {
+  margin: 50px auto;
+  width: 70%;
+}
+
+.image {
+  max-width: 400px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
 
 .paragraph {
   margin-bottom: 20px;
@@ -68,6 +99,7 @@ a{
 
 .chapterFooter {
   margin-top: 60px;
+  margin-bottom: 40px;
   font-weight: 900;
   color: purple;
   display: flex;
@@ -88,4 +120,19 @@ a{
     .btn{
       padding: 14px 22px;
     }
+}
+
+@media (max-width: 600px) {
+  .image-container {
+    display: block;
+  }
+
+  .image {
+    margin-bottom: 20px;
+  }
+
+  .container {
+    width: 90%;
+  }
+
 }

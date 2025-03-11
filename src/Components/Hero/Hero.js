@@ -3,10 +3,11 @@ import './Hero.css'
 
 export default function Hero () {
   return (
-    <div className='hero container'>
+    <div className='hero'>
       <div className='hero-text'>
-        <h1 className='build'>Build Your Vocabulary Prowess</h1>
-        <p>Increase your powers of persuasion and comprehension with the Words to Impress App.</p>
+        <h1 className='build'>The First Presidency Letter</h1>
+        <h2>An Open Letter To The First Presidency and Members 
+          of The Church of Jesus Christ of Latter-Day Saints</h2>
       </div>
     </div>
   )

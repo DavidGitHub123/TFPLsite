@@ -1,13 +1,27 @@
 import React from "react";
 import "../../index.css";
 import { Link } from "react-router";
+import { Tooltip } from "react-tooltip";
+import nativeamericans from '../../Assets/Img/nativeamericans.jpg'
 
 const Chap5 = () => {
   return (
-    <div className="container">
+    <div className="chapter-container">
+
+      <div className="chapterFooter">
+        <Link to="/Chap4">Previous Chapter</Link>
+        <Link to="/">Home</Link>
+        <Link to="/Chap6">Next Chapter</Link>
+      </div>
+
       <h1 className="chapterHeading">
         Chapter 5: Lamanites and Ephraimites to Build Zion
       </h1>
+
+      <img src={nativeamericans} className='image' alt='' />
+
+    <div className="wrapper">
+
 
       <div className="paragraph">
         <p>
@@ -18,6 +32,8 @@ const Chap5 = () => {
           Lamanites as a branch of the House of Israel. Christ preached, “… the
           Father hath commanded me that I should give unto you (Lamanites) this
           land, for your inheritance.”
+          <a id="clickable1" className="footnote">1  </a>
+          <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>3 Nephi 20:14.</Tooltip>
         </p>
       </div>
 
@@ -27,13 +43,19 @@ const Chap5 = () => {
           built by the Lamanites, “And behold, this people (future Lamanites)
           will I establish in this land (America) … and it shall be a New
           Jerusalem. And the powers of heaven shall be in the midst of this
-          people; yea, even I will be in the midst of you.” In 3 Nephi, Christ
+          people; yea, even I will be in the midst of you.” 
+          <a id="clickable2" className="footnote">2  </a>
+          <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>3 Nephi 20:21-22.</Tooltip>
+          
+          In 3 Nephi, Christ
           says to the future Gentiles who convert to Mormonism in the 1830s and
           1840s, that they will help the Lamanites build Zion. “And they shall
           assist my people, the remnant of Jacob (Lamanites) … that they may
           build a city, which shall be called the New Jerusalem. And then shall
           they (Mormon converts) assist my people that they may be gathered in
           (adopted into the House of Israel) … in unto the New Jerusalem.”
+          <a id="clickable3" className="footnote">3  </a>
+          <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>3 Nephi 21:23-25.</Tooltip>
         </p>
       </div>
 
@@ -42,12 +64,18 @@ const Chap5 = () => {
           Early Mormon George Davis wrote, “[Joseph stated] that God had
           revealed to him that the Indians and Latter-Day Saints, under Joseph
           as their King and Ruler, were to conquer the Gentiles, and that their
-          subjection to this authority was to be obtained by the sword!” Early
+          subjection to this authority was to be obtained by the sword!” 
+          <a id="clickable4" className="footnote">4  </a>
+          <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Geo. T. M. Davis, An Authentic Account of the Massacre of Joseph Smith, The Mormon Prophet and Hyrum Smith, 1844, 7-8.</Tooltip>
+          
+          Early
           Mormon Lyman Wight stated, “Instruction was given me by brother Joseph
           with great zeal; setting forth the necessity for such a mission, for
           the good of the cause of bringing the Lamanites to the knowledge of
           the truth, paving the way for the redemption of Zion and building the
-          Temple in Jackson County.
+          Temple in Jackson County.” 
+          <a id="clickable5" className="footnote">5  </a>
+          <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Letter of Lyman Wight on 29 November 1844, included in his Address. Lyman Wight, An Address by Way of an Abridged Account and Journal of My Life from February 1844 up to April 1848, with An Appeal to the Latter-Day Saints ([Austin, TX], 1848), 5-6..</Tooltip>
         </p>
       </div>
 
@@ -57,13 +85,17 @@ const Chap5 = () => {
           (Mormons) build Zion, the New Jerusalem, “Then shall the remnant
           (scattered descendants of the House of Israel) ... be gathered in from
           the east and from the west, and from the south and from the north; and
-          they shall be brought to the knowledge of the Lord their God.” This is
+          they shall be brought to the knowledge of the Lord their God.” 
+          <a id="clickable6" className="footnote">6  </a>
+          <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>3 Nephi 20:12-13.</Tooltip>
+          
+          This is
           the great gathering of the 12 Tribes of Israel, the driving force of
           Mormonism.
         </p>
       </div>
 
-      <h3>Mormon Converts Descend from Ephraim</h3>
+      <h2 className="headlinePadding" >Mormon Converts Descend from Ephraim</h2>
 
       <div className="paragraph">
         <p>
@@ -75,6 +107,8 @@ const Chap5 = () => {
           who wandered into the north, will be gathered home, and the blood of
           Ephraim … which is to be found in every kingdom and nation under
           heaven, will be gathered from among the Gentiles.”
+          <a id="clickable7" className="footnote">7  </a>
+          <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Brigham Young, Discourses of Brigham Young, p. 121–22.</Tooltip>
         </p>
       </div>
 
@@ -85,12 +119,18 @@ const Chap5 = () => {
           of the Ephraimite bloodline were early converts to Mormonism. Brigham
           Young stated, “Joseph Smith was a pure Ephraimite, and the Book of
           Mormon was revealed to him, and while he lived, he made it his
-          business to search for those who believed the Gospel.” Being from the
+          business to search for those who believed the Gospel.” 
+          <a id="clickable8" className="footnote">8  </a>
+          <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 8, 1855, vol. 2, p. 269.</Tooltip>
+          
+          Being from the
           House of Israel, when they heard the message of Joseph’s restored
           gospel, it was familiar to them. Sixth Mormon prophet Joseph F. Smith
           said, “… through obedience, we often catch a spark from the awakened
           memories of the immortal soul, which lights up our whole being as with
           the glory of our former home.”
+          <a id="clickable9" className="footnote">9  </a>
+          <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Joseph F. Smith, Gospel Doctrine, 213-14.</Tooltip>
         </p>
       </div>
 
@@ -104,6 +144,8 @@ const Chap5 = () => {
           priesthood, for the rest of the tribes of Israel when the time comes
           for them to be gathered to Zion. The great majority of those who have
           come into the Church are Ephraimites.”
+          <a id="clickable10" className="footnote">10  </a>
+          <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Joseph Fielding Smith, Doctrines of Salvation, vol. 3, p. 252–53.</Tooltip>
         </p>
       </div>
 
@@ -115,7 +157,7 @@ const Chap5 = () => {
         </p>
       </div>
 
-      <h3>Zion to Be Built as a Refuge and Center of Spiritual Power</h3>
+      <h2 className="headlinePadding" >Zion to Be Built as a Refuge and Center of Spiritual Power</h2>
 
       <div className="paragraph">
         <p>
@@ -124,6 +166,8 @@ const Chap5 = () => {
           last days, “And in that day shall be heard of wars and rumors of wars,
           and the whole earth shall be in commotion, and men’s hearts shall fail
           them.”
+          <a id="clickable10" className="footnote">10  </a>
+          <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>D&C 45:2.</Tooltip>
         </p>
       </div>
 
@@ -140,6 +184,8 @@ const Chap5 = () => {
           gates open continually, they will come as clouds and as doves in large
           flocks. Do you suppose that the Gentiles are going to be ignorant of
           what is taking place?”
+          <a id="clickable11" className="footnote">11  </a>
+          <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, May 20, 1855, vol. 3, p. 17.</Tooltip>
         </p>
       </div>
 
@@ -149,16 +195,25 @@ const Chap5 = () => {
           transform themselves into Christlike beings with Christlike powers. “…
           he that receiveth light, and continueth in God, receiveth more light;
           and that light groweth brighter and brighter until the perfect day.”
+          <a id="clickable12" className="footnote">12  </a>
+          <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>D&C 50:24.</Tooltip>
+
           Nephi stated that Zion’s inhabitants will be endowed “with the power
           of God in great glory.” With this power and glory “the sons and
           daughters of the faithful will prophesy and see visions and the old
-          men dream dreams.” Both the city and its inhabitants will shine with
+          men dream dreams.” 
+          <a id="clickable13" className="footnote">13  </a>
+          <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Joel 2:28-29. According to Joseph, the Angel Moroni quoted these scriptures describing the spiritual gifts to be found in Zion.</Tooltip>
+          
+          Both the city and its inhabitants will shine with
           light. They will be filled with tangible glory so that they
           personally, and the city they are building, will shine forth as a
           beacon to the world. Orson Pratt stated, “… her dwellings shall be
           encircled with glory; her light shall be as the sun, and her beauty as
           the morning; her tabernacles shall be as the dwelling places, kings
           shall arise and worship.”
+          <a id="clickable14" className="footnote">14  </a>
+          <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>“Divine Authenticity Of The Book Of Mormon: Prophetic Evidence In Favor Of The Book Of Mormon,” in A Series Of Pamphlets By Orson Pratt (Liverpool, England, 1851), p. 91.</Tooltip>
         </p>
       </div>
 
@@ -175,7 +230,7 @@ const Chap5 = () => {
         </p>
       </div>
 
-      <h3>As the End Nears, All Not Well Outside Zion</h3>
+      <h2 className="headlinePadding" >As the End Nears, All Not Well Outside Zion</h2>
 
       <div className="paragraph">
         <p>
@@ -189,6 +244,8 @@ const Chap5 = () => {
           which would sweep over the earth as with a besom of destruction. The
           vision was so horrifying that he prayed the Lord to take it away; and
           the Lord gave him the vision a little at a time so he could bear it.”
+        <a id="clickable15" className="footnote">15  </a>
+        <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Journal of Wandle Mace, 1809-1890, Brigham Young University Library, MSS 921, p. 61.</Tooltip>
         </p>
       </div>
 
@@ -208,6 +265,9 @@ const Chap5 = () => {
           God, and give glory to Him, for the hour of His judgment is come.’
           Repent ye, repent ye, and embrace the everlasting covenant, and flee
           to Zion.”
+          <a id="clickable16" className="footnote">16  </a>
+          <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>History of the Church 1:315.</Tooltip>
+
         </p>
       </div>
 
@@ -220,11 +280,15 @@ const Chap5 = () => {
           human power to describe. Joseph revealed, “So great shall be the glory
           of his presence that the sun shall hide his face in shame and the moon
           shall withhold its light, and the stars shall be hurled from their
-          places.” But more on that later.
+          places.” 
+          <a id="clickable17" className="footnote">17  </a>
+          <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>D&C 133:49.</Tooltip>
+          
+          But more on that later.
         </p>
       </div>
 
-      <h3>Coming Up …</h3>
+      <h2 className="headlinePadding" >Coming Up …</h2>
 
       <div className="paragraph">
         <p>
@@ -289,10 +353,14 @@ const Chap5 = () => {
         </p>
       </div>
 
+      </div>
+
       <div className="chapterFooter">
         <Link to="/Chap4">Previous Chapter</Link>
+        <Link to="/">Home</Link>
         <Link to="/Chap6">Next Chapter</Link>
       </div>
+      
     </div>
   );
 };
