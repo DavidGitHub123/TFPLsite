@@ -350,7 +350,8 @@ const Chap1 = () => {
         </div>
 
         <div className='paragraph'>
-          <p>In Mormonism today, there is little to no encouragement to partake of the divine nature to the level that Joseph spoke of in this transformational process. You can find this throughout the Book of Mormon. Over the pulpit today, occasionally you will hear of the “enabling power of atonement” in the context of overcoming personal weaknesses. But there is no real emphasis on Christ’s message on redemption and new birth. Rather, the focus is on merit-based exaltation. The Mormon leadership claims they have priesthood keys that put them between you and God the Father. In reality, they are acting as the angels who stand as sentinels, of which Christ never mentions.
+          <p>In Mormonism today, there is little to no encouragement to partake of the divine nature to the level that Joseph spoke of in this transformational process. You can find this throughout the Book of Mormon. 
+            However, over the pulpit today, occasionally you will hear of the “enabling power of atonement” in the context of overcoming personal weaknesses. But there is no real emphasis on Christ’s message on redemption and new birth. Rather, the focus is on merit-based exaltation. The Mormon leadership claims they have priesthood keys that put them between you and God the Father. In reality, they are acting as the angels who stand as sentinels, of which Christ never mentions.
           </p>
         </div>
 

@@ -14,12 +14,14 @@ const Chap1 = () => {
           <Link to="/Chap1">Next Chapter</Link>
         </div>
 
-        <img src={video} className='image' alt='photo of Joseph Smith Mormon Prophet' />
-
-      <div className="wrapper">
         <h1 className="chapterHeading">
           Introduction to the First Presidency Letter
         </h1>
+
+        <img src={video} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+
+      <div className="wrapper">
+
 
         <div className='paragraph'>
           <p>In the October 2024 general conference, Mormon prophet Russell Nelson announced, “Brothers and sisters, now is the time for you and for me to prepare for the Second Coming of our Lord and Savior, Jesus the Christ.” The theme of his remarks was hastening the Lord’s work and preparing for an implied near Second Coming. Russell Nelson concluded, “The best is yet to come … because the Savior is coming again!” Two years earlier in the October 2022 general conference, Russell Nelson stated, “In coming days, we will see the greatest manifestations of the Savior’s power that the world has ever seen. Between now and the time He returns ‘with power and great glory,’ He will bestow countless privileges, blessings, and miracles upon the faithful.”        

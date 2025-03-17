@@ -17,11 +17,11 @@ export default function About ({setPlayState}) {
         <div className='about-right'>
           <p>In the October 2024 general conference, Mormon prophet Russell Nelson announced, “Brothers and sisters, now is the time for you and for me to prepare for the Second Coming of our Lord and Savior, Jesus the Christ.” The theme of his remarks was hastening the Lord’s work and preparing for an implied near Second Coming. Russell Nelson concluded, “The best is yet to come … because the Savior is coming again!”
           </p>
-              <p>Two years earlier in the October 2022 general conference, Russell Nelson stated, “In coming days, we will see the 
+              {/* <p>Two years earlier in the October 2022 general conference, Russell Nelson stated, “In coming days, we will see the 
                 greatest manifestations of the Savior’s power that the world has ever seen. Between now and the time He returns 
                 ‘with power and great glory,’ He will bestow countless privileges, blessings, 
                 and miracles upon the faithful.”
-              </p>
+              </p> */}
     
             <p>To make such bold claims, did Russell Nelson receive a revelation? Did Christ appear to him in vision? Did he hear an audible voice, 
               “I am coming?” Did Christ reveal any additional information? Russell Nelson was silent on the matter. Instead, this Mormon prophet left his church membership to 
