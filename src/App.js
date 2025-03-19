@@ -1,7 +1,6 @@
 import React from "react";
-import { Routes, Route, Router} from "react-router";
+import { Routes, Route, Router } from "react-router";
 import Home from "./Home";
-import PrivacyPolicy from "./Components/Privacypolicy/PrivacyPolicy";
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
@@ -40,111 +39,107 @@ import Chap30 from "./Components/Chapters/Chap30";
 import Chap31 from "./Components/Chapters/Chap31";
 import Chap32 from "./Components/Chapters/Chap32";
 import Chap33 from "./Components/Chapters/Chap33";
-
+import ScrollToTop from "./ScrollToTop";
 
 export default function App() {
   return (
+    <>
+      <ScrollToTop />
+      <Routes>
+        <Route index element={<Home />} />
 
-    <Routes>
+        <Route index element={<About />} />
+        <Route path="Intro" element={<Intro />} />
 
-      <Route index element={<Home />} />
-      <Route path="PrivacyPolicy" element={<PrivacyPolicy />} />
+        <Route index element={<Home />} />
+        <Route path="Contact" element={<Contact />} />
 
-      <Route index element={<About />} />
-      <Route path="Intro" element={<Intro />} />
+        <Route index element={<Home />} />
+        <Route path="Chap1" element={<Chap1 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Contact" element={<Contact />} />
+        <Route index element={<Home />} />
+        <Route path="Chap2" element={<Chap2 />} />
 
+        <Route index element={<Programs />} />
+        <Route path="Chap2" element={<Chap2 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap1" element={<Chap1 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap3" element={<Chap3 />} />
 
+        <Route index element={<Home />} />
+        <Route path="Chap4" element={<Chap4 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap2" element={<Chap2 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap5" element={<Chap5 />} />
 
-      <Route index element={<Programs />} />
-      <Route path="Chap2" element={<Chap2 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap6" element={<Chap6 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap3" element={<Chap3 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap7" element={<Chap7 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap4" element={<Chap4 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap8" element={<Chap8 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap9" element={<Chap9 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap10" element={<Chap10 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap11" element={<Chap11 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap12" element={<Chap12 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap13" element={<Chap13 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap5" element={<Chap5 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap14" element={<Chap14 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap15" element={<Chap15 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap6" element={<Chap6 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap16" element={<Chap16 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap17" element={<Chap17 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap18" element={<Chap18 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap7" element={<Chap7 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap19" element={<Chap19 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap20" element={<Chap20 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap21" element={<Chap21 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap22" element={<Chap22 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap23" element={<Chap23 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap24" element={<Chap24 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap25" element={<Chap25 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap26" element={<Chap26 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap27" element={<Chap27 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap8" element={<Chap8 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap9" element={<Chap9 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap10" element={<Chap10 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap11" element={<Chap11 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap12" element={<Chap12 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap13" element={<Chap13 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap28" element={<Chap28 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap29" element={<Chap29 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap30" element={<Chap30 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap31" element={<Chap31 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap32" element={<Chap32 />} />
+        <Route index element={<Home />} />
+        <Route path="Chap33" element={<Chap33 />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap14" element={<Chap14 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap15" element={<Chap15 />} />
+        <Route index element={<Home />} />
 
-      <Route index element={<Home />} />
-      <Route path="Chap16" element={<Chap16 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap17" element={<Chap17 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap18" element={<Chap18 />} />
-
-      <Route index element={<Home />} />
-      <Route path="Chap19" element={<Chap19 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap20" element={<Chap20 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap21" element={<Chap21 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap22" element={<Chap22 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap23" element={<Chap23 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap24" element={<Chap24 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap25" element={<Chap25 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap26" element={<Chap26 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap27" element={<Chap27 />} />
-
-      <Route index element={<Home />} />
-      <Route path="Chap28" element={<Chap28 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap29" element={<Chap29 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap30" element={<Chap30 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap31" element={<Chap31 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap32" element={<Chap32 />} />
-      <Route index element={<Home />} />
-      <Route path="Chap33" element={<Chap33 />} />
-
-      <Route index element={<Home />} />
-
-      <Route index element={<Home />} />
-    </Routes>
-
-   
+        <Route index element={<Home />} />
+      </Routes>
+    </>
     // <Routes>
     //   <Route index element={<Home />} />
     //   <Route path="PrivacyPolicy" element={<PrivacyPolicy />} />
