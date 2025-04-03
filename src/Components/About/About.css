@@ -1,23 +1,23 @@
 .about {
     margin: 100px auto;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
     width: 70%;
 }
 
 .about-left {
-    flex-basis: 40%;
+    /* flex-basis: 40%; */
     position: relative;
 }
 
 .about-right {
-    flex-basis: 56%;
+    /* flex-basis: 56%; */
     margin-left: 50px;
 }
 
 .about-img {
-    width: 100%;
+    width: 500px;
     border-radius: 10px;
 }
 
@@ -53,8 +53,8 @@
 
     .about-left {
         flex-basis: 100%;
-        margin: 50px;
-        order: 2;
+        margin-top: 50px;
+        order: 1;
     }
 
     .about-right {

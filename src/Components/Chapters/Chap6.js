@@ -2,7 +2,7 @@ import React from "react";
 import "../../index.css";
 import { Link } from "react-router";
 import { Tooltip } from "react-tooltip";
-import secondcoming from '../../Assets/Img/secondcoming.png'
+import secondcoming from '../../Assets/Img/secondcoming.jpg'
 
 const Chap6 = () => {
   return (

@@ -3,7 +3,8 @@ import "../../index.css";
 import './About.css';
 import { Link } from "react-router";
 import video from '../../Assets/Img/video.jpg'
-import play_icon from '../../Assets/Img/play-icon.png'
+// import play_icon from '../../Assets/Img/play-icon.png'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 export default function About ({setPlayState}) {
   return (
@@ -11,8 +12,12 @@ export default function About ({setPlayState}) {
 
         <div className='about-left'>
             <img src={video} alt='' className='about-img'/>
-            <img src={play_icon} alt='' className='play-icon' onClick={ () => {setPlayState(true)} }/>
+            {/* <img src={play_icon} alt='' className='play-icon' onClick={ () => {setPlayState(true)} }/> */}
         </div>
+
+      {/* <div class="ratio ratio-1x1 about-left'">
+          <iframe src="https://www.youtube.com/watch?v=httASFpcAV0" title="YouTube video" allowfullscreen></iframe>
+      </div> */}
         
         <div className='about-right'>
           <p>In the October 2024 general conference, Mormon prophet Russell Nelson announced, “Brothers and sisters, now is the time for you and for me to prepare for the Second Coming of our Lord and Savior, Jesus the Christ.” The theme of his remarks was hastening the Lord’s work and preparing for an implied near Second Coming. Russell Nelson concluded, “The best is yet to come … because the Savior is coming again!”
