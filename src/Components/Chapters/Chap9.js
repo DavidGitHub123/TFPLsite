@@ -18,7 +18,7 @@ const Chap9 = () => {
         Chapter 9: The Lost 10 Tribes to Come to Zion
       </h1>
 
-      <img src={lost10tribes} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={lost10tribes} className='image' alt='Book Cover for The Quest for the Lost Ten Tribes of Israel' />
 
       <div className="wrapper">
 

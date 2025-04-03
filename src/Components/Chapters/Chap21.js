@@ -16,7 +16,7 @@ const Chap21 = () => {
 
       <h1 className='chapterHeading'>Chapter 21: Prophesied Events Unfulfilled </h1>
 
-      <img src={missouri} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={missouri} className='image' alt='1831-46 map of the Mormons in Missouri and Illinois' />
 
     <div className="wrapper">
 

@@ -16,7 +16,7 @@ const Chap27 = () => {
 
       <h1 className='chapterHeading'>Chapter 27: Mormon Reformation and Blood Atonement</h1>
 
-      <img src={bloodatonement} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={bloodatonement} className='image' alt='Painting depicting Blood Atonement sacrifice of man' />
 
     <div className="wrapper">
 

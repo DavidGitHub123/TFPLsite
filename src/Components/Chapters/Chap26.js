@@ -16,7 +16,7 @@ const Chap26 = () => {
 
       <h1 className='chapterHeading'>Chapter 26: Winter Quarters, Then on to Utah</h1>
 
-      <img src={winterquarters} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={winterquarters} className='image' alt='Painting of Mormon encampment at Winter Quarters' />
 
     <div className="wrapper">
 

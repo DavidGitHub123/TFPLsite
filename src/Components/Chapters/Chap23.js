@@ -16,7 +16,7 @@ const Chap23 = () => {
 
       <h1 className='chapterHeading'>Chapter 23: Council of Fifty and King Over All the Earth</h1>
 
-      <img src={councilof50} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={councilof50} className='image' alt='Drawing of Joseph Smith and Hyrum Smith' />
 
     <div className="wrapper">
 

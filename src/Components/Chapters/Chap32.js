@@ -16,7 +16,7 @@ const Chap32 = () => {
 
       <h1 className='chapterHeading'>Chapter 32: Denying Past Mormon Teachings</h1>
 
-      <img src={gordon} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={gordon} className='image' alt='photo Mormon prophet Gordon Hinkley with Larry King' />
 
     <div className="wrapper">
 

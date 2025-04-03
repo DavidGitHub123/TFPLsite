@@ -18,7 +18,7 @@ const Chap1 = () => {
           Introduction to the First Presidency Letter
         </h1>
 
-        <img src={video} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+        <img src={video} className='image' alt='photo of Mormon Prophet Russell Nelson' />
 
       <div className="wrapper">
 

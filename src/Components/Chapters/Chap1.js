@@ -18,7 +18,7 @@ const Chap1 = () => {
               Chapter 1: The Religious Genius and Mastermind
         </h1>
 
-        <img src={joseph2} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+        <img src={joseph2} className='image' alt='' />
 
       <div className="">
 

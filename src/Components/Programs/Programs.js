@@ -23,7 +23,7 @@ export default function Programs () {
                     <h1 className='feature-header'>Part I:</h1>
                     <h1 className='feature-header'>Joseph's Prophetic Vision</h1>
                 </div>
-                <img src={joseph2} className='caption-img'alt='' />
+                <img src={joseph2} className='caption-img'alt='photo of Joseph Smith' />
                 <div className='caption'>
                     <div className="margin-part">
                         <Link to="Intro"><p>The First Presidency Letter</p></Link>
@@ -55,7 +55,7 @@ export default function Programs () {
                     <h1 className='feature-header'>Joseph's End Day Scenario</h1>
                 </div>
 
-                <img src={angelsfighting} className='caption-img' alt='' />
+                <img src={angelsfighting} className='caption-img' alt='art of angels fight' />
                 <div className='caption'>
    
                     <div className="margin-part">
@@ -87,7 +87,7 @@ export default function Programs () {
                     <h1 className='feature-header'>Part III:</h1>
                     <h1 className='feature-header'>The Family of God</h1>
                 </div>
-                <img src={premortal} className='caption-img' alt='' />
+                <img src={premortal} className='caption-img' alt='William Blake painting of Abraham' />
                 <div className='caption'>
                     <div className="margin-part">
                     <Link to="Chap14"><p>14. Thy Kingdom Come</p></Link>
@@ -110,7 +110,7 @@ export default function Programs () {
         <div className='program'>
             <h1 className='feature-header'>Part IV:</h1>
             <h1 className='feature-header'>Building the Kingdom of God</h1>
-            <img src={brigham2} className='caption-img' alt='' />
+            <img src={brigham2} className='caption-img' alt='Photo of Brigham Youg' />
             <div className='caption'>
                 <div className="margin-part">
                     <Link to="Chap18"><p>18. Three Failed Concepts</p></Link>
@@ -133,7 +133,7 @@ export default function Programs () {
         <div className='program'>
             <h1 className='feature-header'>Part V:</h1>
             <h1 className='feature-header'>Historical Events</h1>
-            <img src={pioneers} className='caption-img' alt='' />
+            <img src={pioneers} className='caption-img' alt='photo of Mormon pioneers' />
             <div className='caption'>
                 <div className="margin-part">
                     <Link to="Chap23"><p>23. King Over All the Earth</p></Link>
@@ -162,7 +162,7 @@ export default function Programs () {
         <div className='program'>
             <h1 className='feature-header'>Part VI:</h1>
             <h1 className='feature-header'>Reinvent to Survive</h1>
-            <img src={apostles} className='caption-img' alt='' />
+            <img src={apostles} className='caption-img' alt='Photo of Mormon leaders at turn of 20th century' />
             <div className='caption'>
                 <div className="margin-part">
                 <Link to="Chap30"><p>30. 1891 Second Coming</p></Link>

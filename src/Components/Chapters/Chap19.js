@@ -17,7 +17,7 @@ const Chap19 = () => {
 
       <h1 className='chapterHeading'>Chapter 19: What of the Lamanites Today?</h1>
 
-      <img src={lamanites} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={lamanites} className='image' alt='Poster Who and Where are the Lamanites?' />
 
     <div className="wrapper">
 

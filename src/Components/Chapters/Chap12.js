@@ -16,7 +16,7 @@ const Chap12 = () => {
 
       <h1 className='chapterHeading'>Chapter 12: Plagues of the Seven Angels</h1>
 
-      <img src={angeldestroying} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={angeldestroying} className='image' alt='Art of an angel appearing over a city' />
 
     <div className="wrapper">
 

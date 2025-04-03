@@ -16,7 +16,7 @@ const Chap30 = () => {
 
       <h1 className='chapterHeading'>Chapter 30: The Second Coming End Date of 1891</h1>
 
-      <img src={destruction} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={destruction} className='image' alt='Art of modern city burning' />
 
     <div className="wrapper">
 

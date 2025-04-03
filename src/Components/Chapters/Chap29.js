@@ -16,7 +16,7 @@ const Chap29 = () => {
 
       <h1 className='chapterHeading'>Chapter 29: Eternal Dynasties</h1>
 
-      <img src={polygamy5} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={polygamy5} className='image' alt='Political Carton of Polygamous wives and children in a bed' />
 
     <div className="wrapper">
 

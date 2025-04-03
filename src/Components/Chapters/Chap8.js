@@ -16,7 +16,7 @@ const Chap8 = () => {
 
       <h1 className="chapterHeading">Chapter 8: Zion Will Be Sanctified</h1>
 
-      <img src={zion3} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={zion3} className='image' alt='Art of the New Jerusalem' />
 
       <div className="wrapper">
 

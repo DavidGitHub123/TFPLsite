@@ -18,7 +18,7 @@ const Chap6 = () => {
         Chapter 6: Joseph Reveals the Events of the Latter Days
       </h1>
 
-      <img src={secondcoming} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={secondcoming} className='image' alt='Art of the second coming' />
 
     <div className="wrapper">
 

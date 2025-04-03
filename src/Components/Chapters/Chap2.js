@@ -18,7 +18,7 @@ const Chap2 = () => {
         Chapter 2: Daniel’s Stone Cut of the Mountain
       </h1>
     
-      <img src={slctemple} className='image' alt='' />
+      <img src={slctemple} className='image' alt='photo of Mormon Salt Lake City temple' />
 
     <div className="wrapper">
 

@@ -4,14 +4,13 @@ import './About.css';
 import { Link } from "react-router";
 import video from '../../Assets/Img/video.jpg'
 // import play_icon from '../../Assets/Img/play-icon.png'
-import 'bootstrap/dist/css/bootstrap.min.css'
 
 export default function About ({setPlayState}) {
   return (
     <div className='about'>
 
         <div className='about-left'>
-            <img src={video} alt='' className='about-img'/>
+            <img src={video} alt='Mormon Prophet Russell Nelson' className='about-img'/>
             {/* <img src={play_icon} alt='' className='play-icon' onClick={ () => {setPlayState(true)} }/> */}
         </div>
 

@@ -18,7 +18,7 @@ const Chap4 = () => {
         Chapter 4: Source of Joseph’s Ideas on Zion
       </h1>
 
-      <img src={platte} className='image' alt='' />
+      <img src={platte} className='image' alt='proposed platte of the Mormon city of Zion in Jackson County' />
 
     <div className="wrapper">
 

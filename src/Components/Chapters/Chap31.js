@@ -16,7 +16,7 @@ const Chap31 = () => {
 
       <h1 className='chapterHeading'>Chapter 31: Forget Revealed Truth, Reinvent for Survival</h1>
 
-      <img src={nauvootemple} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={nauvootemple} className='image' alt='Drawing of the original Nauvoo temple' />
 
     <div className="wrapper">
 

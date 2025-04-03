@@ -16,7 +16,7 @@ const Chap10 = () => {
 
       <h1 className='chapterHeading'>Chapter 10: Zion Established in Jerusalem Among the Jews</h1>
 
-      <img src={jerusalem} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={jerusalem} className='image' alt='photo of the wailing wall at Jerusalem' />
 
     <div className="wrapper">
 

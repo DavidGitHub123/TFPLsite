@@ -16,7 +16,7 @@ const Chap3 = () => {
 
       <h1 className="chapterHeading">Chapter 3: Joseph’s Visionary Prowess</h1>
 
-      <img src={angelmoroni} className='image' alt='' />
+      <img src={angelmoroni} className='image' alt='painting Angel Moroni appearing to Joseph Smith' />
 
     <div className="wrapper">
 

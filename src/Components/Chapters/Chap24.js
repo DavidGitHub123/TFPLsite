@@ -17,7 +17,7 @@ const Chap24 = () => {
 
       <h1 className='chapterHeading'>Chapter 24: Power and Violence</h1>
 
-      <img src={danites} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={danites} className='image' alt='Drawing of the Danites propositioning a woman' />
 
     <div className="wrapper">
 

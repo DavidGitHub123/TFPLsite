@@ -15,7 +15,7 @@ const Chap33 = () => {
 
       <h1 className='chapterHeading'>Chapter 33: Daniel’s Prophecy Unfulfilled</h1>
 
-      <img src={final2} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={final2} className='image' alt='photo of the Mormon conference center' />
 
     <div className="wrapper">
 

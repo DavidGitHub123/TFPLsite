@@ -16,7 +16,7 @@ const Chap17 = () => {
 
       <h1 className='chapterHeading'>Chapter 17: Shadowy Past of the Premortal World</h1>
 
-      <img src={premortal2} className='image' alt='photo of Joseph Smith Mormon Prophet' />
+      <img src={premortal2} className='image' alt='Art of angel with wings' />
 
     <div className="wrapper">
 

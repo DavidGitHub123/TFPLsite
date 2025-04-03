@@ -18,7 +18,7 @@ const Chap5 = () => {
         Chapter 5: Lamanites and Ephraimites to Build Zion
       </h1>
 
-      <img src={nativeamericans} className='image' alt='' />
+      <img src={nativeamericans} className='image' alt='Mormons baptizing Native Americans' />
 
     <div className="wrapper">
 
