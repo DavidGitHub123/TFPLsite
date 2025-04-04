@@ -18,7 +18,7 @@ const Chap1 = () => {
           Introduction to the First Presidency Letter
         </h1>
 
-        <img src={video} className='image' alt='photo of Mormon Prophet Russell Nelson' />
+        <img src={video} className='image' alt='Mormon Prophet Russell Nelson' />
 
       <div className="wrapper">
 
@@ -149,7 +149,7 @@ const Chap1 = () => {
             – only for that generation to pass away with that promise unfulfilled. Countless patriarchal blessings promised people, 
             now in silent graves, that they will live to see the Second Coming. If a generation is 20 to 30 years,  
             <btn id="clickable11" className="footnote">11  </btn>
-            <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable className="footnote-size">Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
+            <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable >Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
             that means seven generations have passed, with those promises unfulfilled.         
           </p>
         </div>
