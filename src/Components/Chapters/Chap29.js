@@ -28,16 +28,16 @@ const Chap29 = () => {
 
         <div className='paragraph'>
           <p>In 1998, Mormon prophet Gordon Hinckley stated in a TV interview, “It (polygamy) was a very limited practice; carefully safeguarded.”  
-          <a id="clickable1" className="footnote">1 </a>
+          <btn id="clickable1" className="footnote">1 </btn>
           <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Gordon Hinckley, Larry King Live interview, August 9, 1998.</Tooltip> 
 
             Today, in an effort to distance itself from polygamy, the church teaches that polygamy was a “test of faith” that brought Mormons closer to God.  
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Foundations of the Restoration Teacher Manual, Lesson 20, Plural Marriage. LDS.org.</Tooltip>
 
             Mormon apostle Quentin Cook recently stated, “In the senior councils of the Church, there is a feeling that polygamy, as it was practiced, 
             served its purpose.”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Quentin Cook, Sept. 9, 2019, Face to Face Worldwide Broadcast.</Tooltip>
 
             He was sending the message that members are to leave the dark and painful chapter of polygamy alone.
@@ -48,11 +48,11 @@ const Chap29 = () => {
           <p>But the doctrine of plural wives was so much more than that! Polygamy was the crowning doctrine of Mormonism, essential for exaltation and for a man to become a 
             God in the eternities. After being caught in the five percent lie, church sources now state that, from its secret inception in Kirtland in the 1830s and into the 
             early 20th century in Utah, up to 30 percent of Mormon families practiced polygamy.  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Kathleen Flake (2004). The Politics of American Religious Identity. University of North Carolina Press. pp. 65, 192. Jessie L. Embry (1994), “Polygamy” in Powell, Allan Kent (ed.), Utah History Encyclopedia. Church Essay Plural Marriage and Families in Early Utah..</Tooltip>
 
             This figure represents tens of thousands of men, women, and children living in polygamous households.
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Solemn Covenant, B. Carmon Hardy, 1992, p. 17. </Tooltip>
           </p>
         </div>
@@ -61,19 +61,19 @@ const Chap29 = () => {
           <p>How important was the doctrine of polygamy? First Presidency Counselor Heber Kimball stated, “I speak of plurality of wives as one of the most holy principles 
             that God ever revealed to man … while those who honor this and every sacred institution of heaven will shine forth as the stars in the firmament of heaven, 
             and of the increase of their kingdom and glory there shall be no end.”
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, April 4, 1866, vol.11, p. 211.</Tooltip>
 
               Mormon apostle Orson Hyde stated, “A great many men say, ‘… I believe I shall only have one wife’ … but with the commandment of the Lord before us like a blaze of 
               light, can we disregard it and serve him acceptably? … These commandments are sent for our good, for our salvation and exaltation.”  
-              <a id="clickable7" className="footnote">7 </a>
+              <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Orson Hyde, Journal of Discourses, October 5, 1873, vol.16, p. 236.</Tooltip>
 
               
               Brigham stated, “The only men who become Gods, even the Sons of God, are those who enter into polygamy. Others attain unto a glory and may even be permitted to 
               come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to 
               accept them.”
-              <a id="clickable8" className="footnote">8 </a>
+              <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Brigham Young, Journal of Discourses, August 19, 1866, vol.11, p. 269</Tooltip>
           </p>
         </div>
@@ -84,7 +84,7 @@ const Chap29 = () => {
           <p>Joseph developed an interest in polygamy from the Old Testament, where prophets had more than one wife. Joseph claimed Christ revealed, “Verily, thus saith the 
             Lord … that inasmuch as you have inquired … to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and 
             Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines … [I] will answer thee as touching this matter.”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>D&C 132:1-2.</Tooltip>
 
             By the end of his life, Joseph had secretly married up to 40 women. Second Mormon prophet Brigham Young married 56 women polygamously. First Presidency Counselor Heber Kimball married 43 women polygamously. The practice was kept secret from church members until the church officially announced it in 1852. The church reluctantly ended the practice in the early 20th century.
@@ -95,7 +95,7 @@ const Chap29 = () => {
           <p>Rumors of polygamy followed the Mormons from its earliest years. To refute the allegations, Joseph published an untruthful denial in the 1835 Doctrine and 
             Covenants. “Inasmuch as this church of Christ has been reproached with the crime of fornication, and polygamy; we declare that we believe that one man should have 
             one wife; and one woman, but one husband.”  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>1835 Doctrine and Covenants, C1, p. 251.</Tooltip>
             
             This denial most likely stemmed from Joseph’s relationship with a servant girl, Fanny Alger, in his house between 1833 
@@ -107,13 +107,13 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Although married to 25 plural wives at the time, Joseph stated from the stand in 1844, “What a thing it is for a man to be accused of committing adultery, 
             and having seven wives, when I can only find one. I am the same man, and as innocent as I was fourteen years ago; and I can prove them all perjurers.”  
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>History of the Church, vol, 6, p. 411, Sunday May 26, 1844.  </Tooltip>
             
             On August 1, 1842, Mormon apostle Parley Pratt published a rebuttal to the rumors that church leaders, including Joseph, were practicing plural marriage. “… but 
             for the information of those who may be assailed by those foolish tales about the two wives … we would say that no such principle ever existed among the 
             Latter-Day Saints and never will.”  
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Millennial Star, vol. 3, p. 74. </Tooltip>
 
             Parley disclosed in his autobiography that Joseph revealed plural marriage to him in January 1840.
@@ -132,11 +132,11 @@ const Chap29 = () => {
              at this time had married four plural wives and fathered two polygamous children. Nine months later, Mormon apostle John Taylor 
              published a pamphlet saying, “… we are accused here of polygamy, and actions the most indelicate, obscene, and disgusting … these 
              things are too outrageous to admit of belief.”  
-             <a id="clickable13" className="footnote">13 </a>
+             <btn id="clickable13" className="footnote">13 </btn>
              <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>1850, Doctrine and Covenants,” page 330.</Tooltip>
              
              At this time John Taylor had married 12 polygamist wives, producing eight children.
-             <a id="clickable14" className="footnote">14 </a>
+             <btn id="clickable14" className="footnote">14 </btn>
              <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Michael Quinn article “LDS Church Authority and New Plural Marriages, 1890-1904” Dialogue, vol, 18, no. 1, Spring 1985. </Tooltip>
           </p>
         </div>
@@ -147,12 +147,12 @@ const Chap29 = () => {
           <p>Joseph’s personal secretary, William Clayton, stated, “... [Joseph Smith taught] the doctrine of plural and celestial marriage is the most holy and important 
             doctrine ever revealed to man on the earth, and that without obedience to that principle no man can ever attain to the fullness of 
             exaltation in the celestial glory.”  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>William Clayton, Joseph Smith's secretary, Historical Record, v. 6, p. 226.</Tooltip>
 
             Polygamy was taught as being essential for exaltation and that a woman could only secure her place in heaven by being sealed to a righteous priesthood holder. 
             Brigham stated, “[A] man who did not have but one wife in the Resurrection that woman will not be his but [be] taken from him & given to another.”
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Brigham Young, quoted by Wilford Woodruff, in Abanes, One Nation Under Gods, p. 579.</Tooltip>
           </p>
         </div>
@@ -160,14 +160,14 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>In The Millennial Star, a church newspaper, an article states that men and women who refuse to practice polygamy will have a lesser station in the afterlife.
             Brigham Young, quoted by Wilford Woodruff, in Abanes, One Nation Under Gods, p. 579.
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Carmon Hardy, ed. (2007). Doing the Works of Abraham: Mormon Polygamy: Its Origin, Practice, and Demise, p. 117.</Tooltip>
             Mormon apostle Orson Pratt agreed. He stated in 1874, “God has told us Latter-day Saints that we shall be condemned if we do not enter into that principle 
             [of polygamy]; and yet I have heard now and then …a brother or a sister say, ‘I am a Latter-day Saint, but I do not believe in polygamy.’ Oh, what an absurd 
             expression! What an absurd idea! A person might as well say, ‘I am a follower of the Lord Jesus Christ, but I do not believe in him.’ … If the doctrine of polygamy, 
             as revealed to the Latter-day Saints, is not true, I would not give a fig for all your other revelations that came through Joseph Smith the Prophet; I would 
             renounce the whole of them, ... The Lord has said that those who reject this principle reject their salvations, they shall be damned, saith the Lord...”
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, October 7, 1874, vol. 17, p. 224-225.</Tooltip>
           </p>
         </div>
@@ -179,12 +179,12 @@ const Chap29 = () => {
             “The First Command was to ‘Multiply’ and the Prophet taught us that Dominion & power in the great Future would be Commensurate with the no [number] of ‘Wives 
             Children & Friends’ that we inherit here and that our great mission to earth was to Organize a Nuclei [nucleus] of Heaven to take with us. To the increase of 
             which there would be no end.”  
-            <a id="clickable19" className="footnote">19 </a>
+            <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Benjamin Johnson, I Knew the Prophets: An Analysis of the Letter of Benjamin F. Johnson to George F. Gibbs, Reporting Doctrinal Views of Joseph Smith and Brigham Young, 1976, ed. by Dean R. Zimmerman, p. 47.</Tooltip>
             
             Brigham stated in 1860, “Brother Cannon remarked that people wondered how many wives and children I had. He may inform them that I shall have wives and children by 
             the million, and glory, and riches, and power, and dominion, and Kingdom after Kingdom, and reign triumphantly.”
-            <a id="clickable20" className="footnote">20 </a>
+            <btn id="clickable20" className="footnote">20 </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Brigham Young, Journal of Discourses, September 9, 1860, vol. 8, p. 178-179.</Tooltip>
           </p>
         </div>
@@ -194,7 +194,7 @@ const Chap29 = () => {
             I met with the Quorum and Presidency in the temple... President Woodruff then spoke... ‘In searching out my genealogy I found about four hundred of my female 
             kindred who were never married. I asked Pres. Young what I should do with them. He said for me to have them sealed to me unless there were more than 999 of them. 
             The doctrine startled me, but I had it done.”
-            <a id="clickable21" className="footnote">21 </a>
+            <btn id="clickable21" className="footnote">21 </btn>
             <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>Daily Journal of Abraham Cannon, April 5, 1894, vol. 18, pp. 66-67.</Tooltip>
           </p>
         </div>
@@ -202,12 +202,12 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>A pioneer song states, “Now, sisters … help husband get a wife! Now this advice I freely give, if exalted you will be, Remember that your husband must be 
             blessed with more than thee … And aid her husband all she can to obtain a dozen wives.”  
-            <a id="clickable22" className="footnote">22 </a>
+            <btn id="clickable22" className="footnote">22 </btn>
             <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Songs of Zion, published by the LDS Church; see Abanes, One Nation Under Gods, p. 303.</Tooltip>
             
             In the Millennial Star, an article teaches that monogamous marriages result in offspring that are physically and mentally lesser than offspring of polygamous 
             marriages.
-            <a id="clickable23" className="footnote">23 </a>
+            <btn id="clickable23" className="footnote">23 </btn>
             <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Carmon Hardy, ed. (2007). Doing the Works of Abraham: Mormon Polygamy: Its Origin, Practice, and Demise, p. 187.</Tooltip>
           </p>
         </div>
@@ -219,7 +219,7 @@ const Chap29 = () => {
             will that righteous men shall take Righteous women even a plurality of Wives that a Righteous race may be sent forth upon the Earth preparatory to the ushering in 
             of the Millennial Reign of our Redeemer – For the Lord has such a high respect for the nobles of his kingdom that he is not willing for them to come through the 
             Loins of a Careless People – Therefore; it behooves those who embrace that Principle to pay strict attention to even the Least requirement of our Heavenly Father.”
-            <a id="clickable24" className="footnote">24 </a>
+            <btn id="clickable24" className="footnote">24 </btn>
             <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Mosiah Hancock Autobiography, pp. 61-62.</Tooltip>
           </p>
         </div>
@@ -233,7 +233,7 @@ const Chap29 = () => {
             and I wish I had more to help to build up the kingdom of God.’ Or if he came and said, ’I want your wife?’ ‘O yes,’ he would say, ’here she is, there are plenty 
             more.’ ... Did the Prophet Joseph want every man’s wife he asked for? ... If such a man of God should come to me and say, ‘I want your gold and silver, or your 
             wives,’ I should say, ‘Here they are, I wish I had more to give you, take all I have got.’”
-            <a id="clickable25" className="footnote">25 </a>
+            <btn id="clickable25" className="footnote">25 </btn>
             <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, February 19, 1854, vol. 2, p. 13-14.</Tooltip>
           </p>
         </div>
@@ -242,7 +242,7 @@ const Chap29 = () => {
           <p>Joseph taught that his celestial sealings would continue after death. First Presidency Counselor Heber Kimball stated, “In the spirit... world we will go to 
             brother Joseph.... He will say to us, ‘Come along my boys, we will give you a good suit of clothes. Where are your wives.’ [Answering Joseph] ‘They are back 
             yonder; they would not follow us.’ ‘Never mind,’ says Joseph, ‘here are thousands, have all you want.’”
-            <a id="clickable26" className="footnote">26 </a>
+            <btn id="clickable26" className="footnote">26 </btn>
             <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, February 1, 1857, vol. 4, p. 209.</Tooltip>
           </p>
         </div>
@@ -258,7 +258,7 @@ const Chap29 = () => {
             man forfeits his covenants with a wife, or wives, becoming unfaithful to his God, and his priesthood, that wife or wives are free from him without a bill of 
             divorcement. Second. If a woman claims protection at the hands of a man, possessing more power in the priesthood and higher keys, if he is disposed to rescue her 
             and has obtained the consent of her husband to make her his wife he can do so without a bill of divorcement.”
-            <a id="clickable27" className="footnote">27 </a>
+            <btn id="clickable27" className="footnote">27 </btn>
             <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>A few words of Doctrine, speech given by Brigham Young in the Tabernacle on Oct. 8, 1861; photocopy of a document in the Mormon Church Historical Department, Brigham Young Addresses, Ms./d/1243/Bx 49/fd 8)</Tooltip>
           </p>
         </div>
@@ -268,26 +268,26 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Mormon leaders went as far to claim that God the Father and Jesus Christ were polygamists. Brigham taught, “When our father Adam came into the garden of Eden, he 
             came into it with a celestial body, and brought Eve, one of his wives, with him.”  
-            <a id="clickable28" className="footnote">28 </a>
+            <btn id="clickable28" className="footnote">28 </btn>
             <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 9, 1852, vol. 1, p. 50.</Tooltip>
 
             In 1853, Mormon apostle Orson Pratt stated, regarding Mary the mother of Jesus, that “… He (God the Father) intended after the resurrection to again take her 
             (Mary) as one of his wives to raise up immortal spirits in eternity ... We have now clearly shown that God the Father had a plurality of wives, one or more being 
             in eternity by whom He begat our spirits as well as the spirit of Jesus His First Born.”
-            <a id="clickable29" className="footnote">29 </a>
+            <btn id="clickable29" className="footnote">29 </btn>
             <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>Orson Pratt, The Seer, vol. 1, issue 10, p. 158, 172.</Tooltip>
           </p>
         </div>
 
         <div className='paragraph'>
           <p>Orson also stated that Christ had multiple wives, including New Testament characters Mary Magdalene and Lazarus’ two sisters, Mary and Martha.  
-          <a id="clickable30" className="footnote">30 </a>
+          <btn id="clickable30" className="footnote">30 </btn>
           <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>Michael Durham, 1997, p. 182, Desert Between the Mountains: Mormons, Miners, Padres, Mountain Men, and the Opening of the Great Basin, 1772-1869. </Tooltip>
             
             First Presidency Counselor Jedediah Grant agreed. “The grand reason why the Gentiles and philosophers of his school persecuted Jesus Christ, was, because he had so 
             many wives; there were Elizabeth, and Mary, and a host of others that followed him ... The grand reason … causing his crucifixion, was evidently based upon 
             polygamy, according to the testimony of the philosophers who rose in that age.”
-            <a id="clickable31" className="footnote">31 </a>
+            <btn id="clickable31" className="footnote">31 </btn>
             <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, August 7, 1853, vol. 1, p. 345–346.</Tooltip>
           </p>
         </div>
@@ -297,13 +297,13 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Some women reported living happily in plural marriages. Other women did not. Early Mormon Joseph Robinson stated, “Plural marriage ... is calculated in its nature 
             to severely try the women even to nearly tear their heart strings out of them ...”  
-            <a id="clickable32" className="footnote">32 </a>
+            <btn id="clickable32" className="footnote">32 </btn>
             <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Journal and Autobiography of Joseph Lee Robinson, p. 50.</Tooltip>
 
             One of Brigham’s wife Zina Huntington stated of polygamy, “It is the duty of the first wife to regard her husband not with a selfish devotion ... she must regard 
             her husband with indifference, and with no other feeling than that of reverence, for love we regard as a false sentiment; a feeling which should have no existence 
             in polygamy.”
-            <a id="clickable33" className="footnote">33 </a>
+            <btn id="clickable33" className="footnote">33 </btn>
             <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>Zina Huntington, wife of Prophet Brigham Young, New York World, November 17, 1869, as cited in The Lion of the Lord, pp. 229-230.</Tooltip>
           </p>
         </div>
@@ -311,12 +311,12 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Wife of Mormon apostle Charles Rich, Sarah Rich, stated, “[Polygamy] I could not have done if I had not believed it to be right in the Sight of god and believed 
             it to be one principal of his gospel once again restored to earth.”  
-            <a id="clickable34" className="footnote">34 </a>
+            <btn id="clickable34" className="footnote">34 </btn>
             <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>Sarah Rich, quoted in Leonard J. Arrington, Charles C. Rich: Mormon General and Western Frontiersman, 1974, p. 288.</Tooltip>
 
             Wife of Brigham, Mary Ann Angell, stated, “God will be very cruel if he does not give us poor women adequate compensation for the trials we have endured in 
             polygamy.”
-            <a id="clickable35" className="footnote">35 </a>
+            <btn id="clickable35" className="footnote">35 </btn>
             <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>Mary Ann Angell Young, quoted in Anti-Polygamy Standard, August 1882, p. 36.</Tooltip>
           </p>
         </div>
@@ -332,7 +332,7 @@ const Chap29 = () => {
              The next thing I knew, I don’t know what time it was, Miles stood in the room and was locking the door on the inside. I screamed ... Miles said I need not take 
              on, for Brother Cannon had anticipated that I would make trouble and had the house cleared of everyone else. I found out that it was so. He told me that I might 
              as well submit; there was no law here to control the saints. There was no power on earth that would save me.”
-             <a id="clickable36" className="footnote">36 </a>
+             <btn id="clickable36" className="footnote">36 </btn>
              <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>Caroline Owens, in Matilda Joslyn Gage, Women, Church and State, 1998, pp. 238-240.</Tooltip>
           </p>
         </div>
@@ -341,7 +341,7 @@ const Chap29 = () => {
 
         <div className='paragraph'>
           <p>Brigham was 64, and Ann Eliza was 21 when they married. Ann Eliza would go on to divorce Brigham and publish an exposé that shone a light on the practice.  
-          <a id="clickable37" className="footnote">37 </a>
+          <btn id="clickable37" className="footnote">37 </btn>
           <Tooltip anchorSelect="#clickable37" className="footnote-size" clickable>Claudia Glenn Dowling, Brigham Young’s 19th Wife, American History Magazine, June 2012. </Tooltip>
 
             Ann Eliza wrote a letter, “O Mother, she pleaded, to give myself to a man older than my father … who is already the husband of many wives, the father of children older, by many years, than myself…” Ann Eliza’s life had been intertwined with Brigham’s life since he held her on his knee as a young child in Nauvoo. Years earlier, Ann Eliza’s mother spoke about entering polygamy. When her husband took his second wife to bed she contemplated suicide. Soon Eliza’s father would have five wives.
@@ -387,7 +387,7 @@ const Chap29 = () => {
           <p>How important of a doctrine was polygamy? First Presidency Counselor Heber Kimball stated, “I speak of plurality of wives as one of the most holy principles that 
             God ever revealed to man … while those who honor this and every sacred institution of heaven will shine forth as the stars in the firmament of heaven, and of the 
             increase of their kingdom and glory there shall be no end.”
-            <a id="clickable38" className="footnote">38 </a>
+            <btn id="clickable38" className="footnote">38 </btn>
             <Tooltip anchorSelect="#clickable38" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, April 4, 1866, vol.11, p.211.</Tooltip>
           </p>
         </div>
@@ -400,7 +400,7 @@ const Chap29 = () => {
             women to be polygamous wives. The historical record shows that Mormon missionaries lied, telling converts that polygamy was an ugly rumor when they themselves 
             had multiple wives. As discussed, third Mormon prophet John Taylor, while in France in 1850, denied the practice of polygamy despite being married to 
             12 women at the time.
-            <a id="clickable39" className="footnote">39 </a>
+            <btn id="clickable39" className="footnote">39 </btn>
             <Tooltip anchorSelect="#clickable39" className="footnote-size" clickable>Public Discussion Between the Revds. C.W. Cleeve, James Robertson, and Philip Cater, and Elder John Taylor of the Church of Jesus Christ of Latter-day Saints at Boulogne-Sur-Mer, France. Taylor remarked, “We are accused of polygamy, and actions the most indelicate, obscene, and disgusting, such that none but a corrupt and depraved heart could have contrived. These things are too outrageous to admit of belief … I shall content myself by reading our views of chastity and marriage, from a work published by us, containing some of the articles of our Faith. “Doctrine and Covenants,” page 330. Taylor read the revelation that claims the Mormon church at that time believed in the doctrine of monogamy, although at the time Taylor had married 12 women.</Tooltip>
           </p>
         </div>
@@ -410,7 +410,7 @@ const Chap29 = () => {
             Joseph Smith’s desire to build a theocracy to rule the world. First Presidency Counselor Heber Kimball had instructed departing missionaries, “The brother 
             missionaries have been in the habit of picking out the prettiest women for themselves before they get here and bringing on the ugly ones for us; hereafter 
             you have to bring them all here before taking any of them and let us all have a fair shake.”  
-            <a id="clickable40" className="footnote">40 </a>
+            <btn id="clickable40" className="footnote">40 </btn>
             <Tooltip anchorSelect="#clickable40" className="footnote-size" clickable>Stanley Hirshon, The Lion of the Lord, pages 139-140.</Tooltip>
             
             This practice was so widely known that Sir Arthur Conan Doyle 
@@ -420,7 +420,7 @@ const Chap29 = () => {
 
         <div className='paragraph'>
           <p>Wilford Woodruff wrote “nearly all are trying to get wives, until there is hardly a girl 14 years old in Utah, but what is married.”  
-          <a id="clickable41" className="footnote">41 </a>
+          <btn id="clickable41" className="footnote">41 </btn>
           <Tooltip anchorSelect="#clickable41" className="footnote-size" clickable>Eugene Campbell, Establishing Zion: The Mormon Church in the American West, 1847-1869, 181-98; Thomas G. Alexander, “Wilford Woodruff and the Mormon Reformation of 1855-57,” Dialogue 25 (Summer 192), 25-39. See also Paul H. Peterson, “The Mormon Reformation of 1856-1857; The Rhetoric and the Reality,” JHM 15 (1989), 59-87.</Tooltip>
 
             Lorenzo Snow married two 16-year-olds and had children with them both. Besides women in their 20s and 30s, throughout his life Lorenzo married 18-year-old Charlotte Squires, 18-year-old Sarah Ann Prichard, 17-year-old Eleanor Houtz, 17-year-old Mary Elizabeth Houtz, 16-year-old Phoebe Amelia Woodruff, and 16-year-old Sara Minnie Ephramina Jensen.
@@ -430,17 +430,17 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Historian George D. Smith studied 153 men who took plural wives in the early years of Mormonism. He found that two of the girls were thirteen years old, 
             13 girls were fourteen years old, 21 were fifteen years old, and 53 were sixteen years old.
-            <a id="clickable42" className="footnote">42 </a>
+            <btn id="clickable42" className="footnote">42 </btn>
             <Tooltip anchorSelect="#clickable42" className="footnote-size" clickable>George Smith, “Nauvoo Polygamists”, Dialogue: A Journal of Mormon Thought, Spring 1994, p. ix.</Tooltip>
 
             The New York Times reported in 1857 cases of girls aged 10 and 11 being married to men in Utah and noted that marriages of girls aged 14 was 
             “a very common occurrence.”  
-            <a id="clickable43" className="footnote">43 </a>
+            <btn id="clickable43" className="footnote">43 </btn>
             <Tooltip anchorSelect="#clickable43" className="footnote-size" clickable>Stanley Hirshson, The New York Times, 1969, The Lion of the Lord.</Tooltip>
 
             Demonstrating the reality of this practice of marrying young teenage girls, Brigham attempted to stamp out men being sealed to young girls. “I shall not seal the 
             people as I have done. Old Father Alread brought three young girls 12 & 13 years old. I would not seal them to him. They would not be equally yoked together.”
-            <a id="clickable44" className="footnote">44 </a>
+            <btn id="clickable44" className="footnote">44 </btn>
             <Tooltip anchorSelect="#clickable44" className="footnote-size" clickable>Wilford Woodruff's Journal, vol. 5, p. 58.</Tooltip>  
           </p>
         </div>
@@ -450,12 +450,12 @@ const Chap29 = () => {
             disgraceful system .... Marriages have been contracted between the nearest of relatives; and old men tottering on the brink of the grave have been united to 
             little girls scarcely in their teens; while unnatural alliances of every description, which in any other community would be regarded with disgust and abhorrence, are here 
             entered into in the name of God.”
-            <a id="clickable45" className="footnote">45 </a>
+            <btn id="clickable45" className="footnote">45 </btn>
             <Tooltip anchorSelect="#clickable45" className="footnote-size" clickable>Fanny Stenhouse, 1875, Tell it All: A Woman's Life in Polygamy.</Tooltip>
             
             Fanny Stenhouse also wrote, “I know also another man who married a widow with several children; and when one of the girls had grown into her teens, he insisted on 
             marrying her also… and to this very day the daughter bears children to her stepfather, living as wife in the same house with her mother.”
-            <a id="clickable46" className="footnote">46 </a>
+            <btn id="clickable46" className="footnote">46 </btn>
             <Tooltip anchorSelect="#clickable46" className="footnote-size" clickable>Fanny Stenhouse, Tell It All, 1875, p. 469.</Tooltip>
           </p>
         </div>
@@ -468,12 +468,12 @@ const Chap29 = () => {
             the beginning of the end of polygamy. Outside Utah, polygamy morally outraged people who viewed it as a violation of American Christian values and morals. First 
             Presidency Counselor Heber Kimball confidently stated, “It would be as easy for the United States to build a tower to remove the sun, as to remove polygamy, or the 
             Church and Kingdom of God.”  
-            <a id="clickable47" className="footnote">47 </a>
+            <btn id="clickable47" className="footnote">47 </btn>
             <Tooltip anchorSelect="#clickable47" className="footnote-size" clickable>Heber C. Kimball, Millennial Star, v. 28, p. 190.</Tooltip>
 
             And in 1879, Mormon apostle, George Cannon boldly stated, “If plural marriage be divine, as the Latter-day Saints say it is, no power on earth can suppress it, 
             unless you crush and destroy the entire people.”
-            <a id="clickable48" className="footnote">48 </a>
+            <btn id="clickable48" className="footnote">48 </btn>
             <Tooltip anchorSelect="#clickable48" className="footnote-size" clickable>George Q. Cannon, Journal of Discourses, July 20, 1879, vol. 20, p. 276.</Tooltip> 
           </p>
         </div>
@@ -481,7 +481,7 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Apparently, in the late 19th century the U.S. government exerted more power than the Mormon God! In 1856, the Republican platform included abolishing “the twin 
             relics of barbarism – polygamy and slavery.”  
-            <a id="clickable49" className="footnote">49 </a>
+            <btn id="clickable49" className="footnote">49 </btn>
             <Tooltip anchorSelect="#clickable49" className="footnote-size" clickable>Kelly Phipps, 2009, Marriage and Redemption: Mormon Polygamy in the Congressional Imagination, 1862–1887. Virginia Law Review. 95 (2): 438.</Tooltip> 
 
             In 1862, the U.S. Congress passed the Morrill Anti-Bigamy Act, which prohibited polygamous marriage in the territories. The Mormons ignored the law. In 1879 the Supreme Court upheld the constitutionality of the Morrill Act stating, “Laws are made for the government of actions, and while they cannot interfere with mere religious belief and opinion, they may with practices.” The Mormons ignored the law. In 1882, the U.S. Congress passed the Edmunds Act making polygamy a felony punishable by a $500 fine and five years in prison. It also revoked the right of polygamists to vote or hold office. 
@@ -493,7 +493,7 @@ const Chap29 = () => {
             operating the church underground. To show his defiance while hiding, the 78-year-old prophet married a 26-year-old woman. The Mormons did everything they 
             could to escape federal deputies. “In addition to false names, disguises, and ruses, a whole system of information gathering, signaling, and spotting informers was
              developed.”
-             <a id="clickable50" className="footnote">50 </a>
+             <btn id="clickable50" className="footnote">50 </btn>
              <Tooltip anchorSelect="#clickable50" className="footnote-size" clickable>Kimball Young, Isn't One Wife Enough? p. 396.</Tooltip> 
           </p>
         </div>
@@ -503,11 +503,11 @@ const Chap29 = () => {
             Everlasting Covenant and how far it is binding upon my people. Thus, saith the Lord all commandments that I give must be obeyed by those calling themselves by my 
             name unless they are revoked by me or by my authority and how can I revoke an everlasting covenant. For I the Lord am everlasting and my everlasting covenants 
             cannot be abrogated nor done away with; they stand forever.”  
-            <a id="clickable51" className="footnote">51 </a>
+            <btn id="clickable51" className="footnote">51 </btn>
             <Tooltip anchorSelect="#clickable51" className="footnote-size" clickable>John Taylor Papers, Church Historian's Office, Sept. 27th, Unpublished Revelations of the Prophets and Presidents of the Church of Jesus Christ of Latter-day Saints, by Fred C. Collier, 1979.</Tooltip> 
 
             This revelation motivated John to emerge from hiding and give a sermon, “Are we going to suffer a surrender of this point?” He answered, “No, never! No, never!”
-            <a id="clickable52" className="footnote">52 </a>
+            <btn id="clickable52" className="footnote">52 </btn>
             <Tooltip anchorSelect="#clickable52" className="footnote-size" clickable>John Taylor, Journal of Discourses, August 20, 1882, vol. 23, p. 235.</Tooltip>
           </p>
         </div>
@@ -516,13 +516,13 @@ const Chap29 = () => {
           <p>As federal pressure increased to arrest polygamists, the prophet responded in defiance again asking all monogamists serving in ward bishoprics or stake 
             presidencies to marry a plural wife or resign from church office. John Taylor asked if he should disobey God in order to support the government? 
             He answered, “No, Never! No, NEVER! NO, NEVER!”  
-            <a id="clickable53" className="footnote">53 </a>
+            <btn id="clickable53" className="footnote">53 </btn>
             <Tooltip anchorSelect="#clickable53" className="footnote-size" clickable>John Taylor, Journal of Discourses, August 20, 1882, vol. 23, p. 235.</Tooltip>
             
             Then the prophet slipped back into hiding to avoid arrest by federal officers. In defiance, “In 1882 President John Taylor issued an Epistle, ‘On Marriage,’ 
             authorizing church marriages outside the Endowment House and temples. Two years later he admitted in court testimony that he had authorized hundreds of men to 
             perform secret marriages at any place convenient.”
-            <a id="clickable54" className="footnote">54 </a>
+            <btn id="clickable54" className="footnote">54 </btn>
             <Tooltip anchorSelect="#clickable54" className="footnote-size" clickable>Samuel W. Taylor, Rocky Mountain Empire, pp. 20-21, footnote 15.</Tooltip>
           </p>
         </div>
@@ -538,7 +538,7 @@ const Chap29 = () => {
           <p>While hiding from authorities, Fourth Mormon prophet Wilford Woodruff had an armed guard protect him. He wrote, “I have a large stout man who goes with me … 
             night and day [he] carries 2 pistols & a double barrel shot gun and says he will shoot the marshals if they come to take me (Don’t tell anybody this) so I am … 
             well-guarded.”  
-            <a id="clickable55" className="footnote">55 </a>
+            <btn id="clickable55" className="footnote">55 </btn>
             <Tooltip anchorSelect="#clickable55" className="footnote-size" clickable>Letter from Wilford Woodruff to Miss Nellie Atkin, dated Sept. 3, 1887.</Tooltip>
             
             Eventually, Woodruff fled to San Francisco.
@@ -549,13 +549,13 @@ const Chap29 = () => {
           <p>According to historian Michael Quinn, church leaders considered signing a document like the 1890 Manifesto on 20 December 1888 but rejected the idea. 
             Wilford told the apostles, “Had we yielded to that document every man of us would have been under condemnation before God. The Lord never will give a revelation 
             to abandon plural marriage.”  
-            <a id="clickable56" className="footnote">56 </a>
+            <btn id="clickable56" className="footnote">56 </btn>
             <Tooltip anchorSelect="#clickable56" className="footnote-size" clickable>Michael Quinn, Dialogue: A Journal of Mormon Thought, Spring 1985, p. 35.</Tooltip>
             
             The following year Wilford considered concessions to the court regarding the Edmunds-Tucker Act. On 24 November 1889, Wilford read a revelation to the Quorum of the 
             Twelve. “The answer came quick and strong. The Word of the Lord was for us not to yield one particle of that which he had revealed and established. He had done and 
             would continue to care for His work and those of the Saints who were faithful, and we need have no fear of our enemies when we were in the line of duty.”
-            <a id="clickable57" className="footnote">57 </a>
+            <btn id="clickable57" className="footnote">57 </btn>
             <Tooltip anchorSelect="#clickable57" className="footnote-size" clickable>Daily Journal of Abraham Cannon, December 19, 1889.</Tooltip>
           </p>
         </div>
@@ -574,7 +574,7 @@ const Chap29 = () => {
           <p>His 1890 Manifesto did not dissolve existing plural marriages but merely claimed to end the practice of new polygamous marriages. Thus, the practice was 
             “suspended” while still retaining polygamy as a doctrine. The church unanimously sustained the 1890 manifesto as the will of God, but it was a lie. Records 
             show that more than 200 plural marriages were performed between 1890 and 1904.
-            <a id="clickable58" className="footnote">58 </a>
+            <btn id="clickable58" className="footnote">58 </btn>
             <Tooltip anchorSelect="#clickable58" className="footnote-size" clickable>Carmon Hardy, (1992). Solemn Covenant: The Mormon Polygamous Passage.</Tooltip>
             
             There were probably many more plural marriages performed for which records 
@@ -602,7 +602,7 @@ const Chap29 = () => {
             residents who requested them…. George Q. Cannon was Presidency counselor and next in line to be Church President from 1899 to 1901. He personally authorized new 
             plural marriages performed in Mexico, Canada, and the United States, from 1892 until his death in 1901. This included plural marriages performed for 3 of his sons 
             and 3 of his nephews.”
-            <a id="clickable59" className="footnote">59 </a>
+            <btn id="clickable59" className="footnote">59 </btn>
             <Tooltip anchorSelect="#clickable59" className="footnote-size" clickable>Michael Quinn, “Plural Marriages After The 1890 Manifesto,” lecture, August 1991 at Bluffdale, Utah.</Tooltip>
 
           </p>
@@ -613,7 +613,7 @@ const Chap29 = () => {
             God of truth, the Lord had no hand in the 1890 Manifesto. Wilford explained to church members that the Lord had directed, “I should have let all the temples go
              out of our hands; I should have gone to prison myself, and let every other man go there, had not the God of heaven commanded me to do what I do; and when the hour 
              came that I was commanded to do that, it was all clear to me.”   
-             <a id="clickable60" className="footnote">60 </a>
+             <btn id="clickable60" className="footnote">60 </btn>
             <Tooltip anchorSelect="#clickable60" className="footnote-size" clickable>Official Declaration 1. </Tooltip>
 
              Essentially, the choice was between continuing to practice plural marriage and losing the temples. Wilford decided it was best to discontinue plural marriage so as not to lose the temples while retaining the ability to perform temple ordinances.
@@ -628,7 +628,7 @@ const Chap29 = () => {
             Brother Joseph F. Smith, and the Twelve Apostles. I might as well undertake to turn an army with banners out of its course as to turn them out of a course that they 
             considered to be right. These men agreed with me, and ten thousand Latter-day Saints also agreed with me.… Why? Because they were moved upon by the Spirit of God 
             and by the revelations of Jesus Christ to do it.”
-            <a id="clickable61" className="footnote">61 </a>
+            <btn id="clickable61" className="footnote">61 </btn>
             <Tooltip anchorSelect="#clickable61" className="footnote-size" clickable>Remarks of Wilford Woodruff at Cache Stake Conference, Logan, UT Sunday afternoon, Nov. 1, 1891, Appeared in the Deseret Weekly, Vol. 43. pp. 659-60.</Tooltip>
           </p>
         </div>
@@ -639,7 +639,7 @@ const Chap29 = () => {
             again wo unto that nation or house or people who seek to hinder my people from obeying the Patriarchal Law of Abraham which leadeth to a celestial glory which 
             has been revealed unto my Saints through the mouth of my servant Joseph, for whosoever doeth those things shall be damned saith the Lord of Hosts and shall be 
             broken up and wasted away.”
-            <a id="clickable62" className="footnote">62 </a>
+            <btn id="clickable62" className="footnote">62 </btn>
             <Tooltip anchorSelect="#clickable62" className="footnote-size" clickable>Wilford Woodruff’s Journal, vol. 7, p. 615-617.</Tooltip>
           </p>
         </div>
@@ -649,7 +649,7 @@ const Chap29 = () => {
             an influence against it … will suffer the buffetings of Satan in the flesh; for the curse of God will be upon them, and poverty, and distress, and vexation of 
             spirit will be their portion; while those who honor this and every sacred institution of heaven will shine forth as the stars in the firmament of heaven, and of 
             the increase of their kingdom and glory there shall be no end.”  
-            <a id="clickable63" className="footnote">63 </a>
+            <btn id="clickable63" className="footnote">63 </btn>
             <Tooltip anchorSelect="#clickable63" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, April 4, 1866, vol. 11, p. 211.</Tooltip>
             
             Given the historical record after 1890, did the Christ change his mind?
@@ -662,7 +662,7 @@ const Chap29 = () => {
             “Father [George Cannon] now spoke of the unfortunate condition of the people at present in regard to marriage ... ‘I believe in concubinage, or some plan 
             whereby men and women can live together under sacred ordinances and vows until they can be married. Thus, our surplus girls can be cared for, and the law of 
             God to multiply and replenish the earth be fulfilled. There is the danger of wicked men taking license from such a condition.”  
-            <a id="clickable64" className="footnote">64 </a>
+            <btn id="clickable64" className="footnote">64 </btn>
             <Tooltip anchorSelect="#clickable64" className="footnote-size" clickable>Daily Journal of Abraham Cannon, April 5, 1894, vol. 18, p. 70. Minutes of the Apostles of the Church of Jesus Christ of Latter-day Saints, 1835–1893 (Salt Lake City: Privately Published, 2010), 157.</Tooltip>
             
             Thankfully, as far as we know, concubinage was never officially put into practice.
@@ -672,12 +672,12 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Fifth Mormon prophet Lorenzo Snow stated, “I have no doubt but concubinage will yet be practiced in this church … When the nations are troubled good women will 
             come here for safety and blessing, and men will accept them as concubines.”
-            <a id="clickable65" className="footnote">65 </a>
+            <btn id="clickable65" className="footnote">65 </btn>
             <Tooltip anchorSelect="#clickable65" className="footnote-size" clickable>Minutes of the Apostles of the Church of Jesus Christ of Latter-day Saints, 1835–1893 (Salt Lake City: Privately Published, 2010), 157.</Tooltip>
 
             Church president Wilford Woodruff spoke on concubinage saying, “If men enter into some practice of this character to raise a righteous posterity, they will be 
             justified in it.”
-            <a id="clickable66" className="footnote">66 </a>
+            <btn id="clickable66" className="footnote">66 </btn>
             <Tooltip anchorSelect="#clickable66" className="footnote-size" clickable>Abraham H. Cannon, Diary, April 5, 1894, in Dennis B. Horne, An Apostle’s Record: The Journals of Abraham H. Cannon, 314-15.</Tooltip>
           </p>
         </div>
@@ -687,7 +687,7 @@ const Chap29 = () => {
             year, sixth Mormon prophet Joseph F. Smith issued a second manifesto threatening excommunication for those who continued the practice. This brought schisms within 
             the church and several groups formed new churches to continue God’s divinely appointed practice of celestial marriage. Joseph had revealed Christ’s words, “Behold, 
             mine house is a house of order, saith the Lord God, and not a house of confusion.”
-            <a id="clickable67" className="footnote">67 </a>
+            <btn id="clickable67" className="footnote">67 </btn>
             <Tooltip anchorSelect="#clickable67" className="footnote-size" clickable>D&C 132:8.</Tooltip>
           </p>
         </div>
@@ -696,7 +696,7 @@ const Chap29 = () => {
           <p>The 1904 Manifesto ended the official practice of new polygamous marriages. Those involved in plural marriages after 1904 were excommunicate, and those 
             married between 1890 and 1904 were not to have church callings where other members would have to sustain them. Although the Mormon church officially prohibited 
             new plural marriages after 1904, many plural husbands and wives continued to cohabit until their deaths in the 1940s and 1950s.
-            <a id="clickable68" className="footnote">68 </a>
+            <btn id="clickable68" className="footnote">68 </btn>
             <Tooltip anchorSelect="#clickable68" className="footnote-size" clickable>Jessie Embry, 1994, The History of Polygamy, Utah State Historical Society.</Tooltip>
           </p>
         </div>
@@ -706,13 +706,13 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>Today the church teaches that one man and one woman sealed in the temple will inherit all the blessings of the celestial kingdom. Mormon apostle Bruce McConkie 
             stated in the late 20th century, “Plural marriage is not essential to salvation or exaltation.”  
-            <a id="clickable69" className="footnote">69 </a>
+            <btn id="clickable69" className="footnote">69 </btn>
             <Tooltip anchorSelect="#clickable69" className="footnote-size" clickable>Bruce McConkie, Mormon Doctrine, p. 523.</Tooltip>
             
             However, Joseph and other early Mormon prophets, seers, and revelators claim to have received revelations from heaven that plural marriage is required for 
             exaltation and entry into the highest level of the celestial kingdom, and that a monogamist may obtain at least a lower degree of “exaltation” through mere 
             belief in polygamy.
-            <a id="clickable70" className="footnote">70 </a>
+            <btn id="clickable70" className="footnote">70 </btn>
             <Tooltip anchorSelect="#clickable70" className="footnote-size" clickable>Michael Quinn, (1985). The LDS Church Authority and New Plural Marriages, 1890-1904, Dialogue Vol. 18, p. 24 fn. 65.</Tooltip>
           </p>
         </div>
@@ -720,7 +720,7 @@ const Chap29 = () => {
         <div className='paragraph'>
           <p>The church admitted publicly in 1891 in a petition to the President of the United States, “We formerly taught to our people that polygamy or celestial marriage 
             as commanded by God through Joseph Smith was right; that it was a necessity to man’s highest exaltation in the life to come.”
-            <a id="clickable71" className="footnote">71 </a>
+            <btn id="clickable71" className="footnote">71 </btn>
             <Tooltip anchorSelect="#clickable71" className="footnote-size" clickable>Reed Smoot Case, vol. 1, p. 18.</Tooltip>
   
             That contradicts statements from past prophets, seers, and revelators. Were the many prophets who claimed polygamy was the most important “eternal doctrine” wrong? Why was it taught consistently, decade after decade, as the highest “doctrine” and that no one could get into the highest degree of the Celestial Kingdom without polygamy? The real question is, did God ever reveal polygamy to Joseph?
@@ -729,7 +729,7 @@ const Chap29 = () => {
 
         <div className='paragraph'>
           <p>The same 20th century Mormon apostle, Bruce McConkie, who stated “Plural marriage is not essential to salvation or exaltation,”  
-          <a id="clickable72" className="footnote">72 </a>
+          <btn id="clickable72" className="footnote">72 </btn>
           <Tooltip anchorSelect="#clickable72" className="footnote-size" clickable>Bruce R. McConkie, Mormon Doctrine, p. 522-523.</Tooltip>
             
             also stated that Mormon polygamy will be practiced in the Millennium: “... the Lord frequently did command his ancient saints to practice plural marriage... 

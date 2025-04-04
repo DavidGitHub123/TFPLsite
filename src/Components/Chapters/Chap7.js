@@ -16,7 +16,7 @@ const Chap7 = () => {
 
       <h1 className="chapterHeading">Chapter 7: First Domino to Fall</h1>
 
-      <img src={missionaries} className='image' alt='photo of two Mormon missionaries from the 19th century' />
+      <img src={missionaries} className='image' alt='Two Mormon missionaries from the 19th century' />
 
     <div className="wrapper">
 
@@ -33,7 +33,7 @@ const Chap7 = () => {
           meeting the missionaries, “… their testimony was like fire in my
           bones; I understood the spirit of their preaching; I received that
           spirit; it was light, intelligence, power, and truth.”
-          <a id="clickable1" className="footnote">1 </a>
+          <btn id="clickable1" className="footnote">1 </btn>
           <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Brigham Young, Journal of Discourses, July 28, 1861, vol. 9, p. 141.</Tooltip>
         </p>
       </div>
@@ -43,11 +43,11 @@ const Chap7 = () => {
           But the message of Mormonism was not attracting the mass following
           Joseph anticipated. In 1838, when the Mormons were expelled from
           Missouri, there were 17,881 Mormons. 
-          <a id="clickable2" className="footnote">2 </a>
+          <btn id="clickable2" className="footnote">2 </btn>
           <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>2013 Church Almanac, December 12, 2012.</Tooltip>
           
           At the time of Joseph’s death in 1844, there were 26,000 Mormons. 
-          <a id="clickable3" className="footnote">3 </a>
+          <btn id="clickable3" className="footnote">3 </btn>
           <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>2013 Church Almanac, December 12, 2012.</Tooltip>
           
           According to the 1840 U.S. census,
@@ -66,13 +66,13 @@ const Chap7 = () => {
           of mischiefs, and all manner of hypocrisy, and murders, and priest
           crafts, and whoredoms, and of secret abominations … I will bring the
           fulness of my gospel from among them.” 
-          <a id="clickable4" className="footnote">4 </a>
+          <btn id="clickable4" className="footnote">4 </btn>
           <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>3 Nephi 16:10-12.</Tooltip>
           
           Then Christ offered a promise.
           “But if the Gentiles will repent and return unto me, saith the Father,
           behold they shall be numbered among my people, O house of Israel.” 
-          <a id="clickable5" className="footnote">5 </a>
+          <btn id="clickable5" className="footnote">5 </btn>
           <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>3 Nephi 16:14.</Tooltip>
           
           As
@@ -81,7 +81,7 @@ const Chap7 = () => {
           go through among them, and shall tread them down, and they shall be as
           salt that hath lost its savor … and to be trodden under foot of my
           people.”
-          <a id="clickable6" className="footnote">6 </a>
+          <btn id="clickable6" className="footnote">6 </btn>
           <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>3 Nephi 16:15.</Tooltip>
         </p>
       </div>
@@ -97,7 +97,7 @@ const Chap7 = () => {
           thy horses out of the midst of thee, and I will destroy thy chariots;
           And I will cut off the cities of thy land, and throw down all thy
           strongholds.”
-          <a id="clickable7" className="footnote">7 </a>
+          <btn id="clickable7" className="footnote">7 </btn>
           <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>3 Nephi 20:15-17, 20.</Tooltip>
         </p>
       </div>
@@ -116,7 +116,7 @@ const Chap7 = () => {
           destruction includes an utter overthrow, and desolation of all our
           cities … an entire annihilation of our race, except … are numbered
           with Israel.”
-          <a id="clickable8" className="footnote">8 </a>
+          <btn id="clickable8" className="footnote">8 </btn>
           <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Parley P. Pratt, Mormonism Unveiled: Zion’s Watchman Unmasked, 1838, 15</Tooltip>
         </p>
       </div>
@@ -128,7 +128,7 @@ const Chap7 = () => {
           are not greatly scourged, and in a great measure overthrown, within
           five or ten years from this date, then the Book of Mormon will have
           proved itself false.” 
-          <a id="clickable9" className="footnote">9 </a>
+          <btn id="clickable9" className="footnote">9 </btn>
           <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Parley P. Pratt, Mormonism Unveiled: Zion’s Watchman Unmasked, 1838, 15</Tooltip>
           
           According to this prophecy, if the American
@@ -146,7 +146,7 @@ const Chap7 = () => {
           desolating scourge shall go forth among the inhabitants of the earth
           and shall continue to be poured out from time to time, if they repent
           not, until the earth is empty.”
-          <a id="clickable10" className="footnote">10 </a>
+          <btn id="clickable10" className="footnote">10 </btn>
           <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>D&C 5:19.</Tooltip>
         </p>
       </div>
@@ -158,7 +158,7 @@ const Chap7 = () => {
           Jesus Christ, that not many years shall pass away before the United
           States shall present such a scene of bloodshed as has not a parallel
           in the history of our nation.”
-          <a id="clickable11" className="footnote">11 </a>
+          <btn id="clickable11" className="footnote">11 </btn>
           <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>History of the Church 1:315.</Tooltip>
         </p>
       </div>
@@ -170,7 +170,7 @@ const Chap7 = () => {
           earth as with a besom of destruction. The vision was so horrifying
           that he prayed the Lord to take it away; and the Lord gave him the
           vision a little at a time so he could bear it.”
-          <a id="clickable12" className="footnote">12 </a>
+          <btn id="clickable12" className="footnote">12 </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Journal of Wandle Mace, 1809-1890, Brigham Young University Library, MSS 921, p. 61.</Tooltip>
         </p>
       </div>
@@ -182,7 +182,7 @@ const Chap7 = () => {
           will throw down all their strongholds and cut off the cities of the
           land, and will execute vengeance and fury on the nation, even as upon
           the heathen, such as they have not heard.”
-          <a id="clickable13" className="footnote">13 </a>
+          <btn id="clickable13" className="footnote">13 </btn>
           <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, December 27, 1868, vol. 12, p. 344.</Tooltip>
         </p>
       </div>
@@ -209,21 +209,21 @@ const Chap7 = () => {
           Brigham Young stated, “When our Brethren, the Twelve, should be called
           to the courts of Washington, then look out; for the world will be in
           commotion and the Lord will have something to work upon.”
-          <a id="clickable14" className="footnote">14 </a>
+          <btn id="clickable14" className="footnote">14 </btn>
           <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Brigham Young recorded in a letter from Amanda H. Wilcox to Susie Young Gates, March 11, 1904, Historical Dept. of the Church.</Tooltip>
           
            Oliver
           Huntington reported that Joseph Smith stated, “…. that before the
           destruction of the nation, it (U.S. government) would resolve itself
           into a mob against the saints.” 
-          <a id="clickable15" className="footnote">15 </a>
+          <btn id="clickable15" className="footnote">15 </btn>
           <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Journal of Oliver B. Huntington, March 28, 1883; original journal in the Brigham Young University Library. These developments, which will result in America being reduced to a state of chaos and disunion, were shown to Joseph Smith in vision. History of the Church, vol. 3, p. 390-391; Journal of Discourses, April 2, 1854, vol. 2, p. 146-147.</Tooltip>
           
           First Presidency Counselor Heber
           Kimball stated, “… that the time would come when the government would
           stop the Saints from holding meetings … When this was done the Lord
           would pour out his judgments.”
-          <a id="clickable16" className="footnote">16 </a>
+          <btn id="clickable16" className="footnote">16 </btn>
           <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Heber Kimball, Orson Whitney’s, “Life of Heber C. Kimball: An Apostle, the Father and Founder of the British Mission”, p. 452-453.</Tooltip>
         </p>
       </div>
@@ -237,7 +237,7 @@ const Chap7 = () => {
           their enemies. You have the Twelve now. You will not always have them,
           for they too will be hunted and will have to keep out of the way of
           their enemies.”
-          <a id="clickable17" className="footnote">17 </a>
+          <btn id="clickable17" className="footnote">17 </btn>
           <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Heber Kimball, Orson Whitney’s, “Life of Heber C. Kimball: An Apostle, the Father and Founder of the British Mission”, p. 450.</Tooltip>
         </p>
       </div>
@@ -254,7 +254,7 @@ const Chap7 = () => {
           others will come to earth. After the people have been tried, yes,
           tried, then will Joseph the Prophet lead this people to Jackson
           County, and then the glorious temple will be built.”
-          <a id="clickable18" className="footnote">18 </a>
+          <btn id="clickable18" className="footnote">18 </btn>
           <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Letter of Amanda H. Wilcox to Susa Young Gates, daughter of Brigham Young, written at Salt Lake City, Utah, March 11, 1904, as a report from her journal of 1861; Amanda H. Wilcox file, Church Historian’s Library, Salt Lake City, Utah.</Tooltip>
         </p>
       </div>
@@ -268,7 +268,7 @@ const Chap7 = () => {
           those who have remained faithful will be selected to return to Jackson
           County, Missouri and take part in the upbuilding of that beautiful
           city, the New Jerusalem.”
-          <a id="clickable19" className="footnote">19 </a>
+          <btn id="clickable19" className="footnote">19 </btn>
           <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Prophetic Sayings of Heber C. Kimball to Amanda H. Wilcox, personal journal, no date or place of publication, 8 page document.</Tooltip>
         </p>
       </div>
@@ -288,7 +288,7 @@ const Chap7 = () => {
           like hands. The everlasting hills will rejoice, and they will tremble
           before the presence of the Lord; and the people will go forth and
           build up Zion according to celestial law.”
-          <a id="clickable20" className="footnote">20 </a>
+          <btn id="clickable20" className="footnote">20 </btn>
           <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, March 9, 1873, vol. 15, p. 363, 364.</Tooltip>
         </p>
       </div>
@@ -301,7 +301,7 @@ const Chap7 = () => {
           holds the keys of my kingdom in this dispensation, and he shall stand
           in due time on the earth, in the flesh, and fulfill that to do which
           he is appointed.” 
-          <a id="clickable21" className="footnote">21 </a>
+          <btn id="clickable21" className="footnote">21 </btn>
           <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>Autobiography of Parley P. Pratt, p. 368-372.</Tooltip>
           
           Mormon apostle Orson Pratt said of Joseph’s return,
@@ -309,7 +309,7 @@ const Chap7 = () => {
           from the tomb … if the Lord sees proper to bring forth that man just
           before the winding up scene to lead forth the army of Israel, he will
           do so.”
-          <a id="clickable22" className="footnote">22 </a>
+          <btn id="clickable22" className="footnote">22 </btn>
           <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, March 9, 1873, vol. 15, p. 363.</Tooltip>
         </p>
       </div>
@@ -325,18 +325,18 @@ const Chap7 = () => {
           will be swept so clean of its inhabitants that as President Young
           tells us, ‘that there will not be so much as a yellow dog to wag his
           tail.’” 
-          <a id="clickable23" className="footnote">23 </a>
+          <btn id="clickable23" className="footnote">23 </btn>
           <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Reported by Amanda H. Wilcox, Prophetic Sayings of Heber C. Kimball to Sister Amanda H. Wilcox quoted by J. Golden Kimball in Conference October 1930, Deseret News, Church Department, May 23, 1931, p. 3.</Tooltip>
           
           Mormon apostle Orson Pratt explained that there will “be no
           owners left to occupy the country.” 
-          <a id="clickable24" className="footnote">24 </a>
+          <btn id="clickable24" className="footnote">24 </btn>
           <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Orson Pratt, The Deseret Evening News, VIII, October 2, 1875.</Tooltip>
           
           Wilford Woodruff recorded a vision
           of John Taylor in which he was shown that “the whole area was with no
           living being [there].”
-          <a id="clickable25" className="footnote">25 </a>
+          <btn id="clickable25" className="footnote">25 </btn>
           <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Vision received by John Taylor, December 16, 1877, and recorded in the journal of Wilford Woodruff, June 15, 1878.</Tooltip>
         </p>
       </div>
@@ -359,13 +359,13 @@ const Chap7 = () => {
           were given visions pertaining to how the Great and Abominable Church
           will fight against the Church of the Lamb of God and the Zion
           builders. 
-          <a id="clickable26" className="footnote">26 </a>
+          <btn id="clickable26" className="footnote">26 </btn>
           <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>1 Nephi 14:10; Revelation 14:8; 17; 18; 19:2, 19.</Tooltip>
           
           Nephi beheld that the Great and Abominable Church would
           gather “together multitudes upon the face of all the earth, among all
           the nations of the Gentiles, to fight against the Lamb of God.” 
-          <a id="clickable27" className="footnote">27 </a>
+          <btn id="clickable27" className="footnote">27 </btn>
           <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>1 Nephi 14:13.</Tooltip>
           
           Mormon
@@ -373,14 +373,14 @@ const Chap7 = () => {
           Zion will “gather together in multitudes ... to battle” against her.
           But “the power of the Lamb of God ... (would) descend upon the
           Saints.” 
-          <a id="clickable28" className="footnote">28 </a>
+          <btn id="clickable28" className="footnote">28 </btn>
           <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, July 10, 1859, vol. 7, p. 186, citing 1 Nephi 14:13-14.</Tooltip>
           
           The Book of Mormon states that in the last day Isaiah’s words
           will be fulfilled. “The Lord hath made bare his holy arm in the eyes
           of all the nations; and all the ends of the earth shall see the
           salvation of our God.”
-          <a id="clickable29" className="footnote">29 </a>
+          <btn id="clickable29" className="footnote">29 </btn>
           <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>1 Nephi 22:11.</Tooltip>
         </p>
       </div>
@@ -391,7 +391,7 @@ const Chap7 = () => {
           against Zion, both Jew and Gentile, both bond and free, both male and
           female, shall perish; for they are they who are the whore of all the
           earth; for they who are not for me are against me, saith our God”
-          <a id="clickable30" className="footnote">30 </a>
+          <btn id="clickable30" className="footnote">30 </btn>
           <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>2 Nephi 10:13.</Tooltip>
 
           Speaking of the inhabitants of Zion, Christ will “… manifest himself
@@ -399,7 +399,7 @@ const Chap7 = () => {
           enemies … And they that believe not in him shall be destroyed, both by
           fire, and by tempest, and by earthquakes, and by bloodsheds, and by
           pestilence, and by famine.”
-          <a id="clickable31" className="footnote">31 </a>
+          <btn id="clickable31" className="footnote">31 </btn>
           <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>2 Nephi 6:14-15.</Tooltip>
           
           Jacob also reveals that those who fight
@@ -416,13 +416,13 @@ const Chap7 = () => {
           great whore, who hath perverted the right ways of the Lord, yea, that
           great and abominable church, shall tumble to the dust and great shall
           be the fall of it.” 
-          <a id="clickable32" className="footnote">32 </a>
+          <btn id="clickable32" className="footnote">32 </btn>
           <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>1 Nephi 22:14.</Tooltip>
           
           Nephi concluded, “those who belong to the kingdom
           of the devil ... must be brought low in the dust; they are those who
           must be consumed as stubble.”
-          <a id="clickable33" className="footnote">33 </a>
+          <btn id="clickable33" className="footnote">33 </btn>
           <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>1 Nephi 22:23.</Tooltip>
         </p>
       </div>

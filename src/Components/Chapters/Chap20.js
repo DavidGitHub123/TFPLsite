@@ -16,7 +16,7 @@ const Chap20 = () => {
 
         <h1 className='chapterHeading'>Chapter 20: Mission to the Lamanites</h1>
 
-        <img src={lamanitemission} className='image' alt='Painting of Joseph Smith preaching to Native Americans' />
+        <img src={lamanitemission} className='image' alt='Joseph Smith preaching to Native Americans' />
 
     <div className="wrapper">
 
@@ -30,7 +30,7 @@ const Chap20 = () => {
           <p>In his early years, Joseph may have been influenced by Hyrum, his older brother, about missionary work among the Lamanites. From 1811 to 1815 (ages 11 to 15) 
             Hyrum attended Moors Academy, a prep school for Dartmouth College. The college was founded in 1754 by a Puritan Calvinist minister to educate Native Americans 
             who desired to be Christian missionaries to the native tribes.
-            <a id="clickable1" className="footnote">1  </a>
+            <btn id="clickable1" className="footnote">1  </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Other Dartmouth alumni include Solomon Spaulding (class of 1785), author of Manuscript Found, and Ethan Smith (class of 1790), author of View of the Hebrews. Both books discuss how Native Americans are descendants of the Biblical House of Israel.</Tooltip> 
             
               Both Dartmouth and Moors Academy taught that the Native Americans were of Israelite descent.
@@ -40,11 +40,11 @@ const Chap20 = () => {
         <div className='paragraph'>
           <p>One of Joseph’s first actions after the church was organized was to send missionaries to the Lamanites. After all, fulfilling this was one of the purposes of 
             the Book of Mormon. Joseph revealed Christ’s words in September 1830 to “… go among the Lamanites and preach my gospel unto them.”
-            <a id="clickable2" className="footnote">2  </a>
+            <btn id="clickable2" className="footnote">2  </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>D&C 28:8.</Tooltip>  
             
             In the same revelation, Zion’s location was not specified, only that it was “on the borders by the Lamanites,”  
-            <a id="clickable3" className="footnote">3  </a>
+            <btn id="clickable3" className="footnote">3  </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>D&C 28:9.</Tooltip>  
             
             across the Missouri border in Indian territory.
@@ -64,7 +64,7 @@ const Chap20 = () => {
             Behold I will lift up my hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and 
             thy daughters shall be carried upon their shoulders.’ Thus … there is reason to rejoice that the great purposes of the Lord are 
             fulfilling before our eyes.”
-            <a id="clickable4" className="footnote">4  </a>
+            <btn id="clickable4" className="footnote">4  </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Evening and Morning Star, vol. 1, no. 7, Dec. 1832, 107.</Tooltip>  
           </p>
         </div>
@@ -72,17 +72,17 @@ const Chap20 = () => {
         <div className='paragraph'>
           <p>In October 1830, Oliver Cowdery, Peter Whitmer, Parley Pratt, and Ziba Peterson made a covenant to preach to the Native Americans and 
             departed later that month.  
-            <a id="clickable5" className="footnote">5  </a>
+            <btn id="clickable5" className="footnote">5  </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Covenant of Oliver Cowdery and Others, 17 October 1830, p. 1, The Joseph Smith Papers.</Tooltip> 
             
             Oliver stated he was going “to rear up a pillar as a witness to where the Temple of God shall be built, in the glorious New-Jerusalem.”  
-            <a id="clickable6" className="footnote">6  </a>
+            <btn id="clickable6" className="footnote">6  </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Statement signed by Oliver Cowdery and dated 17 October 1830, cited in a letter of Ezra Booth to Rev. Ira Eddy, dated 24 November 1831 and published in (Ravenna) Ohio Star 2 (8 December 1831):3; also quoted in Brigham Young University Studies 11 (Summer 1971):477. See also Richard L. Bushman, Joseph Smith and the Beginnings of Mormonism (Urbana: University of Illinois Press, 1984), 169.</Tooltip>  
             
             The missionaries must have been excited. They must have recollected the verses of the Book of Mormon, “And the gospel of Jesus Christ shall be declared among them; 
             wherefore, they shall be restored unto the knowledge of their fathers, and also to the knowledge of Jesus Christ … and their scales of darkness shall begin to 
             fall from their eyes.”
-            <a id="clickable7" className="footnote">7  </a>
+            <btn id="clickable7" className="footnote">7  </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>2 Nephi 30:5-6.</Tooltip> 
           </p>
         </div>
@@ -97,11 +97,11 @@ const Chap20 = () => {
         <div className='paragraph'>
           <p>But the missionaries met little to no success – the exact opposite of what Joseph’s revelations and the Book of Mormon promised. The missionaries first 
             encountered the Seneca. Parley wrote that they met with “an Indian nation at or near Buffalo [New York].”  
-            <a id="clickable8" className="footnote">8  </a>
+            <btn id="clickable8" className="footnote">8  </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 25.</Tooltip>
             
             They “were kindly received, and much interest was manifested by them on hearing this news.”  
-            <a id="clickable9" className="footnote">9  </a>
+            <btn id="clickable9" className="footnote">9  </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 25.</Tooltip>
             
             But there were no baptisms. The missionaries left copies of the Book of Mormon, but those Native Americans did not embrace the restored gospel.
@@ -112,7 +112,7 @@ const Chap20 = () => {
           <p>The missionaries next traveled to Kirtland, Ohio. There, Parley met with his friend Sidney Rigdon a Reformed Baptist preacher. Sidney and his adherents accepted 
             Mormonism. Parley recorded, “in two or three weeks from arrival in the neighborhood … we had baptized one hundred and twenty-seven souls, and this number soon 
             increased to one thousand.”
-            <a id="clickable10" className="footnote">10  </a>
+            <btn id="clickable10" className="footnote">10  </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 25.</Tooltip>
           </p>
         </div>
@@ -162,21 +162,21 @@ const Chap20 = () => {
             forefathers of the red man; therefore, this young man, being a pale face, could not understand it; but the angel told him and showed him, and gave him knowledge 
             of the language, and how to interpret the Book [of Mormon]. So, he interpreted it into the language of the pale faces, and wrote it on paper, and caused it to be 
             printed, and published thousands of copies of among them; and then sent us to the red men to bring some copies of it to them, and to tell them this news.”
-            <a id="clickable11" className="footnote">11  </a>
+            <btn id="clickable11" className="footnote">11  </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 30-31.</Tooltip>
           </p>
         </div>
 
         <div className='paragraph'>
           <p>A Book of Mormon was presented to the chief. He stated that he was glad to hear their message, “especially this new news concerning the Book of our forefathers.”  
-          <a id="clickable12" className="footnote">12  </a>
+          <btn id="clickable12" className="footnote">12  </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 31.</Tooltip>
             
             He invited the missionaries to come again in the spring to continue teaching the Delaware and allowed them to stay among the Delaware for a few days. According to 
             Parley, the missionaries were able to continue teaching the Delaware and that “interest became more and more intense on their [the Delaware’s] part… until at 
             length nearly the whole tribe began to feel a spirit of inquiry and excitement on the subject … and took great pains to tell the news to others, in their own 
             language.”
-            <a id="clickable13" className="footnote">13  </a>
+            <btn id="clickable13" className="footnote">13  </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Parley Pratt, The Autobiography of Parley P. Pratt, 31.</Tooltip>
           </p>
         </div>
@@ -198,7 +198,7 @@ const Chap20 = () => {
             they played the blame game with the persecution narrative. Parley blamed their ejection on the “jealousy and envy of the Indian agents and sectarian missionaries.” 
             Oliver wrote a few months later that “almost the whole country which consists of Universalists Atheists Deists Presbyterians Methodists Baptists & professed 
             Christians Priests & people with all the Devils from the infernal pit are united against the Mormons.” 
-            <a id="clickable14" className="footnote">14  </a>
+            <btn id="clickable14" className="footnote">14  </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Letter from Oliver Cowdery, 7 May 1831, p. 13, The Joseph Smith Papers.</Tooltip>
             
             After being ordered out of Delaware country, the missionaries returned to Independence, Missouri. There, Cowdery took his case to the Superintendent of Indian Affairs in St. Louis:
@@ -216,7 +216,7 @@ const Chap20 = () => {
             society of Christians in the State of New York to superintend the establishing Missions among the Indians I doubt not but I shall have the approbation of your 
             honor and permit for myself and all who may be recommended to me by that Society to have free intercourse with the several tribes in establishing schools for the 
             instruction of their children and also teaching them the Christian religion without intruding or interfering with any other Mission now established.
-            <a id="clickable15" className="footnote">15  </a>
+            <btn id="clickable15" className="footnote">15  </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Letter from Oliver Cowdery to William Clark, 14 February 1831.</Tooltip>
           </p>
         </div>
@@ -234,7 +234,7 @@ const Chap20 = () => {
             the officers of the Genl. Government who I am bound to obey. I am informed that they intend to apply to you for permission to go among the Indians, if you refuse, 
             then they will go to the Rocky Mountains, but what they will be with the Indians. The Men act very strange; there came on five to this place, they say, four from 
             the State of New York, and one from Ohio.”
-            <a id="clickable16" className="footnote">16  </a>
+            <btn id="clickable16" className="footnote">16  </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Letter from Oliver Cowdery to William Clark, 14 February 1831.</Tooltip>
           </p>
         </div>
@@ -244,7 +244,7 @@ const Chap20 = () => {
             Lamanites to a knowledge of their Redeemer and restore them to their covenants as the house of Israel to build the holy city of Zion, surely the Lord would 
             open the way for a successful Mormon missionary program to the Lamanites. After all, the promises of the Lord cannot be broken. If the Book of Mormon were true, 
             these Native Americans would gladly and in great multitudes, have accepted the gospel as Mormon scriptures prophesied and become a white and delightsome people.  
-            <a id="clickable17" className="footnote">17  </a>
+            <btn id="clickable17" className="footnote">17  </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>2 Nephi 30:6.</Tooltip>
             
             But this did not happen. The church’s missionary efforts to the Lamanites utterly failed compared to the Lord’s promises through Joseph Smith.

@@ -31,7 +31,7 @@ const Chap19 = () => {
           <p>On July 28, 1828, Joseph revealed regarding the Book of Mormon: “And this testimony shall come to the knowledge of the Lamanites … 
             who dwindled in unbelief. And for this very purpose are these plates preserved which contain these records – that the promises of the Lord might be fulfilled … 
             that the Lamanites might come to the knowledge of their fathers, and that they might know the promises of the Lord.”
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 3:18.</Tooltip> 
           </p>
         </div>
@@ -39,13 +39,13 @@ const Chap19 = () => {
         <div className='paragraph'>
           <p>From the 1830s until the 2000s, Mormons considered Lamanites to be the “principal ancestors of the American Indians” as 
             stated on the title page of the Book of Mormon.  
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>1981 edition of the Book of Mormon.</Tooltip> 
             
             Joseph did not write the title page. Mormon wrote the title page. According to Joseph, the title page of the Book of Mormon 
             was “taken from the very last leaf, on the left-hand side of the collection or book of plates, which contained the record 
             which has been translated.”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3"className="footnote-size"  clickable>Joseph Smith History, vol. A-1, 34.</Tooltip> 
             
             Therefore, Mormon believed by the power of God that the Lamanites were “principal ancestors of the American Indians.” 
@@ -59,13 +59,13 @@ const Chap19 = () => {
             descendants of Middle Eastern settlers who traveled over the ocean and were “not Orientals” of East Asian origin. 
             “The Indian is a Lamanite. There are South American, Central American, Mexican, Polynesian, and other Lamanites running 
             into millions ... They are not Orientals. They are from the Near East.”  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Spencer Kimball, February 9, 1967, Speech at Brigham Young University, The Lamanite: Their Burden, Our Burden.</Tooltip>
             
             In 1971, Spencer stated, “… the Lamanites number about sixty million; they are in all of the states of America from Tierra 
             del Fuego all the way up to Point Barrows, and they are in nearly all the islands of the sea from Hawaii south to southern 
             New Zealand.”
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Spencer Kimball, Of Royal Blood, Ensign, 1971. This article was adapted from an address delivered at the Lamanite Youth Conference in Salt Lake City on April 24, 1971. John-Charles Duffy, The Use of Lamanite in Official LDS Discourse, Journal of Mormon History, 2008, 34, 1.</Tooltip> 
           </p>
         </div>
@@ -84,12 +84,12 @@ const Chap19 = () => {
           <p>But there are several problems with the new narrative. For one, the Book of Mormon states that Lehi’s promised land “should be 
             kept … from the knowledge of other nations; for behold, many nations would overrun the land, that there would be no place for 
             an inheritance.”  
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>2 Nephi 1:8.</Tooltip> 
             
             Secondly, the Book of Mormon states that Lehi and his descendants were to be the primary residents. “… and they shall be 
             kept from all other nations, that they may possess this land unto themselves.”
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>2 Nephi 1:9.</Tooltip> 
           </p>
         </div>
@@ -103,7 +103,7 @@ const Chap19 = () => {
           <p>So much for Mormon’s title page, written by his own hand! However, as Joseph said, the title page of the Book of Mormon 
             was “taken from the very last leaf, on the left-hand side of the collection or book of plates, which contained the record 
             which has been translated.”
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Joseph Smith History, vol. A-1, 34.</Tooltip> 
             
             It does not seem right that Mormon leaders changed the text engraved on the golden plates to change the Book of Mormon’s narrative.
@@ -115,11 +115,11 @@ const Chap19 = () => {
             feelings. As Mormon apostle Russell Ballard stated, “You will not get to know it [whether the Book of Mormon is true] 
             by trying to prove it archaeologically, or by DNA, or by anything else … Religious truth is always confirmed by what you 
             feel. And that’s the way heavenly father answers prayers.”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>M. Russell Ballard, Mormon Newsroom, October 4, 2007.</Tooltip>
             
             This contradicts Paul’s statement in the New Testament: “Prove all things and hold fast to that which is good.”
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>1 Thessalonians 5:21.</Tooltip>  
           </p>
         </div>
@@ -138,7 +138,7 @@ const Chap19 = () => {
             In 1820, author Samuel Mitchill published on the origins of Native Americans that a white race met a dark race in bloody 
             conflicts in upstate New York.  In 1824, a history of New York published, “relating tradition of Seneca Indians and a highly 
             civilized white race that was utterly destroyed, but who built fortifications against savage red Indians.” 
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>History of State of N.Y. Including its Aboriginal and Colonial Annals, 40.</Tooltip> 
           </p>
         </div>
@@ -166,7 +166,7 @@ const Chap19 = () => {
             Lord came again unto me …take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: 
             then take another stick, and write upon it, For Joseph, the stick of Ephraim … and join them one to another into one stick; 
             and they shall become one in thine hand.”
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Ezekiel 37:15-17.</Tooltip>  
           </p>
         </div>
@@ -189,7 +189,7 @@ const Chap19 = () => {
             promise be fulfilled in a simpler and more perfect manner than it was through the coming forth of the Book of Mormon? ... The two records 
             have now been joined together, constituting a complete fulfillment of another great prophecy … Until someone can explain where the record 
             of Joseph is, the Book of Mormon stands unrefuted in its claim to be the ‘stick of Joseph.’”
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Legrand Richards, A Marvelous Work and a Wonder, 66-67. </Tooltip>  
           </p>
         </div>

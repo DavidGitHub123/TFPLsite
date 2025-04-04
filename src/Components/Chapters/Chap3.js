@@ -16,7 +16,7 @@ const Chap3 = () => {
 
       <h1 className="chapterHeading">Chapter 3: Joseph’s Visionary Prowess</h1>
 
-      <img src={angelmoroni} className='image' alt='painting Angel Moroni appearing to Joseph Smith' />
+      <img src={angelmoroni} className='image' alt='Angel Moroni appearing to Joseph Smith' />
 
     <div className="wrapper">
 
@@ -28,7 +28,7 @@ const Chap3 = () => {
           might. The Mormons would bring to pass the “literal gathering of
           Israel and … the restoration of the Ten Tribes; that Zion (the New
           Jerusalem) will be built on the American continent.” 
-          <a id="clickable1" className="footnote">1  </a>
+          <btn id="clickable1" className="footnote">1  </btn>
           <Tooltip anchorSelect="#clickable1"className="footnote-size"  clickable>Tenth Article of Faith.</Tooltip>
           
           Then the stage
@@ -46,7 +46,7 @@ const Chap3 = () => {
           this land … which I have appointed and consecrated for the gathering
           of the saints. Wherefore, this is the land of promise, and the place
           for the city of Zion.”
-          <a id="clickable2" className="footnote">2  </a>
+          <btn id="clickable2" className="footnote">2  </btn>
           <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>D&C 57:1-2.</Tooltip>
         </p>
       </div>
@@ -57,7 +57,7 @@ const Chap3 = () => {
           last days, that the mountain of the Lord’s house shall be established
           in the top of the mountains and shall be exalted above the hills; and
           all nations shall flow unto it.” 
-          <a id="clickable3" className="footnote">3  </a>
+          <btn id="clickable3" className="footnote">3  </btn>
           <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Isaiah 2:2.</Tooltip>
           
           From Joseph’s Book of Mormon, Nephi
@@ -65,14 +65,14 @@ const Chap3 = () => {
           led up as calves of the stall, and the Holy One of Israel must reign
           in dominion, and might, and power, and great glory. And he gathereth
           his children from the four quarters of the earth.” 
-          <a id="clickable4" className="footnote">4  </a>
+          <btn id="clickable4" className="footnote">4  </btn>
           <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>2 Nephi 22:24-25.</Tooltip>
 
           According to
           Joseph, that location was Jackson County, Missouri. Joseph revealed,
           “I will give it unto you for the land of your inheritance, if you seek
           it with all your hearts. And this shall be my covenant with you.”
-          <a id="clickable5" className="footnote">5  </a>
+          <btn id="clickable5" className="footnote">5  </btn>
           <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>D&C 38:18-20.</Tooltip>
         </p>
       </div>
@@ -93,7 +93,7 @@ const Chap3 = () => {
         <p>
           You can imagine the early Mormons’ surprise several years later when
           they were driven from their “everlasting inheritances”
-          <a id="clickable6" className="footnote">6  </a>
+          <btn id="clickable6" className="footnote">6  </btn>
           <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>D&C 57:5.</Tooltip>
            which had been
           given to them by their prophet through a revelation from Christ.
@@ -130,7 +130,7 @@ const Chap3 = () => {
           Joseph revealed in 1832 that the establishment of Zion was to take
           place within the lifetime of the early church members, to be “reared
           in this generation.” 
-          <a id="clickable7" className="footnote">7  </a>
+          <btn id="clickable7" className="footnote">7  </btn>
           <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 97:19.</Tooltip>
           
           The 1832 revelation states, “Yea, the word of the
@@ -141,7 +141,7 @@ const Chap3 = () => {
           not all pass away until a house shall be built unto the Lord, and a
           cloud shall rest upon it, which cloud shall be even the glory of The
           Lord.”
-          <a id="clickable8" className="footnote">8  </a>
+          <btn id="clickable8" className="footnote">8  </btn>
           <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 97:19.</Tooltip>
         </p>
       </div>
@@ -155,7 +155,7 @@ const Chap3 = () => {
           and unto the city of the living God, the heavenly Jerusalem, and to an
           innumerable company of angels, to the general assembly and Church of
           the Firstborn.” 
-          <a id="clickable9" className="footnote">9  </a>
+          <btn id="clickable9" className="footnote">9  </btn>
           <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Joseph Smith, Teaching of the Prophet Joseph Smith, p. 320.</Tooltip>
           
           The Church of the Firstborn refers to exalted beings
@@ -171,7 +171,7 @@ const Chap3 = () => {
           nations of the earth shall honor her and shall say: Surely Zion is the
           city of our God, and surely Zion cannot fall, neither be moved out of
           her place, for God is there, and the hand of the Lord is there.”
-          <a id="clickable10" className="footnote">10  </a>
+          <btn id="clickable10" className="footnote">10  </btn>
           <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>D&C 84:1-5.</Tooltip>
         </p>
       </div>
@@ -181,12 +181,12 @@ const Chap3 = () => {
       <div className="paragraph">
         <p>
           In 1832, there were 2,661 Mormons. 
-          <a id="clickable11" className="footnote">11  </a>
+          <btn id="clickable11" className="footnote">11  </btn>
           <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>2013 Church Almanac, December 12, 2012.</Tooltip>
           
           According to this revelation, these
           2,661 Mormons would see Zion established. If a generation is 20-30 years, 
-          <a id="clickable12" className="footnote">12  </a>
+          <btn id="clickable12" className="footnote">12  </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
           
           that would place the building of Zion between 1852 and 1862.
@@ -207,7 +207,7 @@ const Chap3 = () => {
           a fulfillment of that promise during the generation that was in
           existence in 1832 as they expect that the sun will rise and set
           tomorrow. Why? Because God cannot lie.” 
-          <a id="clickable13" className="footnote">13  </a>
+          <btn id="clickable13" className="footnote">13  </btn>
           <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, May 5, 1870, vol. 13, p. 362.</Tooltip>
           
           Orson stated in 1871 about the
@@ -218,7 +218,7 @@ const Chap3 = () => {
           passed away.’ What of that? The generation has not passed away; all
           the people that were living thirty-nine years ago have not passed
           away; but before they do pass away this will be fulfilled.” 
-          <a id="clickable14" className="footnote">14  </a>
+          <btn id="clickable14" className="footnote">14  </btn>
           <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, April 9, 1871, vol. 14, p. 275.</Tooltip>
           
           Yet, it never happened.
@@ -231,21 +231,21 @@ const Chap3 = () => {
           Christ return in their lifetimes. Lyman Johnson was promised that “He
           shall see the Savior come and stand upon the earth with power and
           great glory.” 
-          <a id="clickable15" className="footnote">15  </a>
+          <btn id="clickable15" className="footnote">15  </btn>
           <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 188.</Tooltip>
           
           Heber Kimball was promised that “He may stand unto the coming of our Lord.”
-          <a id="clickable16" className="footnote">16  </a>
+          <btn id="clickable16" className="footnote">16  </btn>
           <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 189.</Tooltip> 
           
           Orson Hyde was promised “That he may stand upon the earth and bring souls till Christ comes.” 
-          <a id="clickable17" className="footnote">17  </a>
+          <btn id="clickable17" className="footnote">17  </btn>
           <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 190.</Tooltip>
           
           William Smith was
           blessed that “He shall be preserved and remain on the earth until
           Christ shall come to take vengeance on the wicked.”
-          <a id="clickable18" className="footnote">18  </a>
+          <btn id="clickable18" className="footnote">18  </btn>
           <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 191.</Tooltip>
         </p>
       </div>
@@ -259,7 +259,7 @@ const Chap3 = () => {
           that the Lord has bound himself to accomplish the matter within 100
           years from 1832 … I have full confidence in the word of the Lord and
           that it shall not fail.”
-          <a id="clickable19" className="footnote">19  </a>
+          <btn id="clickable19" className="footnote">19  </btn>
           <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Joseph Fielding Smith, The Way to Perfection, p. 270.</Tooltip>
         </p>
       </div>
@@ -275,7 +275,7 @@ const Chap3 = () => {
           and a glorious cloud would rest upon it. It is also reasonable to
           believe that no soul living in 1832 is still living in mortality on
           the earth.” 
-          <a id="clickable20" className="footnote">20  </a>
+          <btn id="clickable20" className="footnote">20  </btn>
           <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Joseph Fielding Smith, Answers to Gospel Questions, Vol. 4. p. 112.</Tooltip>
           
           Where did he come up with the 100-year requirement?
@@ -313,7 +313,7 @@ const Chap3 = () => {
           October 27, 1838, stating, “… the Mormons must be treated as enemies,
           and must be exterminated or driven from the State if necessary for the
           public peace – their outrages are beyond all description.” 
-          <a id="clickable21" className="footnote">21  </a>
+          <btn id="clickable21" className="footnote">21  </btn>
           <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>John Green, 1839. Facts Relative to the Expulsion of the Mormons or Latter-Day Saints, from the State of Missouri, under the “Exterminating Order.”</Tooltip>
           
           The
@@ -321,7 +321,7 @@ const Chap3 = () => {
           previous words, “And that mob that comes on us to disturb us, it shall
           be between us and them a war of extermination; for we will follow them
           until the last drop of their blood is spilled.”
-          <a id="clickable22" className="footnote">22  </a>
+          <btn id="clickable22" className="footnote">22  </btn>
           <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Stephen LeSueur, The 1838 Mormon War in Missouri, pp. 37–43, 1990.</Tooltip>
         </p>
       </div>
@@ -353,13 +353,13 @@ const Chap3 = () => {
         <p>
           Brigham stated in 1845, “… as the Lord lives we will build up Jackson
           county in this generation.” 
-          <a id="clickable23" className="footnote">23  </a>
+          <btn id="clickable23" className="footnote">23  </btn>
           <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Times and Seasons, 1 July 1845, vol. 6, p. 956.</Tooltip>
           
           First Presidency Counselor Heber Kimball
           stated in 1861 that in his lifetime, “Brethren, I shall go to Jackson
           County with thousands of this people who will be faithful.” 
-          <a id="clickable24" className="footnote">24  </a>
+          <btn id="clickable24" className="footnote">24  </btn>
           <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, February 17, 1861, vol. 8, p. 350.</Tooltip>
           
           But what
@@ -369,7 +369,7 @@ const Chap3 = () => {
           land of your inheritance, which is now the land of your enemies. But,
           behold, I, the Lord, will hasten the city in its time, and will crown
           the faithful with joy and with rejoicing.”
-          <a id="clickable25" className="footnote">25  </a>
+          <btn id="clickable25" className="footnote">25  </btn>
           <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>D&C 52:42.</Tooltip>
         </p>
       </div>
@@ -384,7 +384,7 @@ const Chap3 = () => {
           the things which I required at their hands, but are full of all manner
           of evil … And are not united according to the union required by the
           law of the celestial kingdom.”
-          <a id="clickable26" className="footnote">26  </a>
+          <btn id="clickable26" className="footnote">26  </btn>
           <Tooltip anchorSelect="#clickable26" className="footnote-size"  clickable>D&C 105:2-4.</Tooltip>
         </p>
       </div>

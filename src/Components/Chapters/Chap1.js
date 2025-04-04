@@ -18,7 +18,7 @@ const Chap1 = () => {
               Chapter 1: The Religious Genius and Mastermind
         </h1>
 
-        <img src={joseph2} className='image' alt='' />
+        <img src={joseph2} className='image' alt='Joseph Smith' />
 
       <div className="">
 
@@ -27,7 +27,7 @@ const Chap1 = () => {
           <p className='paragraph'>
           Throughout the 1830s and 1840s, Joseph Smith built an exciting vision of the last days in his small group of followers. 
           By his death in 1844, Joseph had amassed a following of 26,000 people.
-          <a id="clickable1" className="footnote">1  </a>
+          <btn id="clickable1" className="footnote">1  </btn>
           <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>2013 Church Almanac, December 12, 2012.</Tooltip>
           He convinced his early converts to Mormonism that he was a prophet speaking for God. To them, he was just as much a prophet as Moses, 
           Elijah, Isaiah, etc. To the early Mormons, Joseph was an oracle of the divine – made in the mold of the Old Testament prophets 
@@ -46,7 +46,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Just as Moses beheld God in a burning bush and received his prophetic mantle from that experience, Joseph proclaimed to his followers that an angel from heaven had announced a new dispensation had arrived – the final dispensation. His account of the First Vision would come later. Joseph claimed that the Angel Moroni appeared in 1823 and announced the gospel would be restored and ancient prophecies fulfilled. Joseph reported that Moroni quoted several ancient prophets regarding the end times. Moroni quoted Malachi saying, “For behold, the day cometh that shall burn as an oven, and all the proud, yea, and all that do wickedly shall burn as stubble ... 
             Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.”
-            <a id="clickable2" className="footnote">2  </a>
+            <btn id="clickable2" className="footnote">2  </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Joseph Smith History 1:37-39.</Tooltip>
           </p>
         </div>
@@ -59,7 +59,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Joseph also convinced his followers that they were God’s elect, descended from the royal bloodlines of the House of Israel. He taught the early Mormons that they had been held in reserve to come to this earth with divine missions in the last days. Because of their pre-earth righteousness, they were favored sons and daughters of God. Joseph even told his followers that earlier prophets “have looked forward with joyful anticipation to the day in which we live; and fired with heavenly and joyful anticipation they have sung and written and prophesied of this our day; … we are the favored people that 
             God has made choice of to bring about the Latter-day glory.” 
-            <a id="clickable3" className="footnote">3  </a>
+            <btn id="clickable3" className="footnote">3  </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Joseph Smith, History of the Church 4:609-10.</Tooltip>
           </p>
         </div>
@@ -89,7 +89,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Early Mormon John Lee stated, “I could not help believing in Joseph, the prophet of God in these last day. Joseph declared that he was called of God and given power and authority from heaven to do God’s will; that he had received the keys of the holy Priesthood from the apostles Peter, James, and John, and had been dedicated, set apart, and anointed as the prophet, seer, and revelator, and sent to open the dispensation of the fullness of time, according to the words of the apostles; that he was charged with the restoration of the House of Israel, and to gather the Saints from the four corners of the earth to the land of promise, Zion, the Holy Land (Jackson County), and to the setting up of the Kingdom of God preparatory to the Second Coming of Christ in the last days. Every Mormon, true to his faith, believed as fully in Joseph and 
             his holy character as he did that God existed.”
-            <a id="clickable4" className="footnote">4  </a>
+            <btn id="clickable4" className="footnote">4  </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Autobiography of John D. Lee, Chapter 5. John was sentence to death by firing squad for the Mountain Meadows massacre. More on that later.</Tooltip>
           </p>
         </div>
@@ -97,7 +97,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Joseph also claimed to have had many divine visitations. For example, early Mormon Daniel Allen stated regarding the Lost 10 Tribes, “I heard Joseph the Prophet say that he had seen John the Revelator and had a long conversation with him, who told him that he, John, was their leader, Prophet, Priest and King, and said that he was preparing that people to return, 
             and further said there is a mighty host to us.”
-            <a id="clickable5" className="footnote">5  </a>
+            <btn id="clickable5" className="footnote">5  </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Minutes of the School of the Prophets, Parawan, Utah, 1868-1872, under date of August 17, 1872, typewritten copy in BYU Library.</Tooltip>
           </p>
         </div>
@@ -105,7 +105,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>While Peter, James, and John were most likely historical figures, Joseph also claimed visitations from non-historical beings. “What do we hear? Glad tidings from Cumorah! Moroni, an angel from heaven, declaring the fulfilment of the prophets … The voice of Michael on the banks of the Susquehanna … the voice of Gabriel, and of Raphael, and of divers angels, from Michael or Adam down to the present time, all declaring their dispensation, their rights, their keys, their honors, 
             their majesty and glory, and the power of their priesthood …”
-            <a id="clickable6" className="footnote">6  </a>
+            <btn id="clickable6" className="footnote">6  </btn>
             <Tooltip anchorSelect="#clickable6" clickable>D&C 128:20-21.</Tooltip>
           </p>
         </div>
@@ -123,7 +123,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>“After Adam had offered his sacrifice, he went up the valley some two miles, where he blessed his posterity and called the place the Valley of Adam-ondi-Ahman, which, in the reformed Egyptian language, signifies Adam’s Consecrated Land … Those ancient relics and sacred spots of earth are held holy by the greater portion of the Latter-day Saints. These things, 
             and much more concerning the early days, were revealed to the Prophet Joseph.”
-            <a id="clickable7" className="footnote">7  </a>
+            <btn id="clickable7" className="footnote">7  </btn>
             <Tooltip anchorSelect="#clickable7" clickable>Autobiography of John D. Lee, Chapter 5. </Tooltip>
           </p>
         </div>
@@ -143,7 +143,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Joseph stated, “The Standard of Truth has been erected; no unhallowed hand can stop the work from progressing; persecutions may rage, mobs may combine, armies may assemble, calumny may defame, but the truth of God will go forth boldly, nobly, and independent, till it has penetrated every continent, visited every clime, swept every country, and sounded in every ear, till the purposes of God shall be accomplished, 
             and the Great Jehovah shall say the work is done.”
-            <a id="clickable8" className="footnote">8  </a>
+            <btn id="clickable8" className="footnote">8  </btn>
             <Tooltip anchorSelect="#clickable8" clickable>Joseph Smith, History of the Church, 4:540.</Tooltip>
           </p>
         </div>
@@ -188,13 +188,13 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Third Mormon prophet John Taylor wrote, “Before I ever heard of “Mormonism, when reading the scriptures, I often wondered why it was that we had no prophets, 
             no apostles, no gifts and graces, no healings by the power of God, no visions, no angels, no revelations, no voice of God.”
-            <a id="clickable9" className="footnote">9  </a>
+            <btn id="clickable9" className="footnote">9  </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>John Taylor, Journal of Discourses, Feb. 25, 1855, vol. 2, p. 195-196.</Tooltip>
             
               John also stated, 
             “The Lord called Joseph Smith to be a Prophet, Seer, and Revelator. As soon as this was done, the Devil was ready for the opposition, and 
             said, ‘I shall stand in my place, and what will Joseph Smith be able to accomplish?’ We say that he will accomplish all that is required of him, despite all opposition.”
-            <a id="clickable10" className="footnote">10  </a>
+            <btn id="clickable10" className="footnote">10  </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>John Taylor, Journal of Discourses, Feb. 25, 1855, vol. 2, p. 195-196.</Tooltip>
           </p>
         </div>
@@ -202,15 +202,15 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Brigham Young stated, “I feel like shouting Hallelujah, all the time, when I think that I ever knew Joseph Smith, the Prophet whom the Lord raised up and ordained, 
             and to whom he gave keys and power to build up the Kingdom of God on earth.”  
-            <a id="clickable11" className="footnote">11  </a>
+            <btn id="clickable11" className="footnote">11  </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Brigham Young, Journal of Discourses, September 21, 1856, vol. 3, p. 51.</Tooltip>
             Brigham also stated, “What a delight it was to hear brother Joseph talk upon the great principles of eternity; he would bring them down to the capacity of a child, 
             and he would unite heaven with earth, this is the beauty of our religion.” 
-            <a id="clickable12" className="footnote">12  </a>
+            <btn id="clickable12" className="footnote">12  </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Brigham Young, Journal of Discourses, September 21, 1856, vol. 4, p. 54.</Tooltip> 
             Brigham stated, “I shall bow to Jesus, my Governor, and under him, to brother Joseph. 
             Though he has gone behind the veil, and I cannot see him, he is my head, under Jesus Christ and the ancient Apostles, and I shall go ahead and build up the kingdom.”
-            <a id="clickable13" className="footnote">13  </a>
+            <btn id="clickable13" className="footnote">13  </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size"clickable>Brigham Young, Journal of Discourses, August 31, 1856, vol. 4, p. 41.</Tooltip> 
           </p>
         </div>
@@ -218,11 +218,11 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>First Presidency Counselor Heber Kimball stated, “When brother Joseph Smith lived, he was our Prophet, our Seer, and Revelator; he was our dictator in the things of God, 
             and it was for us to listen to him, and do just as he told us.”  
-            <a id="clickable14" className="footnote">14  </a>
+            <btn id="clickable14" className="footnote">14  </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, August 13, 1853, vol. 2, p. 106.</Tooltip> 
             Heber also stated, “Joseph Smith many a time said … he was a representative of God to us, to teach and 
             direct us and reprove the wrongdoers. He has passed behind the veil, but there never will a person in this dispensation enter into the celestial glory without his approbation.” 
-            <a id="clickable15" className="footnote">15  </a>
+            <btn id="clickable15" className="footnote">15  </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, October 5, 1856, vol. 4, p. 119.</Tooltip> 
           </p>
         </div>
@@ -230,13 +230,13 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>First Presidency Counselor Jedediah Grant stated, “When Joseph Smith bore testimony, he told the people that an angel from high heaven had spoken to him, 
             that he had been ordained by authority from Jesus Christ, and sent forth to preach the Gospel. Did you ever hear the Methodists bear such a testimony?”  
-            <a id="clickable16" className="footnote">16  </a>
+            <btn id="clickable16" className="footnote">16  </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, March 11, 1855, vol. 2, p. 278.</Tooltip> 
             Jedeiah also stated of Joseph’s ability to bring heaven to earth, “I remember reflecting when very young – my brother had killed a quail, and in conversing upon the 
             circumstances, he asked my mother if there was not a quail heaven ... And, when quite young, I read the sermons of John Wesley, who believed that the animal 
             creation would have an eternal existence … but when I came to read the vision given to Joseph Smith upon a future state, as contained in the Book of Doctrine and Covenants, 
             I believed it … it gave me great joy and satisfaction.” 
-            <a id="clickable17" className="footnote">17  </a>
+            <btn id="clickable17" className="footnote">17  </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, May 30, 1855, vol. 3, p. 8.</Tooltip> 
           </p>
         </div>
@@ -244,11 +244,11 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Fourth Mormon prophet Wilford Woodruff stated, “… the days before I heard Mormonism. I have spent hours, and days, and nights, among the rocks and in the forest, 
             praying to Almighty God to enlighten my mind … The Lord revealed to me that I should have this privilege, and I have lived to see the Kingdom of God set up.”  
-            <a id="clickable18" className="footnote">18  </a>
+            <btn id="clickable18" className="footnote">18  </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Wilford Woodruff, Journal of Discourses, April 9, 1857, vol. 4, p. 322.</Tooltip> 
             Wilford also stated, “The Lord taught him (Joseph) many things by vision and revelation that were never taught publicly in his days; for the people could not bear the 
             flood of intelligence which God poured into his mind.” 
-            <a id="clickable19" className="footnote">19  </a>
+            <btn id="clickable19" className="footnote">19  </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Wilford Woodruff, Journal of Discourses, April 9, 1857, vol. 5, p. 84.</Tooltip> 
           </p>
         </div>
@@ -257,7 +257,7 @@ const Chap1 = () => {
           <p>Mormon apostle Orson Pratt taught of Joseph, “… he has given the keys of the holy Priesthood, and there are many sitting before me who have received this Priesthood, 
             and it will remain with the faithful after their graves shall have been covered up and the green grass grown thereon. It will go with them in the spirit world and aid 
             them in disseminating the principles of salvation there.” 
-            <a id="clickable20" className="footnote">20  </a>
+            <btn id="clickable20" className="footnote">20  </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, June 24, 1860, Vol. 8, p. 105.</Tooltip>
           </p>
         </div>
@@ -267,7 +267,7 @@ const Chap1 = () => {
             in his translating room, he dictated in our presence the following revelation. Each sentence was uttered slowly and very distinctly, and with a pause between each, 
             sufficiently long for it to be recorded, by an ordinary writer, in long hand. … There was never any hesitation, reviewing, 
             or reading back, in order to keep the run of the subject.”  
-            <a id="clickable21" className="footnote">21  </a>
+            <btn id="clickable21" className="footnote">21  </btn>
             <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>Parley P. Pratt, Autobiography of Parley P. Pratt, ed. Parley P. Pratt Jr., 1938, p. 62.</Tooltip>
           </p>
         </div>
@@ -277,7 +277,7 @@ const Chap1 = () => {
             will you go in with us?’ Richards answered ‘Joseph, you did not ask me to cross the river with you – you did not ask me to come to Carthage – you did not ask me to come to jail 
             with you – and do you think I would forsake you now? But I will tell you what I will do; if you are condemned to be hung for treason, I will be hung in your stead, and you 
             shall go free.’” 
-            <a id="clickable22" className="footnote">22  </a>
+            <btn id="clickable22" className="footnote">22  </btn>
             <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Teachings of Presidents of the Church: Joseph Smith, 2007, 460.</Tooltip>
           </p>
         </div>
@@ -289,7 +289,7 @@ const Chap1 = () => {
             Joseph said, “Brother William, in the name of the Lord, I promise you will never taste of death.” However, his wife reported that William died “without a sigh or a shudder.” 
             The Huntington family believes Joseph’s promise was fulfilled in Joseph’s scripture, “And it shall come to pass that those that die in me shall not taste of death, 
             but it will be sweet to them.” 
-            <a id="clickable23" className="footnote">23  </a>
+            <btn id="clickable23" className="footnote">23  </btn>
             <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Diary of Oliver B. Huntington, vol. 2, p. 168, 271, entry of March 19, 1887. D&C 42:46-47.</Tooltip>
           </p>
         </div>
@@ -303,17 +303,17 @@ const Chap1 = () => {
 
         <div className='paragraph'>
           <p>Today’s Mormon leaders neglect Joseph’s teachings in their altered version of Mormonism. In today’s sloganized Mormonism, apostles dole out “think celestial,”  
-          <a id="clickable24" className="footnote">24  </a>
+          <btn id="clickable24" className="footnote">24  </btn>
           <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Russell Nelson, Think Celestial, October 2023, general conference.</Tooltip>
             “let God prevail,”  
-            <a id="clickable25" className="footnote">25  </a>
+            <btn id="clickable25" className="footnote">25  </btn>
             <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Russell Nelson, Let God Prevail, October 2020 general conference.</Tooltip>
             “let your faith show,”  
-            <a id="clickable26" className="footnote">26  </a>
+            <btn id="clickable26" className="footnote">26  </btn>
             <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>Russell Nelson, Let Your Faith Show, April 2014 general conference.</Tooltip>  
             etc. Joseph, on the other hand, encouraged the early Mormons to seek spiritual gifts and visions. He “…advise[d] all to go on to perfection and search deeper and deeper 
             into the mysteries of Godliness.”  
-            <a id="clickable27" className="footnote">27  </a>
+            <btn id="clickable27" className="footnote">27  </btn>
             <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>Sermon delivered at Nauvoo temple grounds on Friday May 12, 1844, Thomas Bullock report</Tooltip>  
             To reside in Joseph’s Zion, a person must possess a driving desire to know and comprehend God. They needed to undergo born-again experiences and transform their lives upon righteous principles. They needed to receive divine intelligence as they underwent redemptive transformation.
           </p>
@@ -321,15 +321,15 @@ const Chap1 = () => {
 
         <div className='paragraph'>
           <p>Joseph taught, “If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries.”  
-          <a id="clickable28" className="footnote">28  </a>
+          <btn id="clickable28" className="footnote">28  </btn>
           <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>D&C 42:61.</Tooltip> 
             And that a person with the priesthood has, “The power and authority … To have the privilege of receiving the mysteries of the kingdom of heaven, to have the heavens opened 
             unto them … to enjoy the communion and presence of God the Father.
-            <a id="clickable29" className="footnote">29  </a>
+            <btn id="clickable29" className="footnote">29  </btn>
             <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>D&C 107:18-19.</Tooltip>   
             Another time Joseph stated, “Thy mind … must stretch as high as the utmost Heavens, and search into and contemplate the lowest considerations of the darkest 
             abyss and expand upon the broad considerations of eternal expanse; he must commune with God.” 
-            <a id="clickable30" className="footnote">30  </a>
+            <btn id="clickable30" className="footnote">30  </btn>
             <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>Dean Jessee and John Welch, “Revelations in Context: Joseph Smith’s Letter from Liberty Jail, March 20, 1839,” BYU Studies 39, no. 3 (2000): 137.</Tooltip>
           </p>
         </div>
@@ -339,7 +339,7 @@ const Chap1 = () => {
             mysteries of Godliness and make men and women into Gods and give them the eternal powers of creation over the cosmos. Joseph believed that people seeking 
             righteousness with all their hearts could be filled with heavenly light and transformed into new creatures in Christ. “That which is of God is light; and 
             he that receiveth light, and continueth in God, receiveth more light; and that light groweth brighter and brighter until the perfect day.” 
-            <a id="clickable31" className="footnote">31  </a>
+            <btn id="clickable31" className="footnote">31  </btn>
             <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>D&C 50:24.</Tooltip>  
           </p>
         </div>
@@ -358,29 +358,29 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Today’s Mormons are told to avoid the mysteries of Godliness. The Doctrine and Covenants Student Manual reads, “A mystery is a truth that cannot be known except 
             through divine revelation – a sacred secret.”  
-            <a id="clickable32" className="footnote">32  </a>
+            <btn id="clickable32" className="footnote">32  </btn>
             <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Smith and Sjodahl, Commentary, p. 141; see also D&C 42:61, 65; 76:5-10, 89:18-19, 1 Nephi 10:19; Alma 12:9-11.</Tooltip> 
             Then an appeal to authority. “President Joseph Fielding Smith defined mysteries in a similar way: ‘The Lord has promised to 
             reveal his mysteries to those who serve him in 
             faithfulness … There are no mysteries pertaining to the Gospel, only as we, in our weakness, fail to comprehend Gospel truth … The ‘simple’ principles of the Gospel, 
             such as baptism, the atonement, are mysteries to those who do not have the guidance of the Spirit of the Lord.’”
-            <a id="clickable33" className="footnote">33  </a>
+            <btn id="clickable33" className="footnote">33  </btn>
             <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>Church History and Modern Revelation, vol. 1, p. 43.</Tooltip> 
           </p>
         </div>
 
         <div className='paragraph'>
           <p>In the church today, there is nothing from early Mormonism about “millions of eternities yet to be made.”  
-          <a id="clickable34" className="footnote">34  </a>
+          <btn id="clickable34" className="footnote">34  </btn>
           <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>Discourse of Brigham Young, October 8, 1854, see Journal of Discourses, vol. 7, p. 285-286; vol. 10, p. 175.</Tooltip> 
             “The principles of … eternal lives and the power of God are from eternity to eternity.”  
-            <a id="clickable35" className="footnote">35  </a>
+            <btn id="clickable35" className="footnote">35  </btn>
             <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>Brigham Young, Journal of Discourses, vol. 11, p. 234.</Tooltip> 
             “… there is no period, in all the eternities, wherein organized existence … cannot advance in knowledge, wisdom, power, and glory.”
-            <a id="clickable36" className="footnote">36  </a>
+            <btn id="clickable36" className="footnote">36  </btn>
             <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>Brigham Young, Journal of Discourses, vol. 1, p. 349.</Tooltip> 
             Nothing on the key to eternal progression where we can see “… Divinity acting, operating, and defusing principles into matter to produce intelligent beings, and to exalt.”
-            <a id="clickable37" className="footnote">37  </a>
+            <btn id="clickable37" className="footnote">37  </btn>
             <Tooltip anchorSelect="#clickable37" className="footnote-size" clickable>Brigham Young, Journal of Discourses, vol. 7, p. 2-3.</Tooltip>   
           </p>
         </div>
@@ -391,7 +391,7 @@ const Chap1 = () => {
             seeming contradiction: “There is also a restricted and limited usage of the expression mysteries; it is more of a colloquial than a scriptural usage, and it has reference to 
             that body of teachings in the speculative field, those things which the Lord has not revealed in plainness in this day. It is to these things that reference is made when the 
             elders are counseled to leave the mysteries alone.”
-            <a id="clickable38" className="footnote">38  </a>
+            <btn id="clickable38" className="footnote">38  </btn>
             <Tooltip anchorSelect="#clickable38" className="footnote-size" clickable>Bruce McConkie, Mormon Doctrine, p. 524.</Tooltip>  
           </p>
         </div>
@@ -399,7 +399,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>This is not what Joseph Smith taught or did. Today’s Mormon leaders are not bringing forth new revelations and heavenly knowledge despite demanding they be called prophets, 
             seers, and revelators. An article of faith states, “… we believe that he will yet reveal many great and important things pertaining to the Kingdom of God.” 
-            <a id="clickable39" className="footnote">39  </a>
+            <btn id="clickable39" className="footnote">39  </btn>
             <Tooltip anchorSelect="#clickable39" className="footnote-size" clickable>Ninth Article of Faith.</Tooltip> 
           </p>
         </div>
@@ -409,7 +409,7 @@ const Chap1 = () => {
             Heaven, he said, “Very little has been revealed about Mother in Heaven, but what we do know is summarized in a gospel topic found in our Gospel Library application. 
             Once you have read what is there, you will know everything that I know about the subject … Demanding revelation from God is both arrogant and unproductive. 
             Instead, we wait on the Lord and His timetable to reveal His truths through the means that He has established.” 
-            <a id="clickable40" className="footnote">40  </a>
+            <btn id="clickable40" className="footnote">40  </btn>
             <Tooltip anchorSelect="#clickable40" className="footnote-size" clickable>Dale Renlund, Your Divine Nature and Eternal Destiny, General Conference, April 2022.</Tooltip> 
           </p>
         </div>
@@ -423,7 +423,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>In a brilliant stroke of propaganda, Mormon prophet Russell Nelson flipped the narrative and referred to Mormons who have put in the hard work of understanding Mormonism as 
             “lazy learners and lax disciples [who] will always struggle to muster a particle of faith.”  
-            <a id="clickable41" className="footnote">41  </a>
+            <btn id="clickable41" className="footnote">41  </btn>
             <Tooltip anchorSelect="#clickable41" className="footnote-size" clickable>Russell Nelson, Christ is Risen, General Conference, April 2021.</Tooltip> 
             In reality, it’s today’s Mormon leaders who are lazy apostles. Where are their great teachings, as Joseph taught? Where are their oracles and revelations, as Joseph claimed to possess? Where are their great proclamations to the world that Christ is coming, as Joseph and the early Mormon apostles proclaimed?
           </p>

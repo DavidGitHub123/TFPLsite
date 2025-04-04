@@ -16,7 +16,7 @@ const Chap27 = () => {
 
       <h1 className='chapterHeading'>Chapter 27: Mormon Reformation and Blood Atonement</h1>
 
-      <img src={bloodatonement} className='image' alt='Painting depicting Blood Atonement sacrifice of man' />
+      <img src={bloodatonement} className='image' alt='Blood Atonement sacrifice of man' />
 
     <div className="wrapper">
 
@@ -36,12 +36,12 @@ const Chap27 = () => {
             Brigham stated, “The time is coming when justice will be laid to the line and righteousness to the plummet; when we shall take 
             the old broadsword (a sword with a wide blade used for cutting rather than thrusting) and ask, Are you for God? And if you 
             are not heartily on the Lord’s side, you will be hewn down.”  
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 221.</Tooltip> 
             
             Brigham warned the Mormons that the time “is not far distant” when the church would enforce the law of blood atonement 
             against covenant breakers. 
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 221–226.</Tooltip> 
           </p>
         </div>
@@ -49,16 +49,16 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>First Presidency Counselor Jedediah Grant asked, “What disposition ought the people of God to make of covenant breakers?” 
             He stated they should be put to death.  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, March 12, 1854, vol. 4, p. 20. </Tooltip> 
  
             Mormon apostle Parley Pratt pressed the Utah Territory legislature to “… make death the penalty for fornication and adultery.”
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Parley Pratt, December 31, 1855, Marriage and Morals in Utah, Deseret News, (published January 16, 1856), 5 (45), pp. 356-57.</Tooltip> 
             
             First Presidency Counselor Heber Kimball said of adulterers “… they are worthy of death, and they will get it … God has 
             spoken from the heavens … we shall make a public example of those characters.”
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, January 11, 1857, vol. 4, p. 164–81.</Tooltip> 
           </p>
         </div>
@@ -68,19 +68,19 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>The Book of Mormon teaches “… then are ye sanctified in Christ by the grace of God, through the shedding of the blood of 
             Christ … unto the remission of your sins, that ye become holy, without spot.”  
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Moroni 10:33.</Tooltip> 
 
             However, Mormonism’s blood atonement meant that, in some cases of sin, the “blood of Christ” was insufficient. The rationale 
             of Blood Atonement was that it was more charitable to sacrifice a life than to see a person endure eternal torment in the 
             afterlife. If sins were extremely heinous, a person should be killed, and their blood shed upon the ground as a sacrificial 
             offering. The sinner voluntarily chose to practice the doctrine, but it could be enforced by church leaders.  
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Lowell Snow, Blood Atonement, Encyclopedia of Mormonism.</Tooltip> 
 
             The historical record shows that in Utah during the 1850s and 1860s, blood atonement was exacted for sins of apostasy, 
             theft, fornication, and adultery.
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Michael Quinn, (2001). Same-Sex Dynamics Among Nineteenth Century Americans: A Mormon Example, P. 269.</Tooltip> 
 
           </p>
@@ -90,17 +90,17 @@ const Chap27 = () => {
           <p>Blood atonement is most often associated with the church under Brigham’s leadership; however, the idea originated with 
             Joseph. He taught that if he could enact a death penalty law, “I am opposed to hanging, even if a man kill another, I 
             will shoot him, or cut off his head, spill his blood on the ground and let the smoke ascend thereof up to God ...”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>B.H. Roberts, ed. (1909), History of the Church of Jesus Christ of Latter-day Saints, vol. 5, p. 296. </Tooltip> 
             
             Joseph also commented that the common execution method in Christian nations was hanging, “instead of blood for blood according 
             to the law of heaven.”  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Statement found in Roberts 1902, p. 435, which was written by Willard Richards in 1843. Jessee, p. 441.</Tooltip> 
             
             One year after Joseph’s death, in Nauvoo, Brigham approved of a Mormon being killed as “a deed of charity” because “he might 
             now possibly be redeemed in the eternal world.”
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>William Smith, October 29, 1845, A Proclamation, Warsaw Signal, Warsaw, Illinois, 2 (32).</Tooltip> 
           </p>
         </div>
@@ -108,16 +108,16 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>During the exodus west, Brigham threatened adherents who had stolen supplies that “… when a man is found to be a thief ... 
             cut his throat & thro’ him in the River.”  
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Diary of Thomas Bullock, 13 December 184.</Tooltip> 
   
             Brigham also stated that decapitation of repeated sinners “… is the law of God and it shall be executed.”  
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Diary of Willard Richards, December 20, 1846; Watson, Manuscript History of Brigham Young, 1846-1847, p. 480.</Tooltip> 
             
             Brigham stated, “… a thief should not live in the Valley, for he would cut off their heads or be the means of having it done 
             as the Lord lived.”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Diary of Mary Haskin Parker Richards, 16 April 1848.</Tooltip> 
           </p>
         </div>
@@ -126,16 +126,16 @@ const Chap27 = () => {
           <p>In meetings from the stand, Mormons, on their own accord, were encouraged to take blood atonement into their own hands. 
             Brigham stated, “… [if] you found your brother in bed with your wife, and put a javelin through both of them, you would be 
             justified, and they would atone for their sins, and be received into the kingdom of God.”  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 221–226.</Tooltip> 
  
             Brigham continued, “under such circumstances, I have no wife whom I love so well that I would not put a javelin through her 
             heart, and I would do it with clean hands.”  
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 247.</Tooltip> 
 
             Brigham’s rationale? “The blood of Christ will never wipe that out; your own blood must atone for it.”
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 247.</Tooltip> 
           </p>
         </div>
@@ -146,7 +146,7 @@ const Chap27 = () => {
             these people will, “… need to have their bloodshed, for water will not do, their sins are too deep a dye.” 
             Jedediah advised these people to volunteer to have a committee appointed by the First Presidency to select a place and 
             “shed their blood.”  
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, September 21, 1856, vol. 4, p. 49-51.</Tooltip> 
             
             Brigham agreed saying, “There are sins that men commit for which they cannot receive forgiveness in this world, or in that which is to come, and if they had their eyes open to see their true condition, they would be perfectly willing to have their blood spilt upon the ground, that the smoke thereof might ascend to heaven as an offering for their sins, and the smoking incense would atone for their sins.” 
@@ -155,7 +155,7 @@ const Chap27 = () => {
 
         <div className='paragraph'>
           <p>Brigham claimed that men had actually come to him and offered their blood to atone for their sins.  
-          <a id="clickable19" className="footnote">19 </a>
+          <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Brigham Young, Journal of Discourses, March 2, 1856, vol. 3, p. 221-226.</Tooltip> 
             
             Brigham said that if a person “overtaken in a gross fault” truly understood that “by having his blood shed he will atone 
@@ -163,7 +163,7 @@ const Chap27 = () => {
             exaltation. Brigham framed blood atonement as an act of selfless love. “Will you love that man or woman well enough to 
             shed their blood?” As a matter of love, he said, “… if [your neighbor] needs help, help him; and if he wants salvation and 
             it is necessary to spill his blood on the earth in order that he may be saved, spill it.”
-            <a id="clickable20" className="footnote">20 </a>
+            <btn id="clickable20" className="footnote">20 </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Brigham Young, Journal of Discourses, February 8, 1857, vol. 4, p. 215-219.</Tooltip> 
           </p>
         </div>
@@ -196,7 +196,7 @@ const Chap27 = () => {
             fulness of my gospel … and shall be filled with all manner of lyings, and of deceits, and of mischiefs, and all manner of 
             hypocrisy, and murders, and priest crafts, and whoredoms, and of secret abominations … I will bring the fulness of my gospel from 
             among them.”
-            <a id="clickable21" className="footnote">21 </a>
+            <btn id="clickable21" className="footnote">21 </btn>
             <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>3 Nephi 16:10-12.</Tooltip> 
           </p>
         </div>
@@ -206,7 +206,7 @@ const Chap27 = () => {
             Mormon leaders over the pulpit. First Presidency Counselor Jedediah Grant stated, “It is a stern fact that the people of 
             the United States have shed the blood of the Prophets, driven out the Saints of God ... consequently I look for the Lord to 
             use His whip on the refractory son called ‘Uncle Sam.’”
-            <a id="clickable22" className="footnote">22 </a>
+            <btn id="clickable22" className="footnote">22 </btn>
             <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Jedediah Grant, Journal of Discourses, April 2, 1854, vol. 2. p. 148–49.</Tooltip> 
           </p>
         </div>
@@ -214,13 +214,13 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>Vengeance upon the Gentiles of the United States was a covenant built into the Mormon temple endowment. In the ceremony, 
             Mormons took an oath requiring a “private, immediate duty to avenge the death of the Prophet and Martyr, Joseph Smith.”  
-            <a id="clickable23" className="footnote">23 </a>
+            <btn id="clickable23" className="footnote">23 </btn>
             <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Diary of Heber Kimball, December 21, 1845; Beadle 1870, p. 496–97; George Cannon, Daily Journal of Abraham H. Cannon, December 6, 1889, p. 205.</Tooltip> 
             
             In 1904, 60 years after the death of Joseph and Hyrum, several witnesses said that the oath as it then existed was that 
             temple participants would “…  never cease to pray that God would avenge the blood of the prophets on this nation” and that 
             they would teach this practice to their posterity “unto the 3rd and 4th generation.”
-            <a id="clickable24" className="footnote">24 </a>
+            <btn id="clickable24" className="footnote">24 </btn>
             <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>James Buerger, The Mysteries of Godliness, 2002 p. 134, The oath was deleted from the ceremony in the early 20th century.</Tooltip> 
           </p>
         </div>
@@ -229,13 +229,13 @@ const Chap27 = () => {
           <p>As a result of this oath, at least two Mormon apostles considered it their religious duty to kill the Joseph’s and Hyrum’s 
             murderers if they ever came upon them. First Presidency Counselor Heber Kimball said that he had, “covenanted, and will never 
             rest ... until those men who killed Joseph & Hyrum have been wiped out of the earth.”  
-            <a id="clickable25" className="footnote">25 </a>
+            <btn id="clickable25" className="footnote">25 </btn>
             <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Diary of Heber Kimball, December 21, 1845.</Tooltip> 
 
             Mormon apostle George Cannon stated that he understood that his endowment in Nauvoo included “an oath against the murders of 
             the Prophet Joseph as well as other prophets, and if he had ever met any of those who had taken a hand in that massacre he 
             would undoubtedly have attempted to avenge the blood of the Martyrs.”
-            <a id="clickable26" className="footnote">26 </a>
+            <btn id="clickable26" className="footnote">26 </btn>
             <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>Daily Journal of Abraham H. Cannon, December 6, 1889, p. 205.</Tooltip> 
           </p>
         </div>
@@ -244,12 +244,12 @@ const Chap27 = () => {
           <p>Mormon William Dame received a patriarchal blessing in 1854 stating that he would “be called to act at the head of a 
             portion of thy Brethren and of the Lamanites in the redemption of Zion and the avenging of the blood of the prophets 
             upon them that dwell on the earth.”  
-            <a id="clickable27" className="footnote">27 </a>
+            <btn id="clickable27" className="footnote">27 </btn>
             <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>See Patriarchal blessing of William H. Dame, February 20, 1854, in Harold W. Pease, 
             “The Life and Works of William Horne Dame,” M.A. thesis, BYU, 1971, pp. 64–66.</Tooltip> 
 
             In 1857, Philip Klingensmith was blessed that he would participate in “avenging the blood of Brother Joseph.”  
-            <a id="clickable28" className="footnote">28 </a>
+            <btn id="clickable28" className="footnote">28 </btn>
             <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>See Patriarchal blessing of Philip Klingensmith, Anna Jean Backus, Mountain Meadows Witness: The Life and Times of Bishop Philip Klingensmith (Spokane: Arthur H. Clark Co., 1995), pp. 118, 124; Scott, Malinda Cameron (1877) Malinda (Cameron) Scott Thurston Deposition, Mountain Meadows Association.</Tooltip> 
             
             Both William and Philip participated in the Mountain Meadows Massacre.
@@ -268,16 +268,16 @@ const Chap27 = () => {
             Parley had married Hector’s estranged wife Eleanor as his twelfth plural wife. Hector and Eleanor were legally married at the 
             time of her celestial marriage to Parley. Upon Parley’s murder, Mormon leaders proclaimed him a martyr for polygamy, with 
             Brigham stating, “Nothing has happened so hard to reconcile my mind to since the death of Joseph.”  
-            <a id="clickable29" className="footnote">29 </a>
+            <btn id="clickable29" className="footnote">29 </btn>
             <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>Millennial Star, vol. 19, Murder of Parley P. Pratt, One of the Twelve Apostles of The Church of Jesus Christ of Latter-Day Saints.</Tooltip> 
             
             The Mormons held the people of Arkansas responsible.  
-            <a id="clickable30" className="footnote">30 </a>
+            <btn id="clickable30" className="footnote">30 </btn>
             <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>Juanita Brooks, 1962, [1st pub. 1950]. The Mountain Meadows Massacre, p. 36-37.</Tooltip> 
             
             “It was in accordance with Mormon policy to hold every Arkansan accountable for Pratt’s death, just as every Missourian was
              hated because of the expulsion of the church from that state.”
-             <a id="clickable31" className="footnote">31 </a>
+             <btn id="clickable31" className="footnote">31 </btn>
             <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>William Linn, 1902, The Story of the Mormons, p. 519-520.</Tooltip> 
           </p>
         </div>
@@ -301,7 +301,7 @@ const Chap27 = () => {
           <p>The Mormons were sworn to secrecy and a plan was set to blame the massacre on the Native Americans. The Mormons confiscated 
             the emigrants’ valuables and cattle. Some cattle were taken to Salt Lake City and sold or traded. The remaining personal 
             property was taken to the tithing house at Cedar City and auctioned off to local Mormons.
-            <a id="clickable32" className="footnote">32 </a>
+            <btn id="clickable32" className="footnote">32 </btn>
             <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Philip Klingensmith, September 5, 1872, Written at Lincoln County, Nevada. Dennis Toohy, ed. “Mountain Meadows Massacre, Affidavit of Philip Klingensmith.” Corinne Journal Reporter. Corinne, Utah, published September 24, 1872. 5 (252): 1.</Tooltip> 
           </p>
         </div>
@@ -315,7 +315,7 @@ const Chap27 = () => {
             skeletons, disjointed bones, ghastly skulls and the hair of women were scattered in frightful profusion over a distance of 
             two miles.” He continued, “the remains were not buried at all until after they had been dismembered by the wolves and the 
             flesh stripped from the bones, and then only such bones were buried as lay scattered along nearest the road.”
-            <a id="clickable33" className="footnote">33 </a>
+            <btn id="clickable33" className="footnote">33 </btn>
             <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>Harper’s Weekly, August 13, 1859.</Tooltip> 
           </p>
         </div>
@@ -323,7 +323,7 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>In 1999, the remains of 28 massacre victims were dug up. Forensic evidence showed the males had been shot by firearms at 
             close range. Remains of the women and children showed evidence of blunt force trauma.
-            <a id="clickable34" className="footnote">34 </a>
+            <btn id="clickable34" className="footnote">34 </btn>
             <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>Alyssa Fisher, September 16, 2003, The Mountain Meadows Massacre: A Sight Which Can 
               Never Be Forgotten. Archaeology.com. Archaeological Institute of America; Luscinia Brown-Hovelt, Elizabeth J. Himelfarb, November 30, 1999, Mountain Meadows Massacre. Archaeology. Archaeological Institute of America.</Tooltip> 
           </p>
@@ -331,20 +331,20 @@ const Chap27 = () => {
 
         <div className='paragraph'>
           <p>After gathering up the skulls and bones, Carleton’s troops buried them and erected a cairn and cross.  
-          <a id="clickable35" className="footnote">35 </a>
+          <btn id="clickable35" className="footnote">35 </btn>
             <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>Alyssa Fisher, September 16, 2003, The Mountain Meadows Massacre: A Sight Which Can 
               Never Be Forgotten Archaeology.com. Archaeological Institute of America. </Tooltip> 
             
             After interviewing Mormons and Paiute Native American chiefs, Carleton concluded there was Mormon involvement in the massacre.
             Carleton’s report to the U.S. Congress called the mass killings a “heinous crime”  
-            <a id="clickable36" className="footnote">36 </a>
+            <btn id="clickable36" className="footnote">36 </btn>
             <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>James Henry Carleton, 1859, Special Report of the Mountain Meadow Massacre, Washington: Government Printing Office, published 1902.</Tooltip> 
             
             blaming both local and senior church leaders for the massacre. In 1864 the U.S. Army returned to find the rock cairn and wooden 
             cross monument missing. Reports suggest that the monument was destroyed in 1861, when Brigham brought an entourage to Mountain 
             Meadows. Wilford Woodruff reported that upon reading the inscription on the cross, “Vengeance is mine, thus saith the Lord. 
             I shall repay” that Brigham responded, “… it should be vengeance is mine and I have taken a little.”
-            <a id="clickable37" className="footnote">37 </a>
+            <btn id="clickable37" className="footnote">37 </btn>
             <Tooltip anchorSelect="#clickable37" className="footnote-size" clickable>Sally Denton, 2003. American Massacre: The Tragedy at Mountain Meadows, September 1857, p. 210. Scott G. Kenney, ed., Wilford Woodruff's Journal, vol. 5, p. 577.</Tooltip> 
           </p>
         </div>
@@ -352,7 +352,7 @@ const Chap27 = () => {
         <div className='paragraph'>
           <p>In 1859, Jacob Forney, Superintendent of Indian Affairs for Utah, also investigated and concluded that the Paiutes did not 
             act alone. The massacre would not have occurred without the Mormons.  
-            <a id="clickable38" className="footnote">38 </a>
+            <btn id="clickable38" className="footnote">38 </btn>
             <Tooltip anchorSelect="#clickable38" className="footnote-size" clickable>Jacob Forney, May 5, 1859. Visit of the Superintendent of Indian Affairs to Southern Utah, Deseret News, published May 11, 1859, p. 1.</Tooltip> 
 
             Forney retrieved the surviving children of massacre victims and sent them to their relatives in Arkansas. Federal judge 
@@ -361,7 +361,7 @@ const Chap27 = () => {
             massacre and “accessory before the fact.” Territorial probate court judge Elias Smith arrested Brigham under a territorial 
             warrant, perhaps hoping to divert any trial of Brigham into a friendly Mormon territorial court. When no federal charges 
             ensued, Young was apparently released.
-            <a id="clickable39" className="footnote">39 </a>
+            <btn id="clickable39" className="footnote">39 </btn>
             <Tooltip anchorSelect="#clickable39" className="footnote-size" clickable>Will Bagley and David L. Bigler, 2008, Innocent Blood: Essential Narratives of the Mountain Meadows Massacre, Norman, Oklahoma: The Arthur H. Clark Company. Will Bagley, 2002, Blood of the Prophets: Brigham Young and the Massacre at Mountain Meadows.</Tooltip> 
           </p>
         </div>
@@ -371,13 +371,13 @@ const Chap27 = () => {
             jury. Lee was later convicted in a second trial before an all-Mormon jury. He was sentenced to die and chose firing squad 
             over hanging. Perhaps a choice made based on a belief in Mormon blood atonement that his blood must be spilled onto the 
             ground. Just before his execution, he confessed that he was a scapegoat for Mormon church leaders.  
-            <a id="clickable40" className="footnote">40 </a>
+            <btn id="clickable40" className="footnote">40 </btn>
             <Tooltip anchorSelect="#clickable40" className="footnote-size" clickable>John D. Lee, 1877, William Bishop, ed. Mormonism Unveiled: Or the Life and Confessions of the Late Mormon Bishop John D. Lee, St. Louis, Missouri: Bryan, Brand & Co. </Tooltip> 
 
             Brigham stated Lee’s 
             fate was just, but not a sufficient blood atonement given the enormity of the crime. After being asked by the interviewer 
             if he believed in blood atonement, Brigham replied, “I do, and I believe that Lee has not half atoned for his great crime.”
-            <a id="clickable41" className="footnote">41 </a>
+            <btn id="clickable41" className="footnote">41 </btn>
             <Tooltip anchorSelect="#clickable41" className="footnote-size" clickable>Brigham Young, May 30, 1877. Interview with Brigham Young UDN/Utah Digital Newspapers. (Utah Digital Newspapers, J. Willard Marriott Library/University of Utah) Deseret News 
               [After being asked by the interviewer if he believed in blood atonement, Young replied] “I do, and I believe that Lee has not half atoned for his great crime.”</Tooltip> 
           </p>
@@ -388,7 +388,7 @@ const Chap27 = () => {
             Mormon prophet ordered the crime. They put the blame on local leaders such as John Lee. However, it is beyond dispute that 
             Brigham and other church leaders were part of the cover up. Their fiery rhetoric fueled the incendiary environment of 
             vengeance. Privately, Brigham stated that God had taken vengeance on the Baker–Fancher party.
-            <a id="clickable42" className="footnote">42 </a>
+            <btn id="clickable42" className="footnote">42 </btn>
             <Tooltip anchorSelect="#clickable42" className="footnote-size" clickable>Will Bagley, 2002, Blood of the prophets: Brigham Young and the massacre at Mountain Meadows, p. 247. </Tooltip> 
           </p>
         </div>

@@ -16,7 +16,7 @@ const Chap16 = () => {
 
       <h1 className='chapterHeading'>Chapter 16: God’s Beloved House of Israel</h1>
 
-      <img src={abraham} className='image' alt='Painting of Abraham sacrificing Issac' />
+      <img src={abraham} className='image' alt='Abraham sacrificing Issac' />
 
   <div className="wrapper">
 
@@ -42,7 +42,7 @@ const Chap16 = () => {
             family of God through temple ordinances. “Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of 
             the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite 
             the earth with a curse.”
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 128:17.</Tooltip> 
           </p>
         </div>
@@ -54,7 +54,7 @@ const Chap16 = () => {
             and Manasseh. Here is how the legend unfolds. In the Old Testament, when Abraham was 99 years old, God appeared to him and said, 
             “I am the Almighty God … I will make my covenant between me and thee and will multiply thee exceedingly … thou shalt be a father of many 
             nations.”  
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Genesis 17:7.</Tooltip> 
             
             This made Abraham the head of God’s covenant family on earth.
@@ -69,7 +69,7 @@ const Chap16 = () => {
         <div className='paragraph'>
           <p>As with Abraham, God appeared to Jacob and said, “… thy name shall not be called any more Jacob, but Israel shall be thy name … be fruitful 
             and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins.”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Genesis 35:10-11.</Tooltip> 
             
             Therefore, Abraham was on his way to becoming a “father of many nations” through the posterity of Jacob, renamed Israel.
@@ -80,7 +80,7 @@ const Chap16 = () => {
           <p>Next in the legend, Jacob had 12 sons from his two wives, Leah and Rachel, and his two concubines, Zilpah and Bilhah. But then, a twist. 
             Jacob’s firstborn son, Reuben, forfeited the “office of firstborn” by transgression. He slept with his father’s concubine Bilhah. 
             The “office of firstborn” fell upon Joseph, Rachel’s firstborn son, and he became the favored son and received elevated status.
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Although born as the 11th of Jacob’s sons chronologically, Joseph was the firstborn son between Jacob and Rachel – Jacob’s second wife..</Tooltip> 
           </p>
         </div>
@@ -91,7 +91,7 @@ const Chap16 = () => {
             right hand upon the second born Ephraim. Joseph assumed his father had mistaken the birth order and had switched his hands. But Jacob stopped 
             Joseph saying, “I know it: he (Manasseh) also shall become a people, and he also shall be great: but truly his younger brother (Ephraim) 
             shall be greater than he, and his seed shall become a multitude of nations.”
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Genesis 48:19-20.</Tooltip>   
           </p>
         </div>
@@ -99,7 +99,7 @@ const Chap16 = () => {
         <div className='paragraph'>
           <p>So, through revelation from God to Jacob, the prophet and head of the House of Israel, the “office of firstborn” fell to the second-born 
             Ephraim
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Genesis 49:10, 22-26.</Tooltip>  
             
               – whom Mormons claim they descend from their patriarchal blessings. Before his death, Jacob called his 12 sons together for blessings. 
@@ -107,7 +107,7 @@ const Chap16 = () => {
               Israel, which consisted of 12 tribes. Jacob bestowed the “kingly office” upon Judah and blessed him with a kingly scepter. Judah and his 
               posterity were to serve as kings over the House of Israel. “Judah, thou art he whom thy brethren shall praise … The sceptre shall not depart 
               from Judah.”
-              <a id="clickable7" className="footnote">7 </a>
+              <btn id="clickable7" className="footnote">7 </btn>
               <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Genesis 49:8-10.</Tooltip>  
           </p>
         </div>
@@ -124,7 +124,7 @@ const Chap16 = () => {
             of Ephraim. And they shall be filled with songs of everlasting joy. Behold, this is the blessing of the everlasting God upon the tribes of 
             Israel, and the richer blessing upon the head of Ephraim and his fellows. And they also of the tribe of Judah (the Jews), after their pain 
             (captivity and exile) shall be sanctified in holiness before the Lord to dwell in his presence day and night, forever and ever.”
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 133:32-35.</Tooltip> 
           </p>
         </div>
@@ -134,7 +134,7 @@ const Chap16 = () => {
         <div className='paragraph'>
           <p>In the Old Testament, Jacob prophesies that his son “Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over 
             the wall.”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Genesis 49:22.</Tooltip> 
             
             The “fruitful bough” refers to Joseph’s numerous posterities, through Ephraim and Manasseh. Mormons believe the wall is the ocean that separates the old world of Palestine from America, and that Joseph’s posterity would inhabit America and become the Book of Mormon people of Nephites and Lamanites.
@@ -150,12 +150,12 @@ const Chap16 = () => {
           <p>Mormon general authority Orson Whitney stated, “Why did the Savior say, ‘My sheep know my voice?’ Did the sheep ever know the voice of a 
             shepherd it had never heard before? They who love the truth, and to whom it most strongly appeals, were they not acquainted with it in a 
             previous life? I think so. I believe we knew the Gospel before we came here.”  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Orson Whitney, Improvement Era, vol. 13, p. 100-1..</Tooltip> 
             
             Sixth Mormon prophet Joseph F. Smith said, “… we often catch a 
             spark from the awakened memories of the immortal soul, which lights up our whole being as with the glory of our former home.”
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Joseph F. Smith, Gospel Doctrine, 213-14.</Tooltip> 
           </p>
         </div>
@@ -163,18 +163,18 @@ const Chap16 = () => {
         <div className='paragraph'>
           <p>When the first British stake was organized, Mormon prophet Spencer Kimball visited Malvern Hills in England and declared, “This is a place 
             where the blood of Israel is richly concentrated, and there are many still to gather.”  
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Quoted in Derek Cuthbert, “Breakthrough in Britain.” Ensign, July 1987, 28–32.</Tooltip> 
             
             Later, Mormon prophet Harold Lee testified in Manchester England that a temple had been built in Great Britain “because of its great 
             contribution to the early and continuous growth of the Church, which gave evidence to the great outpouring of the blood of Israel among 
             the people of these great British Isles.”  
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Harold B. Lee, “The way to eternal life.” Ensign, November 1971, 10.</Tooltip> 
             
             Mormon general authority Derek Cuthbert proclaimed that “these [British] islands have a divine destiny ... Yes, the blood of Israel is richly 
             concentrated in these islands and the promised blessings will all be fulfilled.”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Derek Cuthbert, “Church growth in the British Isles, 1937–1987.” BYU Studies 27, no. 2 (1987), 20.</Tooltip> 
           </p>
         </div>
@@ -185,7 +185,7 @@ const Chap16 = () => {
             this idea came from the French magistrate M. le Loyer’s The Ten Lost Tribes, published in 1590. Loyer provided one of the earliest statements 
             of the belief that the Anglo Saxon, Celtic, Scandinavian, Germanic, and associated peoples are the direct descendants of the Old Testament 
             Israelites.  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>William H. Brackney (3 May 2012). Historical Dictionary of Radical Christianity.</Tooltip> 
             
             Over time, other books and sermons promoted the idea that the lost Ten Tribes of Israel, and the Jews after the Romans sacked 
@@ -200,7 +200,7 @@ const Chap16 = () => {
             Middle East as the glaciers receded between 19,000 and 14,000 years ago. In a second migration, about 9,000 years ago, farmers from 
             northwestern Anatolia (now Greece and Turkey) moved in. The third major migration began about 5,000 years ago when herders swept in from the 
             Black Sea in what is now Russia.
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Ann Gibbons, There's no such thing as a 'pure' European – or anyone else, Science, May 15, 2017.</Tooltip>
           </p>
         </div>
@@ -218,7 +218,7 @@ const Chap16 = () => {
             Joseph taught “… [when] the Holy Ghost falls upon one of the literal seed of Abraham, it is calm and serene; and his whole soul and body are 
             only exercised by the pure spirit of intelligence.” But with a Gentile, “the effect of the Holy Ghost upon a Gentile, is to purge out the old 
             blood, and make him actually of the seed of Abraham.”
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Joseph Smith, Teachings of the Prophet Joseph Smith p. 149-150.</Tooltip>
           </p>
         </div>
@@ -226,12 +226,12 @@ const Chap16 = () => {
         <div className='paragraph'>
           <p>According to Brigham Young, Joseph taught that when a Gentile is confirmed a member of the church that “When the Lord pours out the Holy 
             Ghost upon that individual, he will have spasms, and you would think that he was going into fits.”  
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 8, 1855, vol. 2, p. 269.</Tooltip>
             
             Brigham also said that Joseph taught that the Gentile blood was actually cleansed out of their veins, and the blood of Jacob made to circulate 
             in them; and the revolution and change in the system were so great that it caused the beholder to think they were going into fits.”
-            <a id="clickable19" className="footnote">19 </a>
+            <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 8, 1855, vol. 2, p. 269.</Tooltip>
           </p>
         </div>
@@ -240,7 +240,7 @@ const Chap16 = () => {
           <p>If the genetic makeup changes racially, that Mormon convert’s children would be of Israelite lineage. But regardless, whether a person is 
             an Israelites either by blood (lineage) or adoption, once they are baptized, they become a member of the Mormon House of Israel. They then 
             belong to the eternal family of the Old Testament patriarchs Abraham and Jacob.
-            <a id="clickable20" className="footnote">20 </a>
+            <btn id="clickable20" className="footnote">20 </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Chapter 42: The Gathering of the House of Israel, Gospel Principles Manual.</Tooltip>
             
             These family ties are eternal and last beyond this mortal life. 

@@ -16,7 +16,7 @@ const Chap10 = () => {
 
       <h1 className='chapterHeading'>Chapter 10: Zion Established in Jerusalem Among the Jews</h1>
 
-      <img src={jerusalem} className='image' alt='photo of the wailing wall at Jerusalem' />
+      <img src={jerusalem} className='image' alt='Wailing wall at Jerusalem' />
 
     <div className="wrapper">
 
@@ -25,11 +25,11 @@ const Chap10 = () => {
           <p>In 1831, Joseph revealed that the events of the last days would come to pass in the generation of 
             the Jews then living. “And it shall come to pass, that this generation of Jews shall not pass away until every desolation 
             which I have told you concerning them shall come to pass.”  
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 45:21.</Tooltip>
             
             Again, if a generation is 20-30  years, 
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
             
             according to Joseph in 1831, “every desolation … shall come to pass” to the 
@@ -41,7 +41,7 @@ const Chap10 = () => {
           <p>Joseph revealed, “Judah must return, Jerusalem must be rebuilt, and the temple, and water come out from under the temple, 
             and the waters of the Dead Sea be healed … It will take some time to rebuild the walls of the city and the temple … 
             and all this must be done before the Son of Man will make his appearance”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>History of the Church, vol. 5, p. 337.</Tooltip>
             
             Joseph prophesied to the early Mormons that Christ would not only assist the Jews in returning to Jerusalem but also establish a second Zion there through the priesthood – just like Zion in Jackson County. In this second Zion, Christ will establish his throne and rule from this power center during the Millennium. From this throne in the second Zion, Christ will rightfully be King of Kings and Lord of Lords, and rule over all the kingdoms of the world.
@@ -54,7 +54,7 @@ const Chap10 = () => {
             see those men in the general assembly of the Church of the First-Born, in the great council of God in Jerusalem.” 
             Heber added, referring to Zion in Jackson County and Zion in Jerusalem, “I heard Joseph say twice that brother Brigham 
             and I should be in that council in Jerusalem, when there should be a uniting of the two divisions of God’s government.” 
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, April 7, 1861, vol. 9, p. 27.</Tooltip>
           </p>
         </div>
@@ -63,7 +63,7 @@ const Chap10 = () => {
           <p>First Presidency Counselor Charles Penrose explained that Christ would establish Zion in Jerusalem, the Kingdom of God 
             among the Jews, “The government of God as established in Zion will be set up among them (the Jews) no more to be 
             thrown down forever.”  
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Charles Penrose, “The Second Advent,” Millennial Star, 10 Sept. 1859, pp. 582–83.</Tooltip>
             
             Mormon Apostle Parley Pratt stated, “There [Jerusalem] also the Messiah establishes his throne, and seat of government. 
@@ -72,7 +72,7 @@ const Chap10 = () => {
             as in days of old, can utter his voice, and it shall be obeyed. The courts of Rome, London, Paris, Constantinople, 
             Petersburg, and all others, will then have to yield the point, and do homage, and all pay tribute to one Great Centre, 
             and to one mighty Sovereign, or Thrones will be cast down, and kingdoms will cease to be.”
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Proclamation Of The Twelve Apostles Of The Church Of Jesus Christ, Of Latter-Day Saints, (New York, 1845), p. 7-8.</Tooltip>
           </p>
         </div>
@@ -82,13 +82,13 @@ const Chap10 = () => {
         <div className='paragraph'>
           <p>In 1831, Joseph revealed that the appointed time had arrived to begin preparing for the Jews to return to their homeland. 
             Joseph revealed, “Let them who be of Judah flee unto Jerusalem, unto the mountains of the Lord’s house.”  
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 133:13.</Tooltip>
             
             The next year in 1832, Joseph blessed Orson Hyde and pronounced, “In due time thou shalt go to Jerusalem, the land of thy 
             fathers, and be a watchman unto the house of Israel; and by thy hands shall the Most High do a great work, which shall 
             prepare the way and greatly facilitate the gathering together of that people.”
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>History of the Church, vol. 4, p. 375.</Tooltip>
           </p>
         </div>
@@ -98,12 +98,12 @@ const Chap10 = () => {
             of the Jews to begin the work of gathering. Joseph wrote to Orson and his companion, “Brethren, you are in the pathway 
             to eternal fame, and immortal glory, and inasmuch as you feel interested for the covenant people of the Lord, 
             the God of their fathers shall bless you.”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>History of the Church, vol., 4, p. 128.</Tooltip>
             
             On October 24, 1841, Orson ascended the Mount of Olives and dedicated Jerusalem “for the gathering together of Judah’s 
             scattered remnants, according to the predictions of the holy Prophets.”  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size"  clickable>History of the Church, vol., 4, p. 456-457.</Tooltip>
             
             But needless to say, the Jews did not return 
@@ -138,7 +138,7 @@ const Chap10 = () => {
             to these two appearances; but who can describe it in the language of mortals? The tongue of man falters, and the pen drops 
             from the hand of the writer, as the mind is rapt in contemplation of the sublime and awful majesty of his coming to take 
             vengeance on the ungodly and to reign as King of the whole earth.” 
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Charles Penrose, “The Second Advent,” Millennial Star, 10 Sept. 1859, pp. 582–83.</Tooltip>
           </p>
         </div>
@@ -149,11 +149,11 @@ const Chap10 = () => {
           <p>At Christ’s appearance in Jerusalem (before the Second Coming), there will be a group of Jewish people who convert to 
             Mormonism. Charles explained, “Then will disbelief depart from their souls and the blindness in part which has happened 
             unto Israel be removed.”  
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Charles Penrose, “The Second Advent,” Millennial Star, 10 Sept. 1859, pp. 582–83.</Tooltip>
             
             According to Mormon prophets, this refers to Isaiah’s prophecy that a “A nation will be born unto God in a day.” 
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Isaiah 66:8-9.</Tooltip>
           </p>
         </div>
@@ -163,7 +163,7 @@ const Chap10 = () => {
             Jews at Christ’s Second Coming. At this appearance to establish Zion, Christ will cleanse the temple at Jerusalem. 
             Mormon prophets testified that the Old Testament Prophet Zechariah referred to this when he wrote, “In that day there 
             shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Zechariah 13:1.</Tooltip>
           </p>
         </div>
@@ -172,12 +172,12 @@ const Chap10 = () => {
           <p>While in Jerusalem, Christ would preach the restored gospel to the Jews. He would baptize them, confer the priesthood, 
             and administer temple ordinances. Mormon prophets have taught that this is what Isaiah referred to when he counseled the 
             Jews “… put on thy strength, O Zion, put on thy beautiful garments.”  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Isaiah 52:1.</Tooltip>
             
             The Jews will be clothed with the robes of righteousness, with the endowment of glory; and they will be prepared in every 
             way for the revelation of Christ in glory and the great marriage feast of the Lamb of God. 
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Revelation 19:4-9.</Tooltip>
           </p>
         </div>
@@ -193,12 +193,12 @@ const Chap10 = () => {
           <p>Joseph explained, “Although David was a king he never did obtain the spirit and power of Elijah and the fulness of the 
             Priesthood; and the Priesthood that he received, and the throne and kingdom of David is to be taken from him and given 
             to another by the name of David in the last days, raised up out of his lineage.”  
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>History of the Church, vol. 4, p. 253.</Tooltip>
             
             Joseph revealed, “Through this order, he (Christ) may be glorified, and ... through the power of anointing, David may 
             reign king over Israel.”  
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Revelation given through Joseph Smith to Newel K. Whitney, Nauvoo, Illinois, July 27, 1842.</Tooltip>
             
             Joseph most likely derived this idea from Ezekiel, who had much to say about the future David.  Ezekiel prophesied, “I will set up one shepherd over them, and he shall feed them, even my servant David; ... and I the Lord will be their God, and my servant David a prince among them.”
@@ -209,7 +209,7 @@ const Chap10 = () => {
           <p>Speaking of the future uniting of the 12 Tribes of Israel, Ezekiel prophesied, “One king shall be king to them all: and 
             they shall be no more ... divided into two kingdoms... And David my servant shall be king over them; and they all shall 
             have one shepherd, ... and my servant David shall be their prince forever.”
-            <a id="clickable19" className="footnote">19 </a>
+            <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Ezekiel 37:25.</Tooltip>
           </p>
         </div>

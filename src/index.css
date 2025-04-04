@@ -42,6 +42,9 @@ a{
 .footnote {
   vertical-align: top;
   color: blue;
+  cursor: pointer;
+  vertical-align: super;
+  font-size: smaller;
 }
 
 .footnote-size {
@@ -94,7 +97,7 @@ a{
 
 .paragraph {
   margin-bottom: 20px;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1.5;
 }
 

@@ -16,7 +16,7 @@ const Chap26 = () => {
 
       <h1 className='chapterHeading'>Chapter 26: Winter Quarters, Then on to Utah</h1>
 
-      <img src={winterquarters} className='image' alt='Painting of Mormon encampment at Winter Quarters' />
+      <img src={winterquarters} className='image' alt='Mormon encampment at Winter Quarters' />
 
     <div className="wrapper">
 
@@ -43,7 +43,7 @@ const Chap26 = () => {
             helpless indeed! ... Many of my friends sickened and died in that place, when I was not able to leave my room, could not go 
             to their bedside to administer comfort to them in the last trying hours, not even to bid them farewell. Neither could I go 
             to see their remains carried to their final resting place where it was thought I would shortly have to be conveyed.”
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Louisa Barnes Pratt memoir.</Tooltip>  
           </p>
         </div>
@@ -53,7 +53,7 @@ const Chap26 = () => {
             hundreds of Mormons decided they had experienced enough. Hosea Stout reported “great numbers going off through disaffection.” 
             Noah Packard reported “a number of people” in Iowa “that are or have been Latter-day Saints, but ... most of them lie low and 
             keep dark.”
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Noah Packard to Brigham Young, February 6, 1848, Brigham Young Papers, LDS Archives.</Tooltip> 
           </p>
         </div>
@@ -63,7 +63,7 @@ const Chap26 = () => {
             themselves. They lived in sod shanties, tents, or canvas-covered wagons. Others suffered from serious malnutrition, and 
             scurvy deaths swept the camps in epidemic proportions. “Come to Zion, come to Zion, and within her walls rejoice. Israel, 
             angels are descending from celestial worlds on high, And to man their pow’r extending.”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Mormon Hymn, Israel, Israel, God is Calling.</Tooltip>  
 
             These true conditions are not reflected in this Mormon hymn.
@@ -74,17 +74,17 @@ const Chap26 = () => {
           <p>Many Mormons abandoned their faith and left to find work and food for their families. Others left the church to homestead 
             in Iowa or Missouri. A few, once relatively well off, had given out so much in tithing and loans without repayment that 
             Brigham admitted, “they lose confidence in all their brethren and lose the good spirit; this leads to apostasy.”  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Journal History, April 5, 1848, LDS Archives.</Tooltip>
             
             One disaffected Mormon wrote, “While in Winter Quarters I found if I kept other men’s [counsel] instead of my own, I could 
             not support my family.”  
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Daniel Brown to James Brown, April 16, 1854, Papers of James Stephens Brown, Utah State Historical Society, Salt Lake City, Utah.</Tooltip>
             
             Hosea Stout, Winter Quarters police chief, wrote in May 1847, “There was as much dissension now as ever I saw in or at any 
             other period of Church history.”
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Diary of Hosea Stout 1 (March 14, 1848): 305.</Tooltip>
           </p>
         </div>
@@ -93,12 +93,12 @@ const Chap26 = () => {
           <p>In these deplorable conditions, some Mormons voiced opposition to Brigham’s ordination to the First Presidency in December 
             1847. The secrecy of polygamy was becoming public. When John Neff, one of the Winter Quarters wealthiest men, became 
             aware of the practice, he almost left the church. He stayed after an intervention with church leaders.  
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Diary of Hosea Stout 1 (April 1, 1847): 243.</Tooltip>
             
             Brigham worried, “… men would rise up and complain that the Twelve were not right and that they themselves were the ones 
             to lead and govern the people.”
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Diary of Hosea Stout 1 (March 26, 1847): 243. </Tooltip> 
           </p>
         </div>
@@ -118,7 +118,7 @@ const Chap26 = () => {
         <div className='paragraph'>
           <p>Estimates suggest that during the winter of 1847-1848, 1,611 Mormons were living in the Salt Lake Valley. Adults made up 
             the smallest segment, with 53 percent under the age of nineteen and 25 percent children under the age of eight.  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Ronald Walker and Doris Dant, editors, “Nearly Everything Imaginable: the Everyday Life of 
               Utah's Mormon Pioneers." BYU Studies, 1999.”</Tooltip>
             
@@ -137,7 +137,7 @@ const Chap26 = () => {
             and traveled many more miles. Regardless of their point of origination, many people forfeited their lives and others 
             suffered greatly. Nearly 2,000 Mormon pioneers died crossing the plains between 1847 and 1868 with a 3.5 percent mortality 
             rate.  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Bashore worked with a team of actuarial scientists at Brigham Young University to analyze 56,000 pioneer records from 1847-1868. Of these 56,000, there were an estimated 1,900 people who died either on the plains or within the calendar year of their arrival.</Tooltip> 
             
             Deaths in non-Mormon pioneer companies share a similar mortality rate – showing no favoritism on God’s part for his chosen latter-day people. The Mormons in the handcart companies did not fare as well. They experienced a 20% mortality rate and suffered greatly.
@@ -149,7 +149,7 @@ const Chap26 = () => {
             prepared the dry Utah soil for planting crops. On April 16, 1848, John Steele rejoiced that “green stuff is coming very fast,” 
             and that his “wheat, corn, beans and peas are all up and looking grand and grass is 6 inches high.” However, by late May, 
             tragedy struck. Black crickets attacked the crops.  
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>A myth emerged that God sent seagulls to eat the crickets, which had been disproven. See article Mormons, Crickets, and Gulls: A New Look At An Old Story, Utah Historical Quarterly, vol. 38, no. 3, 1970.</Tooltip> 
 
            One Mormon recorded, “We have grappled with the frost. . . but today to our utter astonishment, the crickets came by millions, sweeping everything before them. They first attacked a patch of beans for us and in twenty minutes there was not a vestige of them to be seen. They next swept over peas, then came into our garden; took everything clean. We went out with brush and undertook to drive them, but they were too strong for us.”
@@ -171,7 +171,7 @@ const Chap26 = () => {
 
         <div className='paragraph'>
           <p>The experience of young pioneer Kirsten Ericksen 
-          <a id="clickable12" className="footnote">12 </a>
+          <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Kirsten Ericksen Benson, “Recollections of Kirsten Ericksen Benson coming to Zion in 1857,” in Kersten E. Benson biographical file, 1, Church History Library.</Tooltip> 
             
             in a handcart company is indicative of the struggles and suffering endured while crossing the plains to Zion. After hearing Mormon missionaries preach that God had raised up a prophet named Joseph Smith and that Zion was being established in the last days in America, Kirsten Ericksen from Denmark desired to gather to the promised land of Mormon milk and honey. Accompanied by her parents and grandmother, the 20-year-old began her journey in 1857. She later said that she was “a young girl in a strange land – [she had] no friends and could not speak English or make [her] wants known.”
@@ -201,12 +201,12 @@ const Chap26 = () => {
         <div className='paragraph'>
           <p>A member of a handcart company stated, “There could not have been a more difficult mode of travel ... I knew when I left 
             England that ours was to be a handcart company, but it was impossible for me to realize the hardships I had to meet.”  
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Susan M. Witbeck autobiographical sketch, 5, Church History Library, Salt Lake City; William Clayton, The Latter-day Saints’ Emigrants’ Guide, ed. Stanley B. Kimball (Gerald, Missouri: Patrice Press, 1983), 80; Carter, “Mormon Handcart Companies,” 5.</Tooltip> 
 
             John Chislett, a survivor, wrote, “Many a father pulled his cart, with his little children on it, until the day preceding 
             his death.”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Hafen and Hafen, 1981, Handcarts to Zion p. 134-138; Bartholomew and Arrington, 1993, Rescue of the 1856 Handcard Companies, p. 28-37.</Tooltip> 
           </p>
         </div>

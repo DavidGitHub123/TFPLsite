@@ -16,7 +16,7 @@ const Chap11 = () => {
       
       <h1 className='chapterHeading'>Chapter 11: Joseph’s Book of Revelation</h1>
 
-      <img src={bookofrevelation} className='image' alt='photo of the Book of Revelation' />
+      <img src={bookofrevelation} className='image' alt='Opening page of the Book of Revelation' />
 
       <div className="wrapper">
 
@@ -31,7 +31,7 @@ const Chap11 = () => {
           commenced … We shall soon have war and bloodshed. The moon will be turned into blood … the Son of Man is nigh, even at
           your doors. If our souls and our bodies are not looking forth for the coming of the Son of Man … we shall be among those
           who are calling for the rocks to fall upon them.”
-          <a id="clickable1" className="footnote">1 </a>
+          <btn id="clickable1" className="footnote">1 </btn>
           <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>History of the Church, vol. 3, p. 390; from a discourse given by Joseph Smith July 1839 in Commerce, Illinois.</Tooltip>
         </p>
       </div>
@@ -40,7 +40,7 @@ const Chap11 = () => {
         <p>As a latter-day movement, Joseph and the early Mormons were fascinated by the symbolism of the Book of Revelation and
           its prophecies of the end times. Joseph stated, “… the Book of Revelation is one of the plainest books God ever caused
           to be written.”
-          <a id="clickable2" className="footnote">2 </a>
+          <btn id="clickable2" className="footnote">2 </btn>
           <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Joseph Smith, Teachings of the Prophet Joseph Smith, 290.</Tooltip>
 
           He had much to say about John’s vision on the Isle of Patmos and how it unfolded latter-day events leading to Christ’s triumphal return – and his Millennial reign where the lion shall lay down with the lamb and humanity will experience a peaceful existence.
@@ -51,12 +51,12 @@ const Chap11 = () => {
         <p>The early Mormons eagerly anticipated the great Millennial day when pain and heartache, hunger and suffering,
           and all the woes of humankind would evaporate from the human experience like icy snow in the warmth of sunlight.
           Isaiah said the future Millennial day, “They shall not hurt nor destroy in all my holy mountain, saith the Lord.”
-          <a id="clickable3" className="footnote">3 </a>
+          <btn id="clickable3" className="footnote">3 </btn>
           <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Isaiah 65:25.</Tooltip>
 
           And spoke of a day when there would be war no longer, “And they shall beat their swords into plowshares, and their spears
           into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore.”
-          <a id="clickable4" className="footnote">4 </a>
+          <btn id="clickable4" className="footnote">4 </btn>
           <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Isaiah 2:4.</Tooltip>
         </p>
       </div>
@@ -65,13 +65,13 @@ const Chap11 = () => {
         <p>The early Mormons longed for the fulfillment of biblical prophecies of the redemption of the earth to its eternal and
           sanctified state. The early Mormons published that the purpose of God is to “… bring about the Millennial glory,
           when ‘the earth shall yield its increase, resume its [paradisiacal] glory, and become as the garden of the Lord.’”
-          <a id="clickable5" className="footnote">5 </a>
+          <btn id="clickable5" className="footnote">5 </btn>
           <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>History of the Church, vol 5, p. 61, 63–65; from “The Government of God,” an editorial published in Times and Seasons, July 15, 1842, p. 855–57; Joseph Smith was the editor of the periodical.</Tooltip>
 
           John likened the future redeemed earth to a sea of glass and fire, where the resurrected righteous will dwell in glory,
           clothed with immortality, and endowed with eternal life. By revelation, Joseph Smith wrote that the sea of glass
           represented “the earth, in its sanctified, immortal, and eternal state”
-          <a id="clickable6" className="footnote">6 </a>
+          <btn id="clickable6" className="footnote">6 </btn>
           <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>D&C 77:1.</Tooltip>
 
           – the earth resurrected to a state of glory and power in eternity.
@@ -81,11 +81,11 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>Joseph taught the early Mormons that upon this celestialized earth, the righteous will receive an eternal inheritance.
           “Then shall he be crowned with the crown of his glory, to sit on the throne of his power to reign forever and ever.”
-          <a id="clickable7" className="footnote">7 </a>
+          <btn id="clickable7" className="footnote">7 </btn>
           <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 76:108.</Tooltip>
 
           “Then shall they be gods, because they have all power, and the angels are subject unto them.”
-          <a id="clickable8" className="footnote">8 </a>
+          <btn id="clickable8" className="footnote">8 </btn>
           <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 76:108.</Tooltip>
         </p>
       </div>
@@ -95,18 +95,18 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>The Book of Revelation begins, “The Revelation of Jesus Christ … to shew unto his servants things which must shortly
           come to pass.”
-          <a id="clickable9" className="footnote">9 </a>
+          <btn id="clickable9" className="footnote">9 </btn>
           <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Revelation 1:1.</Tooltip>
 
           Speaking of Christ’s return John continues, “Behold, he cometh with clouds; and every eye shall see him, and they also
           which pierced him: and all kindreds of the earth shall wail because of him.”
-          <a id="clickable10" className="footnote">10 </a>
+          <btn id="clickable10" className="footnote">10 </btn>
           <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Revelation 1:7.</Tooltip>
 
           Then John states that he, “… looked, and behold, a door was opened in heaven: and the first voice which I heard … said,
           Come up hither, and I will shew thee things which must be hereafter. And immediately I was in the spirit: and behold, a
           throne was set in heaven ...”
-          <a id="clickable11" className="footnote">11 </a>
+          <btn id="clickable11" className="footnote">11 </btn>
           <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Revelation 4:1-2.</Tooltip>
         </p>
       </div>
@@ -114,12 +114,12 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>John sees 24 elders seated around a throne, clothed in white raiment, wearing gold crowns. “And before the throne there
           was a sea of glass like unto crystal … and round about the throne, were four beasts full of eyes before and behind.”
-          <a id="clickable12" className="footnote">12 </a>
+          <btn id="clickable12" className="footnote">12 </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Revelation 4:4-8.</Tooltip>
 
           Joseph revealed that the 24 elders were men who “had been faithful in the work of the ministry and were ... in the paradise
           of God.”
-          <a id="clickable13" className="footnote">13 </a>
+          <btn id="clickable13" className="footnote">13 </btn>
           <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>D&C 77:5; Revelation 5:8-14.</Tooltip>
 
           To the early Mormons, these 24 elders had gained their exaltation and were residing in the presence of God.
@@ -132,12 +132,12 @@ const Chap11 = () => {
         <p>Next, John sees a book containing the history of the earth. “And I saw in the right hand of him that sat on the throne a
           book … with seven seals, and I saw a strong angel proclaiming … Who is worthy to open the book, and to loose the seals
           thereof? And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.”
-          <a id="clickable14" className="footnote">14 </a>
+          <btn id="clickable14" className="footnote">14 </btn>
           <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Revelation 5:1-3.</Tooltip>
 
           Joseph Smith revealed that the sealed book contains “the revealed will, mysteries, and the works of God; the hidden
           things of his economy concerning this earth during the seven thousand years of its continuance, or its temporal existence.”
-          <a id="clickable15" className="footnote">15 </a>
+          <btn id="clickable15" className="footnote">15 </btn>
           <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>D&C 77:6-7.</Tooltip>
         </p>
       </div>
@@ -145,18 +145,18 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>John weeps when he sees the sealed book. But then, one of the 24 elders says, referencing Christ, “Weep not: behold,
           the Lion of the Tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.”
-          <a id="clickable16" className="footnote">16 </a>
+          <btn id="clickable16" className="footnote">16 </btn>
           <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Revelation 5:5.</Tooltip>
 
           John then sees “in the midst of the throne … a Lamb as it had been slain,” who came and “took the book out of the right
           hand of him that sat upon the throne.”
-          <a id="clickable17" className="footnote">17 </a>
+          <btn id="clickable17" className="footnote">17 </btn>
           <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Revelation 5:7.</Tooltip>
 
           At this, the beasts and the elders fall down before the Lamb. A heavenly host sings, “Thou art worthy to take the book,
           and to open the seals thereof: for thou wast slain and hast redeemed us to God … and hast made us unto our God kings and
           priests: and we shall reign on the earth.”
-          <a id="clickable18" className="footnote">18 </a>
+          <btn id="clickable18" className="footnote">18 </btn>
           <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Revelation 5:7, 9-10.</Tooltip>
         </p>
       </div>
@@ -166,7 +166,7 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>Of the seven seals on the book, Joseph revealed, “The first seal contains the things of the first thousand years,
           and the second also of the second thousand years, and so on until the seventh.”
-          <a id="clickable19" className="footnote">19 </a>
+          <btn id="clickable19" className="footnote">19 </btn>
           <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>D&C 77:6-7.</Tooltip>
 
           John sees the opening of the first six seals of the book. “And I saw when the Lamb opened one of the seals, and I heard,
@@ -180,7 +180,7 @@ const Chap11 = () => {
           should kill one another.” For the third seal, a black horse with a pair of balances in his hand. Then a pale horse for the
           fourth seal, whose name “was Death, and Hell followed with him. And power was given unto them over the fourth part of the
           earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.”
-          <a id="clickable20" className="footnote">20 </a>
+          <btn id="clickable20" className="footnote">20 </btn>
           <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Revelation 6:2-8.</Tooltip>
         </p>
       </div>
@@ -189,13 +189,13 @@ const Chap11 = () => {
         <p>When Christ opened the fifth seal, John “… saw under the altar the souls of them that were slain for the word of God …
           And they cried with a loud voice, saying, How long … dost thou not judge and avenge our blood on them that
           dwell on the earth?”
-          <a id="clickable21" className="footnote">21 </a>
+          <btn id="clickable21" className="footnote">21 </btn>
           <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>Revelation 6:9-10.</Tooltip>
 
           The sixth seal pertains to the destruction of the wicked at the end of the world. John states, “And I beheld when he had
           opened the sixth seal … there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became
           as blood.”
-          <a id="clickable22" className="footnote">22 </a>
+          <btn id="clickable22" className="footnote">22 </btn>
           <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Revelation 6:12.</Tooltip>
         </p>
       </div>
@@ -206,7 +206,7 @@ const Chap11 = () => {
           in the dens and in the rocks of the mountains” from their fear at Christ’s glory as he descends to the earth.
           They bid the mountains and rocks to fall on us “… and hide us from the face of him that sitteth on the throne, and
           from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?”
-          <a id="clickable23" className="footnote">23 </a>
+          <btn id="clickable23" className="footnote">23 </btn>
           <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Revelation 6:12-17.</Tooltip>
         </p>
       </div>
@@ -217,7 +217,7 @@ const Chap11 = () => {
         <p>In the New Testament, Christ gave the parable of the wheat and tares. “Let both grow together until the harvest: and in
           the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them:
           but gather the wheat into my barn.”
-          <a id="clickable24" className="footnote">24 </a>
+          <btn id="clickable24" className="footnote">24 </btn>
           <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Matthew 13:30.</Tooltip>
 
           This is known as the great harvest. It is the sum and substance of John’s vision described in the Book of Revelation.
@@ -230,7 +230,7 @@ const Chap11 = () => {
           from the beginning – send forth his angels. If the reapers do not come the wheat cannot be saved ... The angels have
           begun to be revealed, they shall bind up the testimony ... The wheat gathered into the barn; the tares left in the field
           to be burned.”
-          <a id="clickable25" className="footnote">25 </a>
+          <btn id="clickable25" className="footnote">25 </btn>
           <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Joseph Smith, The Sower, Extracts from William Clayton’s Book, copied into “L. John Nuttall, his Book, 1880,” p. 26-28. Nuttall Collection, BYU Library.</Tooltip>
         </p>
       </div>
@@ -240,7 +240,7 @@ const Chap11 = () => {
           gathered to Zion in Jackson County, and eventually Jerusalem. The wicked will be gathered and destroyed in plagues, natural
           disasters, and wars. The wicked who somehow survive and remain alive, will be burned in Christ’s glory at the
           Second Coming.
-          <a id="clickable26" className="footnote">26 </a>
+          <btn id="clickable26" className="footnote">26 </btn>
           <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>See Isaiah 18:5; Matthew 13:39, 49-50; Revelation 14:14-20; D&C 86:1-7.</Tooltip>
         </p>
       </div>
@@ -254,7 +254,7 @@ const Chap11 = () => {
           to hurt the earth and the sea, saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the
           servants of our God in their foreheads. And the number of them who were sealed, were an hundred and forty and four
           thousand of all the tribes of the children of Israel.”
-          <a id="clickable27" className="footnote">27 </a>
+          <btn id="clickable27" className="footnote">27 </btn>
           <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>Joseph Smith Translation, Revelation 7:1-4.</Tooltip>
         </p>
       </div>
@@ -264,7 +264,7 @@ const Chap11 = () => {
           judgments were not to be poured out on the earth to destroy the wicked until the 144,000 had been sealed in their
           foreheads. John said of the 144,000 that “These are they which came out of great tribulation, and have washed their robes,
           and made them white in the blood of the Lamb.”
-          <a id="clickable28" className="footnote">28 </a>
+          <btn id="clickable28" className="footnote">28 </btn>
           <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>Revelation 7:14.</Tooltip>
         </p>
       </div>
@@ -283,7 +283,7 @@ const Chap11 = () => {
         <p>A. We are to understand that those who are sealed are high priests, ordained unto the holy order of God, to administer
           the everlasting gospel; for they are they who are ordained out of every nation, kindred, tongue, and people, by the angels
           to whom is given power over the nations of the earth, to bring as many as will come to the church of the Firstborn.”
-          <a id="clickable29" className="footnote">29 </a>
+          <btn id="clickable29" className="footnote">29 </btn>
           <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>D&C 77:11.</Tooltip>
         </p>
       </div>
@@ -294,11 +294,11 @@ const Chap11 = () => {
         <p>Is the sealing spoken of in the Book of Revelation where Joseph conceived of sealings? Joseph stated, “I would advise all
           the Saints to go with their might and gather together all their living relatives to this place (Nauvoo), that they may be
           sealed and saved, that they may be prepared against the day that the destroying angel goes forth.”
-          <a id="clickable30" className="footnote">30 </a>
+          <btn id="clickable30" className="footnote">30 </btn>
           <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>History of the Church, vol. 6, p. 184.</Tooltip>
 
           At another time, Joseph stated, “How shall God come to the rescue of this generation? He will send Elijah the prophet.”
-          <a id="clickable31" className="footnote">31 </a>
+          <btn id="clickable31" className="footnote">31 </btn>
           <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>History of the Church, vol. 6, p. 555.</Tooltip>
         </p>
       </div>
@@ -320,7 +320,7 @@ const Chap11 = () => {
           Our Father in heaven organized the human family, but they are all disorganized and in great confusion.’ Joseph then shewed 
           me the pattern, how they were in the beginning. … [I] saw where the Priesthood had been taken from the earth and how it 
           must be joined together, so that there would be a perfect chain from Father Adam to his latest posterity.”
-          <a id="clickable32" className="footnote">32 </a>
+          <btn id="clickable32" className="footnote">32 </btn>
           <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Brigham Young, Manuscript History of Brigham Young, February 23, 1847.</Tooltip> 
         </p>
       </div>
@@ -329,17 +329,17 @@ const Chap11 = () => {
         <p>Joseph gave important insights into the 144,000 and their place in Zion. He explained that the act of sealing them in their 
           foreheads signifies “sealing the blessings upon their heads, meaning the everlasting covenant, thereby making their calling 
           and election sure.”  
-          <a id="clickable33" className="footnote">33 </a>
+          <btn id="clickable33" className="footnote">33 </btn>
           <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>History of the Church, vol. 5, p. 530.</Tooltip>
           
           Joseph revealed, “The more sure word of prophecy means a man’s knowing that he is sealed up unto eternal life, by revelation 
           and the spirit of prophecy, through the power of the Holy Priesthood.”  
-          <a id="clickable34" className="footnote">34 </a>
+          <btn id="clickable34" className="footnote">34 </btn>
           <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>D&C 131:5.</Tooltip>
           
           Joseph also revealed, “For I am the Lord thy God, and will be with thee even unto the end of the world, and through all 
           eternity; for verily I seal upon you your exaltation and prepare a throne for you in the kingdom of my Father.”
-          <a id="clickable35" className="footnote">35 </a>
+          <btn id="clickable35" className="footnote">35 </btn>
           <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>D&C 132:49.</Tooltip>
         </p>
       </div>
@@ -350,7 +350,7 @@ const Chap11 = () => {
           who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days … Behold, I will 
           send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of 
           the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.”
-          <a id="clickable36" className="footnote">36 </a>
+          <btn id="clickable36" className="footnote">36 </btn>
           <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>D&C 128:17.</Tooltip>
         </p>
       </div>
@@ -361,7 +361,7 @@ const Chap11 = () => {
           is given the seal of the living God over the twelve tribes of Israel; wherefore, he crieth unto the four angels having the 
           everlasting gospel, saying: Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God 
           in their foreheads.”
-          <a id="clickable37" className="footnote">37 </a>
+          <btn id="clickable37" className="footnote">37 </btn>
           <Tooltip anchorSelect="#clickable37" className="footnote-size" clickable>D&C 77:9.</Tooltip>
         </p>
       </div>
@@ -375,13 +375,13 @@ const Chap11 = () => {
         <p>Isaiah prophesied they would be beautiful. “How beautiful upon the mountains are the feet of him that bringeth good tidings …
            that publisheth salvation; that saith unto Zion, Thy God reigneth … for they shall see eye to eye, when the Lord shall 
            bring again Zion.”  
-           <a id="clickable38" className="footnote">38 </a>
+           <btn id="clickable38" className="footnote">38 </btn>
            <Tooltip anchorSelect="#clickable38" className="footnote-size" clickable>Isaiah 52:7-8.</Tooltip>
            
            John the Revelator beheld the fruits of their harvest, “I beheld, and lo, a great multitude, which no man could number, 
            of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white 
            robes, and palms in their hands.”
-           <a id="clickable39" className="footnote">39 </a>
+           <btn id="clickable39" className="footnote">39 </btn>
            <Tooltip anchorSelect="#clickable39" className="footnote-size" clickable>Revelation 7:9.</Tooltip>
         </p>
       </div>
@@ -391,7 +391,7 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>Joseph revealed the four angels are “… they who have the everlasting gospel to commit to every nation, kindred, tongue, and 
           people; having power to shut up the heavens, to seal up unto life, or to cast down to the regions of darkness.”  
-          <a id="clickable40" className="footnote">40 </a>
+          <btn id="clickable40" className="footnote">40 </btn>
           <Tooltip anchorSelect="#clickable40" className="footnote-size" clickable>D&C 77:8.</Tooltip>
           
           Joseph identified the four angels as priesthood authorities from past dispensations, including Moses, Noah, Elijah, and Peter. Moses conferred upon Joseph Smith and Oliver Cowdery the keys of the gathering of the House of Israel from the four quarters of the earth, and the leading of the Ten Tribes from the land of the north.  Elias, or Noah, conferred the keys of Abraham, that in Abraham’s posterity all the kindreds of the earth will be blessed. Elijah conferred the keys of turning the hearts of the fathers to the children, and the hearts of the children to the fathers, lest the whole earth be smitten with a curse. Into Peter’s hands was committed the everlasting gospel to preach to every nation, kindred, tongue, and people.
@@ -407,13 +407,13 @@ const Chap11 = () => {
         <p>Joseph Smith identified the fifth angel from the east as John, the author of the Book of Revelation. Joseph revealed, 
           “The angel ascending from the east is he to whom is given the seal of the living God over the twelve tribes of Israel. 
           And, if you will receive it, this is Elias, which was to come to gather together the tribes of Israel and restore all things.”  
-          <a id="clickable41" className="footnote">41 </a>
+          <btn id="clickable41" className="footnote">41 </btn>
           <Tooltip anchorSelect="#clickable41" className="footnote-size" clickable>D&C 77:9.</Tooltip>
           
           Therefore, the work of the fifth angel is gathering the elect to Zion. His work must be accomplished before the final 
           judgments can be poured out upon the wicked. This is why the fifth angel will cry out to the first four angels, 
           “Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.”
-          <a id="clickable42" className="footnote">42 </a>
+          <btn id="clickable42" className="footnote">42 </btn>
           <Tooltip anchorSelect="#clickable42" className="footnote-size" clickable>Revelation 7:3.</Tooltip>
         </p>
       </div>
@@ -427,13 +427,13 @@ const Chap11 = () => {
         <p>John reports that he took the book out of the angel’s hand and ate it up. “…it was in my mouth sweet as honey; and as soon 
           as I had eaten it, my belly was bitter. And he said unto me, ‘Thou must prophesy again before many peoples, and nations, 
           and tongues, and kings.’”  
-          <a id="clickable43" className="footnote">43 </a>
+          <btn id="clickable43" className="footnote">43 </btn>
           <Tooltip anchorSelect="#clickable43" className="footnote-size" clickable>Joseph Smith Translation, Revelation 10:1-4, 8-11.</Tooltip>
           
           In response to the question, “What are we to do understand by the little book which was eaten by John,” Joseph revealed, 
           “We are to understand that it was a mission, and an ordinance, for him to gather the tribes of Israel; behold, this is Elias, 
           who, as it is written, must come and restore all things.”
-          <a id="clickable44" className="footnote">44 </a>
+          <btn id="clickable44" className="footnote">44 </btn>
           <Tooltip anchorSelect="#clickable44" className="footnote-size" clickable>D&C 77:14. For references to the Elias who is to restore all things see Joseph Smith Translation, John 1:22-26.</Tooltip>
         </p>
       </div>
@@ -441,18 +441,18 @@ const Chap11 = () => {
       <div className='paragraph'>
         <p>In gathering the House of Israel and placing “the seal of the living God” upon them during the great harvest season, 
           John’s mission will be that of an Elias – he whom the Lord sends to prepare the way for “the greater revelation of God.”  
-          <a id="clickable45" className="footnote">45 </a>
+          <btn id="clickable45" className="footnote">45 </btn>
           <Tooltip anchorSelect="#clickable45" className="footnote-size" clickable>History of the Church, vol. 6, p. 250.</Tooltip>
           
           John was told that when he received his appointment, “Thou must prophecy again before many people, and nations, and tongues, 
           and kings.”  
-          <a id="clickable46" className="footnote">46 </a>
+          <btn id="clickable46" className="footnote">46 </btn>
           <Tooltip anchorSelect="#clickable46" className="footnote-size" clickable>Revelation 10:11.</Tooltip>
           
           Therefore, John is an Elias, a restorer. Joseph revealed, at the coming of the Ten Tribes of Israel from the 
           north country to Jackson County, John will go forth in their midst preparing the way before them, that they might come to 
           Zion and be crowned with glory.
-          <a id="clickable47" className="footnote">47 </a>
+          <btn id="clickable47" className="footnote">47 </btn>
           <Tooltip anchorSelect="#clickable47" className="footnote-size" clickable>D&C 133:26-32.</Tooltip>
         </p>
       </div>

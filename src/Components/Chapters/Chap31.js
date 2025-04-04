@@ -65,15 +65,15 @@ const Chap31 = () => {
             to godhood, with harems of wives in the celestial kingdom, where they would create worlds as Gods have done before them, ad infinitum. 
             No longer discuss the imminent return of Christ; instead emphasize waiting patiently for his coming in the far-off future. No more Adam-God 
             doctrine that Michael/Adam was God, and the father of our spirit bodies. Change never-to-be-changed  
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Joseph Smith taught about the temple endowment: “Ordinances instituted in the heavens before the foundation of the world, in the priesthood, for the salvation of men, are not to be altered or changed. All must be saved on the same principles” [Teachings of the Prophet Joseph Smith, sel. Joseph Fielding Smith (1976), 308].</Tooltip>
             
             temple ordinances, and distance the temple from its mystical Masonic roots.  
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Allen D. Roberts, “Where Are the All-Seeing Eyes? The Origin, Use and Decline of Early Mormon Symbolism,” 39-40.</Tooltip>  
             
             In the temple, change the identity of Jehovah (the God previously positioned between Elohim and Michael) to Jesus.  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>“Eloheim, Yahovah and Michael were father, son and grandson. They made this earth and Michael became Adam.” (Brigham Young, as quoted in Joseph F. Smith Journal, 17 June 1871, Church Archives).</Tooltip>  
             
             Ditch the law of adoption of building Mormon dynasties, etc., etc., etc. 
@@ -84,7 +84,7 @@ const Chap31 = () => {
           <p>Instead, they retained only the most basic message points: obedience to church authority, atonement, repentance, premortality, priesthood, 
             temple sealings. Go Christian with a major emphasis on loving Jesus as your savior. Appear closer to other religions even though Joseph 
             claimed God told him these other religions were an abomination in his sight.  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Joseph Smith History, 1:19.</Tooltip>  
             
             Hide the past. Create false narratives. Ignore historical facts. 
@@ -104,7 +104,7 @@ const Chap31 = () => {
           <p>As a starting point for the transformation, Wilford released a statement in 1889 to appease the U.S. government. Although untrue, in the 
             statement he denied the church ever advocated blood atonement, interfered in civil affairs, or that church leaders made seditious, treasonous, 
             or revolutionary statements or intentions, and argued that the Mormons were not unique in their belief that “the kingdom of heaven is at hand.”
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>John Brooks, The Refiner’s Fire: The Making of Mormon Cosmology, 1644-1844, 290.</Tooltip>  
 
             All of these were untrue, but the church needed to survive. This is an example of “Lying for the Lord!”
@@ -117,7 +117,7 @@ const Chap31 = () => {
             that in Christ, all shall be made alive. The book contained scant references to Joseph’s Nauvoo god-making theology of universes just waiting to be tamed by 
             Mormon Gods. Historian John Brooke states that John Taylor’s book was the beginning of a new Mormon orthodoxy. “John Taylor’s ‘re-Christianizing’ of Mormonism 
             marked a fundamental departure from the explicit hermeticism of Joseph Smith at Nauvoo and Brigham Young in early Utah.”
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>John Brooks, The Refiner’s Fire: The Making of Mormon Cosmology, 1644-1844, 290.</Tooltip>
           </p>
         </div>
@@ -126,24 +126,24 @@ const Chap31 = () => {
           <p>In the reinvention of Mormonism, the Adam-God doctrine had to be dealt with. Given its strangeness, this teaching had been 
             used as a cudgel by Christian ministers attacking Mormonism. Brigham taught, “Michael … is our Father and our God, and the 
             only God with whom WE have to do,”  
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Brigham Young, Journal of Discourses, vol. 1, pg. 46-53, April 9, 1852.</Tooltip>  
             
             which Brigham claimed he learned from Joseph.
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Minutes of Meeting, at Historian's Office; Great Salt Lake City; 7 P.M. April 4, 1860, published in The Office Journal of Brigham Young 1858-1863, Appendix B. “It was Joseph's doctrine that Adam was God &c When in Luke Johnson's.”.</Tooltip>  
           </p>
         </div>
 
         <div className='paragraph'>
           <p>Joseph’s brother Hyrum taught, “... there is a whole train and lineage of Gods.”  
-          <a id="clickable9" className="footnote">9 </a>
+          <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Hyrum Smith, 27 April 1843, as quoted in George Laub’s Journal.</Tooltip>  
 
             In early Mormonism, there were three descending creation gods – Elohim, Jehovah, and Michael. Michael takes the identity of 
             Adam in the Garden of Eden. The Adam-God doctrine held that Michael/Adam and his wife, Eve, had become Gods by living 
             mortal lives on another world. After dying, they were resurrected and received their exaltations.  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Gary Bergera, 1980, The Orson Pratt-Brigham Young Controversies: Conflict Within the Quorums, 1853 to 1868, Dialogue: A Journal of Mormon Thought, Vol. 13(2): 7-49.</Tooltip>  
             
             Then, in a celestial kingdom, Michael (your Father in Heaven) with Eve (your Mother in Heaven), and possibly other plural wives (your Mothers in Heaven) fathered the spirits (you) that were sent to our earth. 
@@ -154,12 +154,12 @@ const Chap31 = () => {
           <p>For you and their spirit children to advance in light and truth, an earth needed to be created whereupon you and your 
             spirit brothers and sisters could obtain temporal bodies and experience a fall. Michael joined a council of the Gods under 
             Elohim’s leadership. Within the council, Jehovah was subordinate to Elohim, and Michael was subordinate to Jehovah.  
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Kurt Widmer, 2000, Mormonism and the Nature of God: A Theological Evolution, 1830–1915, p. 202-203.</Tooltip> 
             
             In fact, they were of the same eternal family. Mormon prophet Joseph F. Smith reiterated this when he stated, “Eloheim, 
             Yahovah and Michael were father, son and grandson. They made this earth and Michael became Adam.”
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Brigham Young, as quoted in Joseph F. Smith Journal, 17 June 1871, Church Archives.</Tooltip> 
 
               So, if Michael/Adam was 
@@ -176,7 +176,7 @@ const Chap31 = () => {
             the new earth, its redemption and sanctification. Thus, the faithful son becomes the creator and redeemer of the new world, 
             Grandfather (Jehovah) remaining the highest authority, Architect and Chief Commander, while you, the Father (Michael), 
             remain in reserve for other important duties.”
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Brigham Young, as quoted in Wilford Woodruff’s Journal, 27 January 1860.</Tooltip> 
            </p>
         </div>
@@ -188,7 +188,7 @@ const Chap31 = () => {
             as we are conversant with our earthly parents. The Father (Jehovah) frequently came to visit his son Adam (Michael), and 
             talked and walked with him; and the children of Adam (Michael) were more or less acquainted with their Grandfather 
             (Jehovah), and their children were more or less acquainted with their Great-Grandfather (Elohim) …”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Brigham Young, Journal of Discourses, 12 January 1862, vol. 9, p. 148.</Tooltip> 
           </p>
         </div>
@@ -199,7 +199,7 @@ const Chap31 = () => {
           <p>Mormon prophet Wilford Woodruff was an eyewitness to many of the events of the early restoration. Joining the church 
             in 1833, he was made a leader and became close to Joseph. He stated, “The Lord taught him [Joseph] many things by vision 
             and revelation that were never taught publicly in his [Joseph’s] days.”  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Wilford Woodruff, Journal of Discourses, April 9, 1857, vol. 5, p. 84.</Tooltip> 
 
             As we have discussed, Joseph had a penchant for 
@@ -212,7 +212,7 @@ const Chap31 = () => {
             remarked that he thought the cat was let out of the bag, when plurality (polygamy) was preached, but I suppose that he did 
             not happen to think that the cat might have kittens, and the kittens grow to be cats, and thus increase to a vast number. 
             Revelations of principles, of one truth after another, will come forth until the work of God is accomplished on the earth.”
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, June 10, 1855, vol. 3, p. 263.</Tooltip> 
            </p>
         </div>
@@ -226,18 +226,18 @@ const Chap31 = () => {
           <p>According to April 4, 1860, meeting minutes, Brigham stated, “It was Joseph’s doctrine that Adam was God ... God comes to 
             earth and eats and partakes of fruit. Joseph could not reveal what was revealed to him, and if Joseph had it revealed, 
             he was not told to reveal it.”   
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Minutes of Meeting at Historian's Office; Salt Lake City; April 4, 1860, published in The Office Journal of Brigham Young 1858-1863, Appendix B. </Tooltip> 
 
             On 16 December 1867, meeting notes state that “President Young said Adam was Michael the Archangel, & he was the Father of 
             Jesus Christ & was our God & that Joseph taught this principle.”  
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Wilford Woodruff Journal, 4 September 1867.</Tooltip> 
 
             On September 4, 1860, meeting notes state that Mormon apostle George Cannon said, “… that Adam is our Father [and] is a 
             true doctrine revealed from God to Joseph & Brigham. For this same doctrine is taught in some of the old Jewish records 
             which have never been in print.”
-            <a id="clickable19" className="footnote">19 </a>
+            <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Wilford Woodruff Journal, 4 September 1860.</Tooltip> 
           </p>
         </div>
@@ -246,7 +246,7 @@ const Chap31 = () => {
           <p>Early Mormon Anson Call stated Joseph taught “now regarding Adam: He came here from another planet [as] an immortalized 
             being and brought his wife, Eve, with him, and by eating of the fruits of the earth became subject to death and decay and 
             he became of the earth, earthly, was made mortal and subject to death.”
-            <a id="clickable20" className="footnote">20 </a>
+            <btn id="clickable20" className="footnote">20 </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>1877 reminiscence of Anson Call.</Tooltip> 
 
             (Apologists will argue that the early brethren were teaching that Adam was the father of our mortal bodies, but an examination of their statements proves this is not true.)
@@ -263,7 +263,7 @@ const Chap31 = () => {
             the spirits that were to come to this earth. And Eve our common mother, who is the mother of all living, bore those spirits 
             in the celestial world. And when this earth was organized by Elohim, Jehovah, and Michael (who is Adam, our common father), 
             Adam and Eve had the privilege to continue the work of progression.”
-            <a id="clickable21" className="footnote">21 </a>
+            <btn id="clickable21" className="footnote">21 </btn>
             <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>L. John Nuttall’s Journal entry for 7 February 1877.</Tooltip> 
           </p>
         </div>
@@ -276,7 +276,7 @@ const Chap31 = () => {
             of the Endowment House ceremony contain cast listings and dialogues of different characters during the creation scene for 
             Elohim, Jehovah, Jesus, and Michael. Their recounting of the concomitant presence of Jehovah and Jesus provides further 
             evidence of the use of the Adam-God doctrine in the temple ceremony.”
-            <a id="clickable22" className="footnote">22 </a>
+            <btn id="clickable22" className="footnote">22 </btn>
             <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>David John Buerger, The Development of the Mormon Temple Endowment Ceremony, Dialogue vol. 20, no. 4, pg. 50-51.</Tooltip> 
           </p>
         </div>
@@ -289,7 +289,7 @@ const Chap31 = () => {
             This was made public in 1915 in James Talmage book Jesus the Christ, which identified Elohim as the “eternal Father” and Jehovah 
             as “the Only Begotten in the flesh, Jesus Christ.” In Talmage’s Articles of Faith, God and Christ are described as bodily, but 
             immortal beings and Adam was reduced to a mortal prophet.  
-            <a id="clickable23" className="footnote">23 </a>
+            <btn id="clickable23" className="footnote">23 </btn>
             <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Boyd Kirkland, “The Development of the Mormon Doctrine of God,” in Gary J. Bergera, ed., Line upon Line: Essays on Mormon Doctrine, 43-47; Thomas G. Alexander, “The Reconstruction of Mormon Doctrine,” in Bergera, ed., Line upon Line, 60-61.</Tooltip> 
             
             Indeed, this contradicts what was taught by past prophets, seers, and 
@@ -305,14 +305,14 @@ const Chap31 = () => {
         <div className='paragraph'>
           <p>In 1976, Mormon prophet Spencer Kimball stated, “We denounce that theory and hope that everyone will be cautioned against 
             this and other kinds of false doctrine.”  
-            <a id="clickable24" className="footnote">24 </a>
+            <btn id="clickable24" className="footnote">24 </btn>
             <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Spencer W. Kimball, Our Own Liahona, Ensign, November 1976, p. 77.</Tooltip> 
 
             Notice how he refers to the Adam-God Doctrine, which was clearly taught in the church, as a “theory.” This was a subtle 
             propaganda technique. In 1980, Mormon apostle Bruce McConkie stated, “There are those who believe or say they believe that 
             Adam is our father and our god, that he is the father of our spirits and our bodies, and that he is the one we worship. 
             The devil keeps this heresy alive as a means of obtaining converts to cultism.” 
-            <a id="clickable25" className="footnote">25 </a>
+            <btn id="clickable25" className="footnote">25 </btn>
             <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Bruce McConkie, BYU Devotional Speech, June 1, 1980.</Tooltip> 
           </p>
         </div>
@@ -325,7 +325,7 @@ const Chap31 = () => {
             oath – where he was sworn to tell the truth – before a U.S. Congressional committee, admitted that he did not receive 
             revelation. This was in addition to the Mormon prophet committing perjury – another world for that is lying – in numerous 
             statements.
-            <a id="clickable26" className="footnote">26 </a>
+            <btn id="clickable26" className="footnote">26 </btn>
             <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>Reed Smooth Hearings, Congressional Record, 1905, p. 483.</Tooltip> 
           </p>
         </div>
@@ -365,7 +365,7 @@ const Chap31 = () => {
             impressions of the spirit of the Lord upon my mind at any time, just as any good Methodist or any other good church member 
             might be. And so far as that is concerned, I say yes; I have had impressions of the Spirit upon my mind very frequently, 
             but they are not in the sense revelations.
-            <a id="clickable27" className="footnote">27 </a>
+            <btn id="clickable27" className="footnote">27 </btn>
             <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>Reed Smooth Hearings, Congressional Record, 1905, p. 483.</Tooltip> 
           </p>
         </div>
@@ -374,7 +374,7 @@ const Chap31 = () => {
           <p>Another troubling event occurred in 1912 when an article “Museum Walls Proclaim Fraud of Mormon Prophet” appeared in the 
             New York Times. In the article, several Egyptologists showed Joseph’s translations of the Book of Abraham facsimiles as 
             mistranslations.  
-            <a id="clickable28" className="footnote">28 </a>
+            <btn id="clickable28" className="footnote">28 </btn>
             <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>New York Times, Museum Walls Proclaim Fraud of Mormon Prophet, December 29, 1912.</Tooltip> 
 
             Their conclusion? The Book of Abraham was a fraud.
@@ -384,7 +384,7 @@ const Chap31 = () => {
         <div className='paragraph'>
           <p>Concerning the Book of Mormon, in 1922, church leader B.H. Roberts met with the First Presidency, Quorum of the Twelve, 
             and seven presidents of the Seventies. In this meeting, which has become known as the Secret Mormon Meetings of 1922,
-            <a id="clickable29" className="footnote">29 </a>
+            <btn id="clickable29" className="footnote">29 </btn>
             <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>Shannon Caldwell Montez, “The Secret Mormon Meetings of 1922,” Master Thesis University of Nevada, Reno, December 2019.</Tooltip> 
 
             B.H. reported on problems with the Book of Mormon as a true historical text. B.H. discussed the lack of Hebrew or Egyptian influence on the languages of Native American tribes, the vast number of anachronisms, and the remarkable similarities with Ethan Smith’s earlier book View of the Hebrews, etc. 
@@ -402,12 +402,12 @@ const Chap31 = () => {
             relating to his Book of Mormon study. Brother Roberts has assembled a long list of points called “difficulties” meaning thereby 
             what non-believers in the Book of Mormon call discrepancies between that record and the results of archeological and other 
             scientific investigations.”  
-            <a id="clickable30" className="footnote">30 </a>
+            <btn id="clickable30" className="footnote">30 </btn>
             <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>James E. Talmage Journal, January 4, 1922.</Tooltip> 
             
             Then he recorded, “I know the Book of Mormon to be a true record; and many of the “difficulties”, or objections as critics 
             would urge, are after all but negative in their nature.”
-            <a id="clickable31" className="footnote">31 </a>
+            <btn id="clickable31" className="footnote">31 </btn>
             <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>James E. Talmage Journal, January 4, 1922.</Tooltip> 
           </p>
         </div>
@@ -417,7 +417,7 @@ const Chap31 = () => {
             had announced there were additional Book of Mormon problems. Lyman asked, “Well, will these help solve our present problems 
             or will it increase our difficulties?” Roberts replied, “It would very greatly increase our problems.” To which Lyman “rather 
             lightly” said, “‘Well, I don’t see why we should bother with them then.”
-            <a id="clickable32" className="footnote">32 </a>
+            <btn id="clickable32" className="footnote">32 </btn>
             <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Roberts, Studies, 58-60. Citing B. H. Roberts to Richard Lyman, October 24, 1927.</Tooltip> 
           </p>
         </div>
@@ -427,7 +427,7 @@ const Chap31 = () => {
             of the Book of Mormon. George Albert Smith in tears testified that his faith in the book had not been shaken by the question. 
             Pres Ivins, the man most likely to be able to answer a question on that subject was unable to produce the solution. No answer 
             was available.”
-            <a id="clickable33" className="footnote">33 </a>
+            <btn id="clickable33" className="footnote">33 </btn>
             <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>Richard R. Lyman’s journal noted the initials and the amount of time each church leader spoke on the last day of meetings, each for a minute or two, confirming this scenario though it provides no content. One final source in reference to the studies, as well as the leadership meetings, came eleven years after the meetings, just weeks before Roberts’s death in 1933. Wesley P. Lloyd, a friend who was formerly dean of the Graduate School at Brigham Young University and, also a missionary under Roberts in the Eastern States Mission, wrote in his journal on August 7, 1933, that he had spent three and a half hours talking to Roberts: “The conversation then drifted to the Book of Mormon and this surprising story he related to me.” Lloyd recorded that Roberts told him of Riter’s letter and of his assignment to answer it; how he had been “stumped” and asked for help from the brethren. Roberts had then presented his findings to the General Authorities, only to be disappointed: In answer, they merely one by one stood up and bore testimony to the truthfulness of the Book of Mormon. George Albert Smith in tears testified that his faith in the Book had not been shaken by the question. Pres Ivins, the man most likely to be able to answer a question on that subject was unable to produce the solution. No answer was available. </Tooltip> 
           </p>
         </div>
@@ -440,7 +440,7 @@ const Chap31 = () => {
             slain within sight of that hill. Evidence of the great battles that have been fought there in days gone by are manifest in 
             the numerous spear and arrowheads that have been found by farmers while plowing in that neighborhood. We were fortunate 
             enough to obtain a few of the arrowheads.”
-            <a id="clickable34" className="footnote">34 </a>
+            <btn id="clickable34" className="footnote">34 </btn>
             <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>George Albert Smith, Conference Report, April 1906, p. 56.</Tooltip> 
           </p>
         </div>
@@ -453,7 +453,7 @@ const Chap31 = () => {
             house, and monuments, but no emotional feelings. The difference between George and me? My integrity to truth, 
             despite the cost. And I’ve a paid a cost for embracing truth. As the New Testament teaches, “Prove all things; 
             hold fast to that which is good.”  
-            <a id="clickable35" className="footnote">35 </a>
+            <btn id="clickable35" className="footnote">35 </btn>
             <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>1 Thessalonians 5:21.</Tooltip>
 
             For George Albert Smith, perhaps the psychological and social cost was too high for this prophet, seer, and revelator. 
@@ -478,7 +478,7 @@ const Chap31 = () => {
             used were not writings of Abraham from approximately 2,000 BCE. Instead, they were a common funerary text from 300 BCE to 100 
             BCE belonging to a Theban Priest named Horus. It was clear that Joseph’s Book of Abraham was not a “Translation of the Book of 
             Abraham written by his own hand upon papyrus and found in the Catacombs of Egypt.”  
-            <a id="clickable36" className="footnote">36 </a>
+            <btn id="clickable36" className="footnote">36 </btn>
             <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>Title page of the Book of Abraham.</Tooltip>
 
             Rather, Horus’ funerary text contained information on how to navigate the afterlife, with nothing about the life or calling of Abraham. The modern Egyptologists’ translations made it clear that Joseph fabricated a story from his general knowledge of the Abrahamic lore and pseudepigrapha of his day.
@@ -504,12 +504,12 @@ const Chap31 = () => {
           <p>As more and more information came out to counter the Mormon church narrative, Mormon apostle Boyd Packer stated, “I have a 
             hard time with historians, because they idolize the truth. The truth is not uplifting; it destroys. … Historians should tell
              only that part of the truth that is inspiring and uplifting.”  
-             <a id="clickable37" className="footnote">37 </a>
+             <btn id="clickable37" className="footnote">37 </btn>
              <Tooltip anchorSelect="#clickable37" className="footnote-size" clickable>Boyd Packer, related by Michael Quinn, “Pillars of My Faith,” talk delivered at Sunstone Symposium, August 19, 1994.</Tooltip>
              
              In 1981, Boyd Packer questioned the faith and motives of Mormon historians who produced overly objective, impartial, 
              honest, and neutral history. In a talk entitled “The Mantle is Far, Far Greater Than the Intellect”  
-             <a id="clickable38" className="footnote">38 </a>
+             <btn id="clickable38" className="footnote">38 </btn>
              <Tooltip anchorSelect="#clickable38" className="footnote-size" clickable>Boyd Packer, The Mantle is Far, Far Greater Than the Intellect, 1981, 8.</Tooltip>
      
              Boyd Packer attempted to use his “mantle” – position of authority – to lay down the law to church educators. In his talk he tacitly admitted that the church did not want its full history taught to members – just the faith-building parts to keep members in the good ship Zion.

@@ -57,7 +57,7 @@ const Chap1 = () => {
             flee to it as a place of refuge. Kings and rulers will come to Zion with their riches. Joseph revealed Christ’s words, 
             “… where shall be the safety of my people, and refuge for those who shall be left of them? Awake, O kings of the earth! 
             Come ye, O, come ye, with your gold and your silver, to the help of my people, to the house of the daughters of Zion.” 
-            <a id="clickable1" className="footnote">1  </a>
+            <btn id="clickable1" className="footnote">1  </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 124:10-11.</Tooltip>
           </p>
         </div>
@@ -66,7 +66,7 @@ const Chap1 = () => {
           <p>Mormon apostle Orson Pratt stated in 1855, “… The people will see that the hand of God is over this people; they will see that He is in our midst … 
             they will say, ‘Let us go up and put our riches in Zion, for there is no safety in our own nations.’ Those nations are trembling and tottering and 
             will eventually crumble to ruin, and those men of wealth will come here … they will hear that peace and health dwell among us.”
-            <a id="clickable2" className="footnote">2  </a>
+            <btn id="clickable2" className="footnote">2  </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, May 20, 1855, vol. 3, p. 17.</Tooltip>     
           </p>
         </div>
@@ -74,7 +74,7 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Joseph put all this succinctly in his Tenth Article of faith, once recited by Mormon children throughout the world, “We believe in the literal 
             gathering of Israel and in the restoration of the Ten Tribes; that Zion (the New Jerusalem) will be built upon the American continent.”
-            <a id="clickable3" className="footnote">3  </a>
+            <btn id="clickable3" className="footnote">3  </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Articles of Faith 1:10.</Tooltip>          
           </p>
         </div>
@@ -83,15 +83,15 @@ const Chap1 = () => {
           <p>Eventually, the Lost 10 Tribes, led by John the Revelator, will travel to Zion. In the holy city, under the hands of the Mormon priesthood, 
             they will receive their temple blessings and glory. Joseph wrote that pestilence, hail, famine, and earthquake will sweep the wicked “from off the face of the land, 
             to open and prepare the way for the lost tribes of Israel from the north country.”
-            <a id="clickable4" className="footnote">4  </a>
+            <btn id="clickable4" className="footnote">4  </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>History of the Church, Joseph Smith 1:315.</Tooltip>  
             Joseph also revealed, “… and they shall smite the rocks, and the ice shall flow down at their presence. 
             And an highway shall be cast up in the midst of the great deep.”  
-            <a id="clickable5" className="footnote">5  </a>
+            <btn id="clickable5" className="footnote">5  </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>D&C 133:26-27.</Tooltip> 
             When the Lost 10 Tribes arrive in Zion, they shall, “… fall down and be crowned with glory, even in Zion, by the hands of the servants 
             of the Lord, even the children of Ephraim. And they shall be filled with songs of everlasting joy.”
-            <a id="clickable6" className="footnote">6  </a>
+            <btn id="clickable6" className="footnote">6  </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>D&C 133:32-33.</Tooltip> 
           </p>
         </div>
@@ -111,10 +111,10 @@ const Chap1 = () => {
         <div className='paragraph'>
           <p>Another problem with Russell Nelson’s announcement that Christ is coming soon is the credibility problem it creates for the Mormon church. 
             It has been almost 200 years since Joseph Smith revealed to the early Mormons that Christ’s Second Coming was “nigh at hand.”
-            <a id="clickable7" className="footnote">7  </a>
+            <btn id="clickable7" className="footnote">7  </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 1:35-36.</Tooltip> 
             And relaying Christ’s words “behold, I come quickly.”
-            <a id="clickable8" className="footnote">8  </a>
+            <btn id="clickable8" className="footnote">8  </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>D&C 41:4.</Tooltip>        
           </p>
         </div>
@@ -125,7 +125,7 @@ const Chap1 = () => {
             his saints to stand upon Mount Zion, which shall be the city of New Jerusalem.” The revelation continues, “Which city shall be built … in the western boundaries 
             of the State of Missouri … even the place of the temple, which temple, shall be reared in this generation. For verily, this generation shall not all pass away 
             until a house shall be built unto the Lord, and a cloud shall rest upon it, which cloud shall be even the glory of The Lord.”
-            <a id="clickable9" className="footnote">9  </a>
+            <btn id="clickable9" className="footnote">9  </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>D&C 97:19.</Tooltip>   
           </p>
         </div>
@@ -139,7 +139,7 @@ const Chap1 = () => {
           <p>Mormon apostle Orson Pratt believed Joseph’s revelation. He stated, “God promised in the year 1832 that we should, before the generation then living 
             had passed away, return and build up the City of Zion in Jackson County ... We believe in these promises as much as we believe in any promise ever 
             uttered by the mouth of Jehovah … Why?  Because God cannot lie.  He will fulfill all His promises.”  
-            <a id="clickable10" className="footnote">10  </a>
+            <btn id="clickable10" className="footnote">10  </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Orson Pratt, Journal of Discourses, May 5, 1870, vol. 13, p. 362.</Tooltip>
           </p>
         </div>
@@ -148,7 +148,7 @@ const Chap1 = () => {
           <p>But this never happened. For nearly 200 years, the church has promised every generation that they are the chosen generation to usher in the Second Coming 
             – only for that generation to pass away with that promise unfulfilled. Countless patriarchal blessings promised people, 
             now in silent graves, that they will live to see the Second Coming. If a generation is 20 to 30 years,  
-            <a id="clickable11" className="footnote">11  </a>
+            <btn id="clickable11" className="footnote">11  </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable className="footnote-size">Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
             that means seven generations have passed, with those promises unfulfilled.         
           </p>
@@ -166,11 +166,11 @@ const Chap1 = () => {
             other prophets, seers, and revelators have taught about the last days and the approaching Second Coming. 
             Therefore, Mormon leaders should issue a proclamation to the world. They should meet with world leaders to call their nations to repentance, 
             so they can prepare for the “coming of the great and dreadful day of the Lord.”
-            <a id="clickable12" className="footnote">12  </a>
+            <btn id="clickable12" className="footnote">12  </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Joseph Smith – History 1:37-39.</Tooltip>
             Joseph revealed Christ’s words to church leaders that, “… they should proclaim these things unto the world; and all this that it might be fulfilled, 
             which was written by the prophets.”
-            <a id="clickable13" className="footnote">13  </a>
+            <btn id="clickable13" className="footnote">13  </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>D&C 1:18.</Tooltip>     
           </p>
         </div>
@@ -180,7 +180,7 @@ const Chap1 = () => {
             as the Mormon apostles issued in 1845. Their proclamation states, “Know ye: That the kingdom of God has come: as has been predicted by ancient 
             prophets and prayed for in all ages; even that kingdom which shall fill the whole earth and shall stand forever.” Their proclamation states that 
             Christ’s “coming is near at hand; and not many years hence, the nations and their kings shall see him coming in the clouds of heaven with power and great glory.”
-            <a id="clickable14" className="footnote">14  </a>
+            <btn id="clickable14" className="footnote">14  </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Proclamation of the Twelve Apostles of the Church of Jesus Christ, of Latter-Day Saints. To all the Kings of the World; To the President of the United States of America; To the Governors of the several States; And to the Rulers and People of all Nations. (New York, April 6, 1845), 1.</Tooltip>           
           </p>
         </div>
@@ -191,7 +191,7 @@ const Chap1 = () => {
             was restoring the Kingdom of God, which must be established before the great latter-day events can roll forth? Do they not believe Daniel’s prophecy? 
             Joseph stated, “I calculate to be one of the instruments of setting up the kingdom of Daniel by the word of the Lord, and I intend to lay a foundation 
             that will revolutionize the whole world.”
-            <a id="clickable15" className="footnote">15  </a>
+            <btn id="clickable15" className="footnote">15  </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Statement on 12 May 1844 to the Council of Fifty, as recorded in Underwood, the Millenarian World of Early Mormonism, 109.</Tooltip>    
           </p>
         </div>
@@ -200,7 +200,7 @@ const Chap1 = () => {
           <p>Second Mormon prophet Brigham Young stated, “The Lord God Almighty has set up a kingdom that will sway the scepter of power and authority over all the kingdoms of the world, 
             and will never be destroyed, it is the kingdom that Daniel saw and wrote of … The kingdom will continue to increase, to grow, to spread and prosper more and more … 
             and become more wonderful and conspicuous to the nations, until it fills the whole earth.”
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 6, 1852, vol. 1, p. 202-203</Tooltip>          
           </p>
         </div>

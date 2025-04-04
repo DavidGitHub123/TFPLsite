@@ -15,18 +15,18 @@ const Chap33 = () => {
 
       <h1 className='chapterHeading'>Chapter 33: Daniel’s Prophecy Unfulfilled</h1>
 
-      <img src={final2} className='image' alt='photo of the Mormon conference center' />
+      <img src={final2} className='image' alt='Mormon conference center' />
 
     <div className="wrapper">
 
     <div className='paragraph'>
           <p>The early Mormons were promised in an 1832 revelation that in their lifetimes they would “… stand upon Mount Zion … which 
             temple, shall be reared in this generation.”  
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D&C 97:19.</Tooltip>
             
             If a generation is 20 to 30 years,  
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in 
               Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415-423.</Tooltip>
             
@@ -61,20 +61,20 @@ const Chap33 = () => {
         <div className='paragraph'>
           <p>Early Mormons of the 1830s were promised they would live to see these events unfold. 
             Lyman Johnson was promised that “He shall see the Savior come and stand upon the earth with power and great glory.” 
-          <a id="clickable3" className="footnote">3 </a>
+          <btn id="clickable3" className="footnote">3 </btn>
           <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 188.</Tooltip>
             
             Heber Kimball was promised that “He may stand unto the coming of our Lord.”  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 189.</Tooltip>
             
             Orson Hyde was promised “That he may stand upon the earth and bring souls till Christ comes.”  
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 190.</Tooltip>
             
             William Smith was blessed that “He shall be preserved and remain on the earth until Christ shall come to take vengeance on 
             the wicked.”  
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 191.</Tooltip>
             
             But none of this came to pass!
@@ -85,7 +85,7 @@ const Chap33 = () => {
           <p>Speaking of the church he founded, Joseph Smith prophesied in 1834, “I want to say to you before the Lord, that you know no 
             more concerning the destinies of this Church and kingdom than a babe upon its mother’s lap. You don’t comprehend it. 
             This Church will fill North and South America – it will fill the world.” But this did not come to pass!
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Wilford Woodruff, Conference Report, Apr. 1898, p. 57.</Tooltip>
           </p>
         </div>
@@ -94,14 +94,14 @@ const Chap33 = () => {
           <p>Joseph built a grandiose latter-day vision in his followers. From the promises of their prophets, they believed millions of people would pour into the Mormon 
             church. First Presidency Counselor Heber Kimball stated, “Joseph the Prophet dedicated that land (Jackson County) … and 
             I shall yet see the day that I will go back there, with brother Brigham and with thousands and millions of others.”  
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, December 27, 1857, vol. 6, p. 190.</Tooltip>
              
             Speaking of the final great battles between the Mormons (Israel) and the wicked, First Presidency Counselor Daniel Wells 
             stated that there will be millions of Mormons in a mighty force fighting against the wicked nations. “There is need of every 
             faithful man and woman in this kingdom, and for millions more; and then, by concentrating all these efforts, it is easy to 
             understand what a mighty phalanx Israel will present, making the wicked nations tremble because of their wickedness.”
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Daniel Wells, Journal of Discourses, October 7, 1859, vol. 7, p. 250.</Tooltip> 
           </p>
         </div>
@@ -157,12 +157,12 @@ const Chap33 = () => {
           <p>Perhaps they refuse to acknowledge the truth to themselves. They opt to have a convenient definition of Mormonism in their minds, 
             shutting out all evidence to the contrary. Apologists do the same. They are like the children of Israel when Moses held up the 
             staff with a serpent’s head to heal them. But they would not look.  
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Numbers 21:8-9.</Tooltip> 
 
             They are like a son of perdition who Joseph Smith described as 
             “… say[ing] that the sun does not shine while he sees it.”
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Joseph Smith, King Follett Sermon.</Tooltip> 
             
             Russian novelist Fyodor Dostoevsky wrote: “Above all, don’t lie to yourself. The man who lies to himself and listens to his own lie comes to such a pass that he cannot 
@@ -195,21 +195,21 @@ const Chap33 = () => {
 
         <div className='paragraph'>
           <p>Jesus stated, “Ye shall know the truth, and the truth shall make you free.”  
-          <a id="clickable12" className="footnote">12 </a>
+          <btn id="clickable12" className="footnote">12 </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>John 8:32.</Tooltip> 
             
             Philosopher Friedrich Nietzsche stated, “The strength of a person’s spirit [is] measured by how much ‘truth’ he 
             could tolerate, or more precisely, to what extent he needs to have it diluted, disguised, sweetened, muted, falsified.”  
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Friedrich Nietzsche, Beyond Good and Evil.</Tooltip> 
             
             George Orwell stated, “The Party told you to reject the evidence of your eyes and ears. It was their final, most essential 
             command.”  
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>George Orwell, 1984.</Tooltip>  
 
             Philosopher Henry David Thoreau stated, “Rather than love, than money, than fame, give me truth.”
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Henry David Thoreau, Walden.</Tooltip>  
           </p>
         </div>

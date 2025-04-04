@@ -18,7 +18,7 @@ const Chap2 = () => {
         Chapter 2: Daniel’s Stone Cut of the Mountain
       </h1>
     
-      <img src={slctemple} className='image' alt='photo of Mormon Salt Lake City temple' />
+      <img src={slctemple} className='image' alt='Mormon Salt Lake City temple' />
 
     <div className="wrapper">
 
@@ -28,11 +28,11 @@ const Chap2 = () => {
           Mormon apostle D. Todd Christofferson referred to the church as the Kingdom of God. “The
           fulfillment of those prophecies and promises is now underway with the gathering of the covenant people into the Church, the kingdom of God
           on earth.” 
-          <a id="clickable1" className="footnote">1  </a>
+          <btn id="clickable1" className="footnote">1  </btn>
           <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>D. Todd Christofferson, Spring 2021 General Conference, “Why the Covenant Path?”</Tooltip> 
           Mormon apostle David Bednar quoted scripture saying Mormons, “should ‘… be instructed more perfectly in theory, in
           principle, in doctrine, in the law of the gospel, in all things that pertain unto the kingdom of God.’”
-          <a id="clickable2" className="footnote">2  </a>
+          <btn id="clickable2" className="footnote">2  </btn>
           <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>David Bednar, Spring 2021 General Conference, “The Principles of My Gospel.”</Tooltip> 
         </p>
       </div>
@@ -41,19 +41,19 @@ const Chap2 = () => {
         <p>
           In the New Testament, Christ mentions establishing the Kingdom of God on earth. John writes, “Except man be born again, he cannot see the
           kingdom of God.” 
-          <a id="clickable3" className="footnote">3  </a>
+          <btn id="clickable3" className="footnote">3  </btn>
           <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>John 3:3.</Tooltip> 
           
           Luke writes, “But rather seek ye the kingdom of God” and “it is your Father’s good pleasure to give you the kingdom.”
-          <a id="clickable4" className="footnote">4  </a>
+          <btn id="clickable4" className="footnote">4  </btn>
           <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Luke 12:30-32.</Tooltip> 
           
           Mark writes, “how hardly shall they that have riches enter into the kingdom of God!”
-          <a id="clickable5" className="footnote">5  </a>
+          <btn id="clickable5" className="footnote">5  </btn>
           <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>Mark 10:23.</Tooltip>  
           
           And Matthew writes, “And I will give unto thee the keys of the kingdom of heaven.”
-          <a id="clickable6" className="footnote">6  </a>
+          <btn id="clickable6" className="footnote">6  </btn>
           <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>Matthew 16:19.</Tooltip>  
 
         </p>
@@ -68,7 +68,7 @@ const Chap2 = () => {
           thence shall the gospel roll forth unto the ends of the earth, as the
           stone which is cut out of the mountain without hands shall roll forth,
           until it has filled the whole earth.”
-          <a id="clickable7" className="footnote">7  </a>
+          <btn id="clickable7" className="footnote">7  </btn>
           <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>D&C 65:2.</Tooltip>  
         </p>
       </div>
@@ -77,7 +77,7 @@ const Chap2 = () => {
         <p>
           Daniel, in the Old Testament, prophesied that the Kingdom of God would begin small, as a stone cut out of a mountain, and would one day fill 
           the entire world, ushering in the Millennium. 
-          <a id="clickable8" className="footnote">8  </a>
+          <btn id="clickable8" className="footnote">8  </btn>
           <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Daniel 2:19.</Tooltip> 
           
           For the early Mormons,
@@ -85,7 +85,7 @@ const Chap2 = () => {
           Mormonism. Joseph stated, “I calculate to be one of the instruments of
           setting up the kingdom of Daniel by the word of the Lord, and I intend
           to lay a foundation that will revolutionize the whole world.”
-          <a id="clickable9" className="footnote">9  </a>
+          <btn id="clickable9" className="footnote">9  </btn>
           <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>Statement on 12 May 1844 to the Council of Fifty, as recorded in Underwood, 
             the Millenarian World of Early Mormonism, 109.</Tooltip> 
         </p>
@@ -104,7 +104,7 @@ const Chap2 = () => {
           Christ, and he will rule over them, and when unto him every knee shall
           bow, and every tongue confess that he is Christ ... That time has not
           yet come.”
-          <a id="clickable10" className="footnote">10  </a>
+          <btn id="clickable10" className="footnote">10  </btn>
           <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>The Gospel Kingdom, sel. G. Homer Durham (1943), 205.</Tooltip>
 
         </p>
@@ -117,7 +117,7 @@ const Chap2 = () => {
           logic behind that move goes back to the very beginning of the new
           religion, because he never conceived of Mormonism as merely another
           sect.”
-          <a id="clickable11" className="footnote">11  </a>
+          <btn id="clickable11" className="footnote">11  </btn>
           <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Klaus Jansen, Mormonism and the American Experience, 132.</Tooltip>
           
         </p>
@@ -128,11 +128,11 @@ const Chap2 = () => {
           the Kingdom of God. He stated, “I have done what king Solomon, King
           Hiram, & Hiram Abiff could not do: I have set up the kingdom no more
           to be thrown down forever nor never to be given to another people.”
-          <a id="clickable12" className="footnote">12  </a>
+          <btn id="clickable12" className="footnote">12  </btn>
           <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Dimick B. Huntington, State of Dimick B. Huntington, December 12, 1878, Salt Lake City.</Tooltip>
 
           Joseph even had himself crowned as king of the Kingdom of God as “King, Priest, and Ruler over Israel on the Earth.” 
-          <a id="clickable13" className="footnote">13  </a>
+          <btn id="clickable13" className="footnote">13  </btn>
           <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>See Council of Fifty in this essay. The Council of Fifty was established by Joseph Smith in 1844. Its purpose was to organize the political kingdom of God in preparation for the Second Coming of Christ. (See Church History in the Fulness of Times, 270.) Eventually 50 men were admitted to the Council who witnessed Joseph’s ordination as “King, Priest, and Ruler over Israel on the Earth” – and the placing of a crown upon his head. To keep the Council of Fifty secret, Joseph administered a secrecy oath under the penalty of death. (See William Clayton Diary, 1 Mar. 1845, in Smith, An Intimate Chronicle, 158.)</Tooltip>
           
           More on this later.
@@ -142,7 +142,7 @@ const Chap2 = () => {
       <div className="paragraph">
         <p>
           Mormons today are not taught that Joseph Smith was crowned King of the Kingdom of God as “King, Priest, and Ruler over Israel on the Earth.”
-          <a id="clickable14" className="footnote">14  </a>
+          <btn id="clickable14" className="footnote">14  </btn>
           <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>See Council of Fifty in this essay. The Council of Fifty was established by Joseph Smith in 1844. Its purpose was to organize the political kingdom of God in preparation for the Second Coming of Christ. (See Church History in the Fulness of Times, 270.) Eventually 50 men were admitted to the Council who witnessed Joseph’s ordination as “King, Priest, and Ruler over Israel on the Earth” – and the placing of a crown upon his head. To keep the Council of Fifty secret, Joseph administered a secrecy oath under the penalty of death. (See William Clayton Diary, 1 Mar. 1845, in Smith, An Intimate Chronicle, 158.)</Tooltip>
 
           If Joseph was crowned, was Mormon prophet Russell Nelson also crowned
@@ -162,7 +162,7 @@ const Chap2 = () => {
           over all earthly kingdoms? Russell Nelson is one of the richest men in
           the world, given his position as head of the Mormon church and
           financial structure of the church, 
-          <a id="clickable15" className="footnote">15  </a>
+          <btn id="clickable15" className="footnote">15  </btn>
           <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>The Mormon Church is a corporation sole owned entirely 
             by the office of the president of the 
             church. That put’s Nelson’s net worth at 265 billion making him at least in the top 3-5 wealthiest people on the planet.</Tooltip>
@@ -180,22 +180,22 @@ const Chap2 = () => {
           introduction (secretly) of a kingly form of government, in which
           Joseph suffered himself to be ordained a king, to reign over the house
           of Israel forever.”
-          <a id="clickable16" className="footnote">16  </a>
+          <btn id="clickable16" className="footnote">16  </btn>
           <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>William Marks, Zion's Harbinger and Baneemy's Organ, St. Louis, 
             July 1853, p. 53.</Tooltip>
           
           George Miller remarked, “In this council we ordained Joseph Smith as King on earth.” 
-          <a id="clickable17" className="footnote">17  </a>
+          <btn id="clickable17" className="footnote">17  </btn>
           <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>Klaus Hansen, The Theory and Practice of the Political 
             Kingdom of God in Mormon History, 1829-1890, master's thesis, BYU, 1959, p. 114.</Tooltip>
           
           Council secretary William Clayton recorded, “… Joseph was chosen as our prophet, priest & king by hosanas.” 
-          <a id="clickable18" className="footnote">18  </a>
+          <btn id="clickable18" className="footnote">18  </btn>
           <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>William Clayton Journal, 11 April 1844, 1 January 1845, 
             quoted in Allen, “One Man’s Nauvoo,” footnotes. 21 and 22.</Tooltip>
 
           In a revelation given to third Mormon prophet John Taylor, “mention is made of Joseph Smith being crowned a king in Nauvoo.”
-          <a id="clickable19" className="footnote">19  </a>
+          <btn id="clickable19" className="footnote">19  </btn>
           <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Diary of George A. Smith, May 9,1844, located in the Library of the 
             Church Historian; Kenneth W. Godfrey, former director of the LDS Institute at Stanford University, 
             BYU Studies, Winter 1968, pp. 212-13, quoted in doctoral dissertation Causes of Mormon Non-Mormon 
@@ -210,7 +210,7 @@ const Chap2 = () => {
           Mormon leaders, have received this pinnacle ordinance. In the second
           anointing, as Joseph Smith taught, a person is anointed as a “priest
           and king” and conferred godhood.
-          <a id="clickable20" className="footnote">20  </a>
+          <btn id="clickable20" className="footnote">20  </btn>
           <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Greg Prince, August 15, 1995, Ordinances: The Second Anointing. Power from on High, p. 189, 191.</Tooltip>
           
           It stands to reason that crowning the
@@ -228,14 +228,14 @@ const Chap2 = () => {
           priesthood keys to administer the affairs of the Kingdom of God.
           Joseph taught, “The keys (of the priesthood) have to be brought from
           heaven whenever the Gospel is sent.” 
-          <a id="clickable21" className="footnote">21  </a>
+          <btn id="clickable21" className="footnote">21  </btn>
           <Tooltip anchorSelect="#clickable21" className="footnote-size" clickable>Teachings of Presidents of the Church: Joseph Smith [2007], 104.</Tooltip>
           
           The keys necessary for governing
           the Church in the latter days were restored to Joseph Smith by
           heavenly beings – for instance, John the Baptist, Peter, James, John,
           Moses, Elias, and Elijah.
-          <a id="clickable22" className="footnote">22  </a>
+          <btn id="clickable22" className="footnote">22  </btn>
           <Tooltip anchorSelect="#clickable22" className="footnote-size" clickable>Joseph Smith – History 1:72; D&C 27:12; D&C 110:11–12.</Tooltip>
         </p>
       </div>
@@ -269,7 +269,7 @@ const Chap2 = () => {
           Daniel serves the Babylonian King as a slave in the King’s court.
           Then, one day, through his prophetic gifts, Daniel interpreted the
           meaning of the King’s dream.
-          <a id="clickable23" className="footnote">23  </a>
+          <btn id="clickable23" className="footnote">23  </btn>
           <Tooltip anchorSelect="#clickable23" className="footnote-size" clickable>Daniel 2:19.</Tooltip>
         </p>
       </div>
@@ -305,7 +305,7 @@ const Chap2 = () => {
         <p>
           But in the Mormon church, where has the Kingdom of God rhetoric been
           for the last 25 years? 
-          <a id="clickable24" className="footnote">24  </a>
+          <btn id="clickable24" className="footnote">24  </btn>
           <Tooltip anchorSelect="#clickable24" className="footnote-size" clickable>Mormon Apostle Neal Anderson made passing mention to Daniel’s prophecy and how the Mormon church is the literal kingdom of God in the October 2016 general conference. “The God of heaven,” Daniel said, “[shall] set up a kingdom, [a stone cut out without hands, that will become a great mountain and fill the whole earth,] never [to] be destroyed … [but to] stand for ever … From the miraculous intervention of God to Daniel came the prophesied future of the gospel of Jesus Christ being restored to the earth, a kingdom that would fill the whole earth, ‘never [to] be destroyed … [but to] stand for ever.’ The number of members of the Church in the latter days would be relatively few, as Nephi prophesied, but they would be upon all the face of the earth.”</Tooltip>
 
           Why the radio silence? Perhaps declining church
@@ -322,7 +322,7 @@ const Chap2 = () => {
           know no more concerning the destinies of this Church and kingdom than
           a babe upon its mother’s lap. You don’t comprehend it … this Church
           will fill North and South America – it will fill the world.”
-          <a id="clickable25" className="footnote">25  </a>
+          <btn id="clickable25" className="footnote">25  </btn>
           <Tooltip anchorSelect="#clickable25" className="footnote-size" clickable>Wilford Woodruff, Conference Report, Apr. 1898, p. 57.</Tooltip>
 
         </p>
@@ -336,7 +336,7 @@ const Chap2 = () => {
           [he] laid the foundation of that kingdom spoken of by Daniel, the
           prophet, which should break in pieces all other kingdoms and stand
           forever.”
-          <a id="clickable26" className="footnote">26  </a>
+          <btn id="clickable26" className="footnote">26  </btn>
           <Tooltip anchorSelect="#clickable26" className="footnote-size" clickable>Autobiography of Parley Parker Pratt, 6th ed., 1938, p. 46.</Tooltip>
         </p>
       </div>
@@ -351,7 +351,7 @@ const Chap2 = () => {
           kingdom will continue to increase, to grow, to spread and prosper more
           and more … and become more wonderful and conspicuous to the nations,
           until it fills the whole earth.” 
-          <a id="clickable27" className="footnote">27  </a>
+          <btn id="clickable27" className="footnote">27  </btn>
           <Tooltip anchorSelect="#clickable27" className="footnote-size" clickable>Brigham Young, Journal of Discourses, April 6, 1852, vol. 1, p. 202-203.</Tooltip>
 
         </p>
@@ -365,7 +365,7 @@ const Chap2 = () => {
           a kingdom of Gods and angels and all beings who will submit themselves
           to that government. There is no other true government in heaven or
           upon the earth.” 
-          <a id="clickable28" className="footnote">28  </a>
+          <btn id="clickable28" className="footnote">28  </btn>
           <Tooltip anchorSelect="#clickable28" className="footnote-size" clickable>Brigham Young, Journal of Discourses, May 22, 1859, vol. 7, p. 139-147.</Tooltip>
 
           Mormon apostle Heber Kimball stated in 1859, “That
@@ -373,7 +373,7 @@ const Chap2 = () => {
           which Daniel saw; and this kingdom Joseph Smith was sent by the
           Almighty to establish, with its priesthood and authorities; and we
           shall prosper exceedingly, if we cleave to it.”
-          <a id="clickable29" className="footnote">29  </a>
+          <btn id="clickable29" className="footnote">29  </btn>
           <Tooltip anchorSelect="#clickable29" className="footnote-size" clickable>Heber Kimball, Journal of Discourses, October 7, 1859, vol. 7, p. 329.</Tooltip>
         </p>
       </div>
@@ -386,7 +386,7 @@ const Chap2 = () => {
           kingdom of darkness, and establish his kingdom, and afford protection
           to the honest in heart among all nations, to introduce a reign of
           righteousness that shall ultimately prevail over the world.”
-          <a id="clickable30" className="footnote">30  </a>
+          <btn id="clickable30" className="footnote">30  </btn>
           <Tooltip anchorSelect="#clickable30" className="footnote-size" clickable>John Taylor, Journal of Discourses, January 10, 1858, vol. 7, p. 124.</Tooltip>
         </p>
 
@@ -400,7 +400,7 @@ const Chap2 = () => {
             Alexander; and that world power would be replaced by the Roman
             Empire; and Rome would be replaced by a group of nations of Europe
             represented by the toes of the image.”
-            <a id="clickable31" className="footnote">31  </a>
+            <btn id="clickable31" className="footnote">31  </btn>
             <Tooltip anchorSelect="#clickable31" className="footnote-size" clickable>Spencer Kimball, The Stone Cut without Hands, General Conference, April 1976.</Tooltip>
           </p>
         </div>
@@ -411,14 +411,14 @@ const Chap2 = () => {
             kingdom, which shall never be destroyed: and the kingdom shall not
             be left to other people, but it shall break in pieces and consume
             all these kingdoms, and it shall stand forever.” 
-            <a id="clickable32" className="footnote">32  </a>
+            <btn id="clickable32" className="footnote">32  </btn>
             <Tooltip anchorSelect="#clickable32" className="footnote-size" clickable>Spencer Kimball, The Stone Cut without Hands, General Conference, April 1976.</Tooltip>
             
             In that talk
             Spencer Kimball quotes a revelation to Joseph Smith, “And even so I have
             sent mine everlasting covenant into the world … to be a standard for
             my people … Wherefore, come ye unto it.” 
-            <a id="clickable33" className="footnote">33  </a>
+            <btn id="clickable33" className="footnote">33  </btn>
             <Tooltip anchorSelect="#clickable33" className="footnote-size" clickable>D&C 45:1-3, 9, 10.</Tooltip>
             
             Then Spencer Kimball goes on to
@@ -470,7 +470,7 @@ const Chap2 = () => {
             revealed, and gradually enough light and enough people were there
             for the organization of this kingdom of God which Daniel saw two and
             a half millennia ago.” 
-            <a id="clickable34" className="footnote">34  </a>
+            <btn id="clickable34" className="footnote">34  </btn>
             <Tooltip anchorSelect="#clickable34" className="footnote-size" clickable>Spencer Kimball, The Stone Cut without Hands, Genal Conference, April 1976.</Tooltip>
           </p>
         </div>
@@ -484,7 +484,7 @@ const Chap2 = () => {
             Latter-day Saints as it is now constituted is the kingdom of God on
             earth … The kingdom is here, and it is the same kingdom which Daniel
             said would be set up in the last days.” 
-            <a id="clickable35" className="footnote">35  </a>
+            <btn id="clickable35" className="footnote">35  </btn>
             <Tooltip anchorSelect="#clickable35" className="footnote-size" clickable>Bruce McConkie, Mormon Doctrine, 2d edition, p. 415.</Tooltip>
 
             In 1988, Prophet Ezra Benson
@@ -492,7 +492,7 @@ const Chap2 = () => {
             Saints is the kingdom which Daniel prophesied God would set up in
             the latter days, never to be destroyed, a stone that would
             eventually fill the whole earth and stand forever.”
-            <a id="clickable36" className="footnote">36  </a>
+            <btn id="clickable36" className="footnote">36  </btn>
             <Tooltip anchorSelect="#clickable36" className="footnote-size" clickable>Erza Benson, General Conference, Oct 1988.</Tooltip>
           </p>
         </div>
@@ -510,7 +510,7 @@ const Chap2 = () => {
             kingdom, which shall never be destroyed: and the kingdom shall not
             be left to other people, but it shall break in pieces and consume
             all these kingdoms, and it shall stand for ever (Dan. 2:44).’”
-            <a id="clickable37" className="footnote">37  </a>
+            <btn id="clickable37" className="footnote">37  </btn>
             <Tooltip anchorSelect="#clickable37" className="footnote-size"  clickable>Gordon Hinckley, At the Summit of the Ages, 1999.</Tooltip>
           </p>
         </div>

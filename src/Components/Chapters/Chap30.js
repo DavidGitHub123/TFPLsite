@@ -16,7 +16,7 @@ const Chap30 = () => {
 
       <h1 className='chapterHeading'>Chapter 30: The Second Coming End Date of 1891</h1>
 
-      <img src={destruction} className='image' alt='Art of modern city burning' />
+      <img src={destruction} className='image' alt='Modern city burning' />
 
     <div className="wrapper">
 
@@ -26,12 +26,12 @@ const Chap30 = () => {
             hopes of fulfilling the dream of one day returning to Jackson County. There, on the holy ground of the Garden of Eden, the Mormons would build the holy city of 
             Zion, the New Jerusalem, preparatory to the Second Coming. In 1886 the Millennial Star quoted Mormon apostle Moses Thatcher, “… the time of our deliverance 
             will be within five years; the time indicated will be February 14, 1891.”  
-            <a id="clickable1" className="footnote">1 </a>
+            <btn id="clickable1" className="footnote">1 </btn>
             <Tooltip anchorSelect="#clickable1" className="footnote-size" clickable>Abraham Cannon Journal, October 14, 1886.  </Tooltip>
             
             But deliverance never came. In 1903, Benjamin Johnson recorded his disappointment: “… we were over 70 years ago taught by our leaders to believe that the coming of 
             Christ and the Millennial reign was much nearer than we believe it to be now.” 
-            <a id="clickable2" className="footnote">2 </a>
+            <btn id="clickable2" className="footnote">2 </btn>
             <Tooltip anchorSelect="#clickable2" className="footnote-size" clickable>Benjamin Johnson, My Life's Review, p. 7; Dean R. Zimmerman ed., I Knew the Prophets:  An Analysis of the letter of Benjamin F. Johnson to George F. Gibbs, Reporting Doctrinal views of Joseph Smith and Brigham Young (Bountiful, Utah: Horizon, 1976).  </Tooltip>
           </p>
         </div>
@@ -39,11 +39,11 @@ const Chap30 = () => {
         <div className='paragraph'>
           <p>Originally, Joseph had prophesied in 1832 that the events leading to the end of the world and Christ’s return were all to take place within the lifetime, 
             “reared in this generation,”  
-            <a id="clickable3" className="footnote">3 </a>
+            <btn id="clickable3" className="footnote">3 </btn>
             <Tooltip anchorSelect="#clickable3" className="footnote-size" clickable>D&C 97:19.</Tooltip>
   
             of the early members of the church. If a generation is 20 to 30 years,  
-            <a id="clickable4" className="footnote">4 </a>
+            <btn id="clickable4" className="footnote">4 </btn>
             <Tooltip anchorSelect="#clickable4" className="footnote-size" clickable>Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip>
             
             that would place Christ’s Second Coming between 1852 and 1862.
@@ -54,7 +54,7 @@ const Chap30 = () => {
           <p>One year later, Joseph revealed another reference to the “generation” of the then-living early Mormons. On January 4, 1833, “… not many years shall pass away 
             before the United States shall present such a scene of bloodshed as has not a parallel in the history of our nation; pestilence, hail, famine, and earthquake will 
             sweep the wicked off this generation from off the face of the land … I declare unto you the warning which the Lord has commanded to declare unto this generation.”
-            <a id="clickable5" className="footnote">5 </a>
+            <btn id="clickable5" className="footnote">5 </btn>
             <Tooltip anchorSelect="#clickable5" className="footnote-size" clickable>History of the Church 1:315.</Tooltip>   
           </p>
         </div>
@@ -63,13 +63,13 @@ const Chap30 = () => {
           <p>But two years later, Joseph extended the date by 50 years. In 1835, he revealed, “... it was the will of God … [to] go forth to prune the vineyard for the last 
             time … the coming of the Lord, which was nigh – even fifty-six years should wind up the scene.” From this and other statements, Joseph prophesied of Christ’s 
             latest return to be 1891.  
-            <a id="clickable6" className="footnote">6 </a>
+            <btn id="clickable6" className="footnote">6 </btn>
             <Tooltip anchorSelect="#clickable6" className="footnote-size" clickable>History of the Church 2:182.</Tooltip>   
             
             On February 14, 1835, Oliver Huntington recorded, “… Joseph Smith said that God had revealed to him that the coming of Christ would be within 56 years, which being 
             added to 1835 shows that before 1891 and the 14th of Feb. the Saviour of the world would make his appearance again upon the earth and the winding up scene take 
             place.”
-            <a id="clickable7" className="footnote">7 </a>
+            <btn id="clickable7" className="footnote">7 </btn>
             <Tooltip anchorSelect="#clickable7" className="footnote-size" clickable>Oliver Huntington, Autobiography (Typescript, Brigham Young University Special Collections) II: 129.</Tooltip> 
           </p>
         </div>
@@ -78,13 +78,13 @@ const Chap30 = () => {
           <p>Luman Shirtluff recorded, “At the April conference, 1840, the Prophet Joseph, while speaking to some of the elders on this matter said they were mistaken; the 
             Lord would not come in ten years, no, nor in twenty years, no, nor in thirty years; no, nor in forty years, and it will be almost fifty years before the Lord will 
             come.”  
-            <a id="clickable8" className="footnote">8 </a>
+            <btn id="clickable8" className="footnote">8 </btn>
             <Tooltip anchorSelect="#clickable8" className="footnote-size" clickable>Luman Shirtluff, Autobiography, Typescript (Provo Utah: Brigham Young University Library Special Collections): 44.</Tooltip> 
             
             In an April 1843 conference, Joseph predicted that Christ would not return before he reached 85 years of age (1891). “Were I going to prophesy, I would say the 
             end [of the world] would not come in 1844, 5, or 6, or in forty years. There are those of the rising generation who shall not taste death till Christ comes … 
             I prophesy in the name of the Lord God, and let it be written, the Son of Man will not come in the clouds of heaven till I am eighty-five years old.”  
-            <a id="clickable9" className="footnote">9 </a>
+            <btn id="clickable9" className="footnote">9 </btn>
             <Tooltip anchorSelect="#clickable9" className="footnote-size" clickable>History of the Church 5:336.</Tooltip> 
       
             Needless to say, the “rising generation” passed away, as well as a few other generations.
@@ -96,7 +96,7 @@ const Chap30 = () => {
             “Many of these young men and maidens that are here today will, in my opinion, if they are faithful, stand in the flesh when Christ comes in the clouds of heaven. 
             These young people … will stand in the flesh while the judgments of the Almighty sweep the nations of the earth as with a besom of destruction, in fulfillment of 
             the revelations of God.”
-            <a id="clickable10" className="footnote">10 </a>
+            <btn id="clickable10" className="footnote">10 </btn>
             <Tooltip anchorSelect="#clickable10" className="footnote-size" clickable>Discourses of Wilford Woodruff: 255, quoting the Millennial Star 51: 595-596.</Tooltip> 
           </p>
         </div>
@@ -104,19 +104,19 @@ const Chap30 = () => {
         <div className='paragraph'>
           <p>Throughout the 19th century, countless patriarchal blessings referred to the near return of Christ. These blessings stated that the rising generation would not 
             taste death until after Christ comes. Lyman Johnson was promised that “He shall see the Savior come and stand upon the earth with power and great glory.”  
-            <a id="clickable11" className="footnote">11 </a>
+            <btn id="clickable11" className="footnote">11 </btn>
             <Tooltip anchorSelect="#clickable11" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 188.</Tooltip> 
             
             Heber Kimball was promised that “He may stand unto the coming of our Lord.”  
-            <a id="clickable12" className="footnote">12 </a>
+            <btn id="clickable12" className="footnote">12 </btn>
             <Tooltip anchorSelect="#clickable12" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 189. </Tooltip> 
             
             Orson Hyde was promised “That he may stand upon the earth and bring souls till Christ comes.”  
-            <a id="clickable13" className="footnote">13 </a>
+            <btn id="clickable13" className="footnote">13 </btn>
             <Tooltip anchorSelect="#clickable13" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 190.</Tooltip> 
             
             William Smith was blessed that “he shall be preserved and remain on the earth until Christ shall come to take vengeance on the wicked.”
-            <a id="clickable14" className="footnote">14 </a>
+            <btn id="clickable14" className="footnote">14 </btn>
             <Tooltip anchorSelect="#clickable14" className="footnote-size" clickable>Documentary History of the Church vol 2; p. 191.</Tooltip> 
           </p>
         </div>
@@ -137,14 +137,14 @@ const Chap30 = () => {
           <p>Speaking in 1988, more than 30 years ago, Mormon prophet Ezra Benson said to the youth of the church “God has held you in reserve to make your appearance in the 
             final days before the Second Coming of the Lord … God has saved for the final inning some of His strongest children, who will help bear off the kingdom 
             triumphantly …”  
-            <a id="clickable15" className="footnote">15 </a>
+            <btn id="clickable15" className="footnote">15 </btn>
             <Tooltip anchorSelect="#clickable15" className="footnote-size" clickable>Ezra Taft Benson, The Teachings of Ezra Taft Benson (1988), 104-5.</Tooltip> 
             
             If a generation is 20-40 years, this is a false prophecy. Mormon prophet Ezra Benson said in 1979, 45 years ago, “For nearly six thousand years, God has held you 
             in reserve to make your appearance in the final days before the Second Coming of the Lord … God has saved for the final inning some of his strongest children … 
             you are the generation that must be prepared to meet your God.” Ezra continues, “All through the ages the prophets have looked down through the corridors of time 
             to our day. Billions of the deceased and those yet to be born have their eyes on us. Make no mistake about it—you are a marked generation.”
-            <a id="clickable16" className="footnote">16 </a>
+            <btn id="clickable16" className="footnote">16 </btn>
             <Tooltip anchorSelect="#clickable16" className="footnote-size" clickable>Ezra Benson, In His Steps, March 4, 1979.</Tooltip> 
           </p>
         </div>
@@ -154,7 +154,7 @@ const Chap30 = () => {
             will the Lord God sanctify the earth, and complete the salvation of man, and judge all things, and shall redeem all things … unto the end of all things; and the 
             sounding of the trumpets of the seven angels are the preparing and finishing of his work, in the beginning of the seventh thousand years – the preparing of the way 
             before the time of his coming.”
-            <a id="clickable17" className="footnote">17 </a>
+            <btn id="clickable17" className="footnote">17 </btn>
             <Tooltip anchorSelect="#clickable17" className="footnote-size" clickable>D&C 77:12. Bruce McConkie, The Promised Messiah p.606.</Tooltip> 
           </p>
         </div>
@@ -180,7 +180,7 @@ const Chap30 = () => {
           <p>For nearly 200 years, the church has promised every generation that they are the chosen generation to usher in the Second Coming – only for that generation 
             to pass away with that promise unfulfilled. Countless patriarchal blessings promised Mormons that they will live to see the Second Coming. 
             If a generation is 20 to 30 years,  
-            <a id="clickable18" className="footnote">18 </a>
+            <btn id="clickable18" className="footnote">18 </btn>
             <Tooltip anchorSelect="#clickable18" className="footnote-size" clickable>Jack Fenner, 28 March 2005, Cross-Cultural Estimation of the Human Generation Interval for Use in Genetics-Based Population Divergence Studies, American Journal of Physical Anthropology. 128: 415–423.</Tooltip> 
             
             that means seven generations have passed, with those promises unfulfilled. The first generation of Mormons passed away – and their sacrifices with them. Then the second generation passed. And the third generation. By 1891, Mormons paying attention were left bewildered. Joseph’s prophetic vision had failed spectacularly. There are two conclusions. Christ was never speaking to Joseph. Or Christ has other plans and they don’t include the Mormons.
@@ -198,7 +198,7 @@ const Chap30 = () => {
              central Utah, scraping out an existence among the sagebrush, faithfully paying 10 percent of their meager income to the church, Brigham and his favorite wives 
              were living the highlife. It should be mentioned that $1,000,000 of Brigham’s wealth was a $1,000,000 interest-free loan from church tithing funds. So, his estate 
              was really worth a mere $600,000. (Equivalent of $17 million today.)
-             <a id="clickable19" className="footnote">19 </a>
+             <btn id="clickable19" className="footnote">19 </btn>
             <Tooltip anchorSelect="#clickable19" className="footnote-size" clickable>Utah History Encyclopedia, Brigham Young, Newell Bringhurst.</Tooltip> 
 
           </p>
@@ -210,7 +210,7 @@ const Chap30 = () => {
             You allow yourselves to doubt anything that God has revealed, (here comes the threat) and it will not be a great while before you begin to neglect your prayers, 
             refuse to pay your Tithing, and find fault with the authorities of the Church. You will be repeating what apostates all say, ‘The Tithing is not used a right,’ 
             etc. … God has so blessed me with regard to things pertaining to this world … the right to dictate the use of the tithing belongs to me.”
-            <a id="clickable20" className="footnote">20 </a>
+            <btn id="clickable20" className="footnote">20 </btn>
             <Tooltip anchorSelect="#clickable20" className="footnote-size" clickable>Discourse by President Brigham Young, delivered at Logan, Cache Valley, Sunday, Aug. 15, 1876.</Tooltip> 
           </p>
         </div>
