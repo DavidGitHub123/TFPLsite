@@ -9,9 +9,9 @@ const Chap23 = () => {
     <div className="chapter-container">
 
       <div className="chapterFooter">
-        <Link to="/Chap22">Previous Chapter</Link>
+        <Link to="/Chap22">Previous</Link>
         <Link to="/">Home</Link>
-        <Link to="/Chap24">Next Chapter</Link>
+        <Link to="/Chap24">Next</Link>
       </div>
 
       <h1 className='chapterHeading'>Chapter 23: Council of Fifty and King Over All the Earth</h1>
@@ -420,9 +420,9 @@ const Chap23 = () => {
         </div>
 
         <div className="chapterFooter">
-        <Link to="/Chap22">Previous Chapter</Link>
+        <Link to="/Chap22">Previous</Link>
         <Link to="/">Home</Link>
-        <Link to="/Chap24">Next Chapter</Link>
+        <Link to="/Chap24">Next</Link>
       </div>
       
     </div>

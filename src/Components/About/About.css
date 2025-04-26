@@ -1,8 +1,6 @@
 .about {
     margin: 100px auto;
     display: flex;
-    /* align-items: center;
-    justify-content: center; */
     width: 70%;
 }
 
@@ -49,16 +47,40 @@
 
     .about {
         flex-direction: column;
+        margin: 0px auto;
     }
+
 
     .about-left {
         flex-basis: 100%;
         margin-top: 50px;
-        order: 1;
+        /* order: 1; */
     }
 
     .about-right {
         flex-basis: 100%;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    .about {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .about-img {
+        border-radius: 0px;
+        margin-bottom: 30px;
+    }
+
+    .about-right {
+        margin: 0;
+        width: 90%;
     }
 
 }

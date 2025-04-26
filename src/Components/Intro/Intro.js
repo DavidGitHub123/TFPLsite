@@ -11,7 +11,7 @@ const Chap1 = () => {
 
         <div className="chapterFooter">
           <Link className="" to="/">Home</Link>
-          <Link to="/Chap1">Next Chapter</Link>
+          <Link to="/Chap1">Next</Link>
         </div>
 
         <h1 className="chapterHeading">
@@ -221,7 +221,7 @@ const Chap1 = () => {
 
         <div className="chapterFooter">
           <Link className="" to="/">Home</Link>
-          <Link to="/Chap1">Next Chapter</Link>
+          <Link to="/Chap1">Next</Link>
         </div>
 
       </div>
